@@ -889,7 +889,7 @@ Graphics._updateCanvas = function() {
     this._canvas.width = this._width;
     this._canvas.height = this._height;
     this._canvas.style.zIndex = 1;
-    // this._centerElement(this._canvas);
+    this._centerElement(this._canvas);
 };
 
 Graphics._updateVideo = function() {
