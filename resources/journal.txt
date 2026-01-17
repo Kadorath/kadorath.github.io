@@ -1,3 +1,9 @@
+<h4> <b>1/17/2026</b> </h4>
+<p>
+    Alright, I've just moved the location of this journal's data file to my remote repository. Hopefully,
+    if I just push that, it should update on the site! Let's see...
+</p>
+
 <h4> <b>1/16/2026</b> </h4>
 <p>End of the first week of the new project. Dealing with networking nonsense. Turns out Android phones
 ignore UDP broadcasts, so you have to jump through some hopes, acquire a multicast lock, all that. almost
