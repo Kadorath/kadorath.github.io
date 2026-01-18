@@ -1,0 +1,150 @@
+<h4> <b>1/17/2026</b> </h4>
+<p>
+    Alright, I've just moved the location of this journal's data file to my remote repository. Hopefully,
+    if I just push that, it should update on the site! Let's see...
+</p>
+
+<h4> <b>1/16/2026</b> </h4>
+<p>End of the first week of the new project. Dealing with networking nonsense. Turns out Android phones
+ignore UDP broadcasts, so you have to jump through some hopes, acquire a multicast lock, all that. almost
+got the basic lobby, peer, host connection stuff working. We've also been doing a whole lot of brainstorming.
+So many meetings...</p>
+<p>It might be good for me to write more about that brainstorming here, for posterity. But I'm too tired today...
+I assume the dev blog will have that sort of information though. Maybe I'll talk about it tomorrow, if nothing
+interesting happens to me then.</p>
+
+<h4> <b>1/15/2026</b> </h4>
+<p>I've been getting tired so quickly. I guess it's still jetlag, combined with suddenly having to do more
+stuff throughout the day. I'm reading <em>Eugene Onegin</em> for my elective this semester. I have a Russian
+roommate, and he rolled his eyes when he saw the book, which I found funny. It sounded like the book is in Russia like
+<em>Catcher in the Rye</em> in the U.S. Well, I've never heard of it, so.</p>
+
+<p>I made some risotto.</p>
+<h4> <b>1/14/2026</b> </h4>
+<p>ugh, socket programming and android</p>
+
+<h4> <b>1/13/2026</b> </h4>
+<p>Ahhhh! I'm so jetlagged, so this was a terrible time to try and use this space as a daily journal. 
+It's not really January 13th right now, but shh.</p>
+
+<p>My final project at the ETC is getting under way. My team this semester seems far more
+promising, and so I am excited. I'll be working with five other people who are invested,
+enthusiastic, and competent, which is always good. The main risk looking forward is likely
+going to be just making sure that everyone stays aligned and doesn't end up hating each
+other, as it usually seems to be when a bunch of people who care deeply work on the same
+thing.</p>
+
+<p>I believe we've settled on a team name, 'Big Picture Studio'. Sounds very AA game studio,
+which is fun. The project was a student pitch that I was conscripted to. It's a game-focused
+project, which is good for me. The goal is to make a game that uses multiple phones positioned
+together on a table. I suppose the main exploratory part of the idea is to try and design a
+game that is broken up across multiple independent screens. Should be fun. We still need to
+figure out exactly what it is we'll want to do.</p>
+
+<p>(also I just finally pulled Meta Freddy in my 'favorite' game, Dislyte, as I write this)</p>
+
+<h4> <b>1/12/2026</b> </h4>
+<p>Okay, enough sadness. I have returned home. I technically missed rhe 11th, but cross-timezone travel is weird, 
+you know?</p>
+
+<p>Delta actually cancelled our flight without warning the morning of. We just got a text
+notifying us, but no information about why. Then we had to rebook manually, and we managed to
+rebook to a flight with a layover in Korea. But then, that flight to Korea just disappeared, so
+we just had a flight from Korea to Pitt, which we obviously couldn't make. It was chaos. There
+were no other flights to Pitt that day, but we managed to instead fly from Hawaii to New York,
+and then rent a car and drive 6 hours to Pittsburgh. So that worked out, but I am very tired now.</p>
+
+<p>First day of the new ETC project too. I'll say more about it later, but I'm excited about the team. 
+I think we'll be able to do a lot.</p>
+
+<h4> <b>1/10/2026</b> </h4>
+<p>did some shopping today. just got an email rejection from a job application I was really
+hopeful for. i wanted to at least interview. if i wasnt a good fit enough to even talk to for
+that, then what am I even a good fit for. I know that I'll have hundreds of rejections lookijg
+for a job, and this is just one. but i hate this so much. i hate myself so much.</p>
+
+<h4> <b>1/9/2026</b> </h4>
+<p>i almost broke my resolution immediately. But i will type something on my phone before I sleep. 
+I won that Zootopia 2 Nick Wilde figure at Akihabara GiGO 5. and I went to a Sushiro in Yurakucho with my family. good night.</p>
+
+<p>oh, and we did a tea ceremony thing as well. that was fun.</p>
+
+<h4> <b>1/8/2026</b> </h4>
+<p>Oh yeah, looks Cyberduck works. There's probably more I could do to make updating the
+journal more user-friendly, but this is a good start.</p>
+
+<p>Anyways, I'm in Japan right now. I've been here for about a week now. It's great timing.
+All of the collab cafes and pop-up shops and stuff for the release of Zootopia 2 are happening
+right now in Japan. I completed the Tokyo Metro Zootopia 2 Stamp Rally, went to a pop up shop,
+went to a collab cafe, and won some Zootopia prizes from a claw machine. I plan on going to
+the GiGO Building 5 in Akihabara tomorrow, since there's some kind of new Nick Wilde figure
+that will debut in a claw machine there. This has really turned into a Zootopia trip in many
+ways. There's not really Zootopia fandom merch in the United States though, so it's excellent.</p>
+
+<p>My dad has also finally arrived in Tokyo today. I showed him around the Mega Don Quijote
+in Shibuya. I love that place. We also went to an Ichiran. And we met up with my sister
+(who is also in Tokyo now) to go do the whole top deck tour at the Tokyo Tower. Doing all
+of the touristy things, you know? So that's all been good.</p>
+
+<h4> <b>1/8/2026</b> </h4>
+<p>ugh, 2026. Welp.</p>
+
+<p>I'm trying the WebDAV thing. I want to make it less inconvenient for me to update this page,
+since ideally I'd like to treat this journal more like a diary. But I'm lazy, so if there's too
+much friction updating the page <em>every</em> day, I know that I'm just not going to do it
+eventually.</p>
+
+<h4> <b>12/17/2025</b> </h4>
+<p>I survived my 2nd ETC project. I haven't noted anything about it here, but it was largely a
+success, despite great adversity. And those of my peers who know me know well what that
+adversity is. But I won't say more here, although I know that the people I wouldn't want to
+know all my thoughts will never see this.</p>
+
+<p>Anyways, I also just fixed up my portfolio page a bit, and I'm working on a little silly slot
+machine game. I do despise the modern proliferation of gambling, with the legalization of
+online sports betting books and all that... but I can't help but be a hypocrite when it comes to
+classic video slot machines. They're so maximalist, I just can't resist them.</p>
+
+<p>I gotta put give it its own page, once it's done. I also just need to finish more pages
+around here. This place is like a one-room apartment at the moment. I have started compressing
+many of the images I use here, so that it doesn't take one million years to load everything.</p>
+
+<h4> <b>11/2/2025</b> </h4>
+<p>Finally put a star on the index watchman. Gotta finish filling that out eventually...</p>
+
+<h4> <b>08/20/2025</b> </h4>
+<p>Back from Worldcon 2025, reorganized my portfolio page and changed up its color scheme. Also linked some more 
+random experimental pages here, but they're a bit broken.</p>
+
+<p>I tried out VSCode's Copilot integrated assistant features, so that I could get a sense of what "vibe coding" 
+is actually like. You know, gotta know my enemy, in a sense. But now that I've enabled it once, even now it's 
+trying to suggest what <em>text</em> I should be writing here, like an overeager puppy. It worked surprisingly 
+well, although I ended up having to rip of the overly clean page it generated for me and add some of the organic 
+grime that I like. I'm not sure. It's such an odd feature to me. I can't say it doesn't work, but it feels... wrong.</p>
+
+<p>It feels as though every conversation I have about my studies end up coming around to AI.
+Especially with non-technical people. Everyone has to ask me about what I think about
+Copilot coming into the professional workspace, <s>and I have to explain that I don't think it
+will replace programmers</s> that I think that it is bitterly ironic that it seems poised to
+replace software developers before it replaces artists. But I think that that's natural.
+Programming is seen as a means to produce a product, not something with soul. Of course a
+machine could replace that. The notion makes me sad, but I don't think that enough people
+share the same wonder for computers these days, and so what can you do? I should at least
+know what seems to be coming.</p>
+
+<p>Writing this down here, so that I can see how my outlook has changed in the future.</p>
+
+<h4> <b>07/24/2025</b> </h4>
+<p>Marking this day as the day that I have returned to finish making this place. So much to do, both here and 
+outside. Things are so stressful these days, but I Feel oddly like I have a solid grasp on everything. We'll see 
+how long that lasts.</p>
+
+<h4> <b>02/10/2025</b></h4>
+<p>Okay, I really need to go to sleep. I have a bunch of meetings tomorrow, and I gotta finish (fix) my computer 
+graphics homework. My line rasterizer is still super scuffed.</p>
+
+<h4> <b>02/10/2025</b></h4>
+<p>Working on this into midnight, that makes this the second day. Heck yeah</p>
+
+<h4> <b>02/09/2025</b></h4>
+<p>I can't tell if this site is impossible to look at or if I've just been staring at it for too long.</p>
