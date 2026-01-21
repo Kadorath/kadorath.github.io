@@ -1,3 +1,21 @@
+<h4> <b>1/20/2026</b> </h4>
+<p>
+    I've been getting rather stressed about getting older and finding a job lately. I mean, I'm still
+    pretty young, of course. But I'm an adult now. And eventually I'll be an Adult. And then I'll
+    be middle-aged. Then I'll be elderly. It's terrifying. But what can I do.
+</p>
+<p>
+    Besides mortality, there are a multitude of reasons why this thought makes me anxious, but they're
+    too much for me to unpack at the moment.
+</p>
+<h4> <b>1/19/2026</b> </h4>
+<p>
+    It's MLK Jr. and I'm still feelin' anxious. Very cool.
+</p>
+<h4> <b>1/18/2026</b> </h4>
+<p>
+    I'm rather anxious today
+</p>
 <h4> <b>1/17/2026</b> </h4>
 <p>
     Alright, I've just moved the location of this journal's data file to my remote repository. Hopefully,
