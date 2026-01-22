@@ -1,3 +1,31 @@
+<h4> <b>1/21/2026</b> </h4>
+<p>
+    I'm finally starting to get a handle on socket programming.
+</p>
+<p>
+    There are a lot of ideas bouncing around between my project team for this
+    'four phone experience'. The first prototype that I need to implement is the
+    most basic case: once the four phones are connected (I'm trying to do the lobby Spaceteam-style)
+    each screen shows the same glitchy static. Players place their phones on the table next to each other,
+    and by pinching between two screens, they 'connect' them, resulting in the static on those phone screens
+    resolving to show part of an image that crosses between the boundaries of the screen. They're guided to
+    do that for all four screens in a basic square, thus introducing the basic mechanic of the game.
+</p>
+<p>
+    What that will communicate story-wise, that's up to the others. I just gotta make this work on a technical
+    level first.
+</p>
+<p>
+    I have had some ideas of my own that I would like to at least try prototyping. I want one phone to suddenly
+    receive a 'call', having a player pick it up from the formations on the table to listen in to some audio.
+</p>
+<p>
+    I also want to have an arrangement of three phones, with one phone disconnected as a satellite. Say, the
+    three connected phones show a long horizontal landscape, while the disconnected phone is a completely separate
+    visual of a clock. Turning the hands of the clock back and forth on the satellite phone would cause the sun and moon
+    to whirl around correspondingly on the three connected phones. Something like that. Disconnect one phone physically,
+    but have it still share a strong abstract connection with its siblings.
+</p>
 <h4> <b>1/20/2026</b> </h4>
 <p>
     I've been getting rather stressed about getting older and finding a job lately. I mean, I'm still
