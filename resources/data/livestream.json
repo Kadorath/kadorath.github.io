@@ -1,4 +1,5 @@
-[
+{
+"data": [
     [
         {"name": "anonymouse", "msg": "I can't believe you don't have more viewers!"},
         {"name": "helloworld", "msg": "ikr?"},
@@ -18,6 +19,7 @@
     ],
     [
         {"name": "Nyxo", "msg": "stream ending soon?"},
-        {"name": "ToolsGaming", "msg": "i think this is one of those 24 hour challenges?"},
+        {"name": "ToolsGaming", "msg": "i think this is one of those 24 hour challenges?"}
     ]
 ]
+}
