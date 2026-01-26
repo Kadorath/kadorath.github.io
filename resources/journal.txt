@@ -11,7 +11,7 @@
 <p>
     I went for a short walk to the coffee shop on my block. I didn't think that it would
     be open; I really just wanted to walk a bit in the snow.
-    <img src="https://kadorath.github.io/resources/images/journal/snowstorm.jpg>
+    <img src="https://kadorath.github.io/resources/images/journal/snowstorm.jpg">
     It was like walking around a ski lodge. And it wasn't as cold as it has been the past couple
     days, so it was altogether pretty nice out.
 </p>
