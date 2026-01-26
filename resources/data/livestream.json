@@ -46,6 +46,17 @@
         {"name": "SMOKEATOR", "msg": "21"},
         {"name": "SnipedKite", "msg": "21"},
         {"name": "grindsettech", "msg": "hey, you already said that"}
+    ],
+    [
+        {"name": "Cna92jkdls", "msg": "Check out my stream for awesome live pranks!"},
+        {"name": "TheViper", "msg": "ew, no self-promo"},
+        {"name": "onehalfsaucejar", "msg": "mods?"}
+    ],
+    [
+        {"name": "_JuniorJackal", "msg": "is the stream lagging for everyone else?"},
+        {"name": "Sofiaflux", "msg": "looks fine to me?"},
+        {"name": "SirBrain", "msg": "Do you have a VPN enabled? sometimes that interferes"},
+        {"name": "_JuniorJackal", "msg": "oh, it's working now"}
     ]
 ]
 }
