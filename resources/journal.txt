@@ -1,3 +1,14 @@
+<h4> <b>1/26/2026</b> </h4>
+<p>
+    Spent the day struggling with mobile phone swipe controls and some general networking confusion.
+    But by the end of the day I learned how to actually set up a dev environment for four Android phones
+    in Unity. I got the USB debugging with ADB all set up, and I can deploy to all four of my Android phones
+    with the click of a button, and I'm using Android Logcat to see the console output of each phone.
+</p>
+<p>
+    Hopefully I'll be able to get something done now.
+</p>
+
 <h4> <b>1/25/2026</b> </h4>
 <p>
     boy oh boy, I feel much better today.
