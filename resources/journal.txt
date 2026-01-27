@@ -1,3 +1,8 @@
+<h4> <b>1/27/2026</b> </h4>
+<p>
+    This site is finally starting to feel less "Under Construction" to me. At least,
+    now only specific parts feel that way.
+</p>
 <h4> <b>1/26/2026</b> </h4>
 <p>
     Spent the day struggling with mobile phone swipe controls and some general networking confusion.
