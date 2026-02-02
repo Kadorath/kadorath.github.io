@@ -6,7 +6,7 @@
     hints are extremely obtuse, but oh well. It <em>looks</em> really cool. This game is for US. Screw the player, they're our lowest priority.
     I don't think that anyone could figure out what they're supposed to do without external guidance, at least not in this iteration...
 
-    Here are some photos from our creation "apartment(1).fbx":
+    Here are some photos from our creation "apartment(1).fbx" (<a href=https://globalgamejam.org/games/2026/apartment1fbx-4>ggj link</a>):
     <img src="https://kadorath.github.io/resources/images/journal/apartment1.jpg">
     <img src="https://kadorath.github.io/resources/images/journal/apartment2.jpg">
     <img src="https://kadorath.github.io/resources/images/journal/apartment3.jpg">
