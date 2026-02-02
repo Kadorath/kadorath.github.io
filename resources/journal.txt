@@ -3,7 +3,7 @@
 <p>
     We finished a version of the game in the nick of time (as is tradition), and it was... mostly there! It looks very cool,
     and it mostly works, and we voice acted for all the voices. I was using Pixel Crushers Dialogue System to run the dialogue,
-    and my brother was able to figure out how to get FMOD voice lines to match up to the lines super quickly. The puzzels and the dialogue
+    and my brother was able to figure out how to get FMOD voice lines to match up to the lines super quickly. The puzzles and the dialogue
     hints are extremely obtuse, but oh well. It <em>looks</em> really cool. This game is for US. Screw the player, they're our lowest priority.
     I don't think that anyone could figure out what they're supposed to do without external guidance, at least not in this iteration...
 
