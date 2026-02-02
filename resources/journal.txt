@@ -5,6 +5,12 @@
     and my brother was able to figure out how to get FMOD voice lines to match up to the lines super quickly. The puzzels and the dialogue
     hints are extremely obtuse, but oh well. It <em>looks</em> really cool. This game is for US. Screw the player, they're our lowest priority.
     I don't think that anyone could figure out what they're supposed to do without external guidance, at least not in this iteration...
+
+    Here are some photos from our creation "apartment(1).fbx":
+    <img src="https://kadorath.github.io/resources/images/journal/apartment1.jpg">
+    <img src="https://kadorath.github.io/resources/images/journal/apartment2.jpg">
+    <img src="https://kadorath.github.io/resources/images/journal/apartment3.jpg">
+    <img src="https://kadorath.github.io/resources/images/journal/apartment4.jpg">
 </p>
 <h4> <b>1/31/2026</b> </h4>
 <p>
