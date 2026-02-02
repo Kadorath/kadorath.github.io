@@ -1,4 +1,5 @@
-<h4> <b>1/31/2026</b> </h4>
+<h4> <b>2/1/2026</b> </h4>
+<p> Welcome February!</p>
 <p>
     We finished a version of the game in the nick of time (as is tradition), and it was... mostly there! It looks very cool,
     and it mostly works, and we voice acted for all the voices. I was using Pixel Crushers Dialogue System to run the dialogue,
