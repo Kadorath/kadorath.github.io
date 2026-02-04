@@ -1,4 +1,53 @@
-<h4> <b>1/27/2026</b> </h4>
+<h4> <b>2/1/2026</b> </h4>
+<p> Welcome February!</p>
+<p>
+    We finished a version of the game in the nick of time (as is tradition), and it was... mostly there! It looks very cool,
+    and it mostly works, and we voice acted for all the voices. I was using Pixel Crushers Dialogue System to run the dialogue,
+    and my brother was able to figure out how to get FMOD voice lines to match up to the lines super quickly. The puzzles and the dialogue
+    hints are extremely obtuse, but oh well. It <em>looks</em> really cool. This game is for US. Screw the player, they're our lowest priority.
+    I don't think that anyone could figure out what they're supposed to do without external guidance, at least not in this iteration...
+
+    Here are some photos from our creation "apartment(1).fbx" (<a href=https://globalgamejam.org/games/2026/apartment1fbx-4>ggj link</a>):
+    <img src="https://kadorath.github.io/resources/images/journal/apartment1.PNG">
+    <img src="https://kadorath.github.io/resources/images/journal/apartment2.PNG">
+    <img src="https://kadorath.github.io/resources/images/journal/apartment3.PNG">
+    <img src="https://kadorath.github.io/resources/images/journal/apartment4.PNG">
+    We got the "Non-Traditional Game" award from amongst 28 jam participants, so that's pretty cool. Broth's Soup got my team "Artistic Excellence"
+    last time, so we're starting our streak of getting the weirdo awards at the Pittsburgh Global Game Jam. We're all mighty chuffed about how this went,
+    overall. But now I need to focus on my project again. See you tomorrow!
+</p>
+<h4> <b>1/31/2026</b> </h4>
+<p>
+    Just did a ton of game dev today. We are making a classic 3D puzzle escape room type game. I do hate making 3D games. And our
+    artist is far more experienced with 2D than 3D. So this is more practice in what we're weaker at. However, I think it's looking good!
+    We were at it until 3AM the next day (I am writing this after the 31st). And this I think is the most stable 3D world I've ever made.
+    Physics don't seem to be glitching nearly as much as they normally do, the character controller has exactly what it needs, and not a bunch
+    of other nonsense, and the scale and the 3D environment all seem correct. Plus, my brother has a pixel shader which is quite nice. There's still
+    a lot to do in terms of actually making the puzzles we have planned link together, but it all seems to be coming together.
+</p>
+<h4> <b>1/30/2026</b> </h4>
+<p>
+    I am participating in the Pittsburgh Global Game Jam 2026. Ideated with my team today about what we're going to make by
+    Sunday. The theme this year is "Mask". We ended up deciding that we're going to make a game where you talk to various characters
+    in a mirror to get hints to... something, and those characters are just the player character putting on different masks. And the
+    'something' leads to the discovery of new masks.
+</p>
+<h<h4> <b>1/29/2026</b> </h4>
+<p>
+    I solved an annoying networking issue that had been plaguing our problem before Quarters. Turned out it was due to my own
+    undisciplined implementation of Singleton. Oops!
+</p>
+<h<h4> <b>1/28/2026</b> </h4>
+<p>
+    Survived my projects "Quarters" today. Quarters is a relatively casual milestone for ETC projects, where the faculty walk around
+    in groups and get a pseudo-presentation about the state of the project in the early phases. It went the best it ever has for me
+    this time around. Essentially all of the faculty who talked to us seemed to get what we were doing, be satisfied with what we'd done,
+    and a good handful of them offered relevant advice. The faculty here are all so different, so you never really know what you're going
+    to get from them. The director of our program called our project team "stacked" with "talent", which was a great morale boost.
+    He did preface that compliment by saying that he "our project pitch just wasn't for him" and he couldn't see himself playing the game
+    we're making. But he had high expectations that we would create something that would sway him. So... hopefully we do that.
+</p>
+<p><h4> <b>1/27/2026</b> </h4>
 <p>
 
 </p>
