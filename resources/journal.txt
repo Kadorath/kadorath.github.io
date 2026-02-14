@@ -1,3 +1,29 @@
+<h4> <b>2/14/2026</b> </h4>
+<p>
+    what a lethargic saturday.
+</p>
+<p>
+    oh wait, also happy Valentine's Day, to those who practice
+    <img src="https://kadorath.github.io/resources/images/valentinesday.gif" alt="sourced from https://www.pinterest.com/pin/2322237298706473/">
+</p>
+<h4> <b>2/13/2026</b> </h4>
+<p>
+    I think I have made the system for repositioning phones at any orientation for my school project work perfectly ('perfectly') now.
+    Also, I fixed some time syncing between the phones. Turns out NTP stuff isn't so hard. I had looked it up, and it seemed like quite A
+    robust and sophisticated tech, but I think that's really just because it's so old and has been developed to work for large enterprises.
+    Our team's use case is just that we need to sycnhronize 4 phones connected over LAN. Super easy. We seem to be getting millisecond precision
+    alignment between the phones now, although I haven't tested it <em>that</em> extensively yet.
+<p>
+<h4> <b>2/12/2026</b> </h4>
+<p>
+    Finished reading The Boarding School Girl by Nadezhda Khvoshchinskaya. I quite liked the ending. A huge relief, I must
+    say.
+<p>
+<h4> <b>2/11/2026</b> </h4>
+<p>
+    the orientation of the many phones I am dealing with is beginning to make sense. Only a couple more edge cases to figure out.
+    Granted, it feels like there shouldn't be any edge cases at all, but who am I to judge? (myself. it's my code)
+<p>
 <h4> <b>2/10/2026</b> </h4>
 <p>
     too much talking down
