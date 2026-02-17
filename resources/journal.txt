@@ -1,5 +1,12 @@
 <h4> <b>2/15/2026</b> </h4>
 <p>
+    Fixed the old bugs in my Global Game Jam game from last year, <em>Broth's Soup</em>. Caused one new bug, which I'll fix together.
+    I'm also working with one of the artists to add a new enemy, to surprise the rest of the team. Its visage is so horrifying to me
+    that, although I could show it here, I will not. At least, not tonight. I saw a skit on Youtube that made me naseuous, and this creature
+    is making me further nauseous, so I cannot bear the thought of setting up its image in this journal entry tonight.
+</p>
+<h4> <b>2/15/2026</b> </h4>
+<p>
     This Sunday, it is like any other Sunday. So I have very little to say.
 </p>
 <p>
