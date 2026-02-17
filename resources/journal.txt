@@ -1,3 +1,81 @@
+<h4> <b>2/16/2026</b> </h4>
+<p>
+    Fixed the old bugs in my Global Game Jam game from last year, <em>Broth's Soup</em>. Caused one new bug, which I'll fix together.
+    I'm also working with one of the artists to add a new enemy, to surprise the rest of the team. Its visage is so horrifying to me
+    that, although I could show it here, I will not. At least, not tonight. I saw a skit on Youtube that made me naseuous, and this creature
+    is making me further nauseous, so I cannot bear the thought of setting up its image in this journal entry tonight.
+</p>
+<h4> <b>2/15/2026</b> </h4>
+<p>
+    This Sunday, it is like any other Sunday. So I have very little to say.
+</p>
+<p>
+    I did make a tofu bahn mi.
+</p>
+<h4> <b>2/14/2026</b> </h4>
+<p>
+    what a lethargic saturday.
+</p>
+<p>
+    oh wait, also happy Valentine's Day, to those who practice
+    <img src="https://kadorath.github.io/resources/images/valentinesday.gif" alt="sourced from https://www.pinterest.com/pin/2322237298706473/">
+</p>
+<h4> <b>2/13/2026</b> </h4>
+<p>
+    I think I have made the system for repositioning phones at any orientation for my school project work perfectly ('perfectly') now.
+    Also, I fixed some time syncing between the phones. Turns out NTP stuff isn't so hard. I had looked it up, and it seemed like quite A
+    robust and sophisticated tech, but I think that's really just because it's so old and has been developed to work for large enterprises.
+    Our team's use case is just that we need to sycnhronize 4 phones connected over LAN. Super easy. We seem to be getting millisecond precision
+    alignment between the phones now, although I haven't tested it <em>that</em> extensively yet.
+<p>
+<h4> <b>2/12/2026</b> </h4>
+<p>
+    Finished reading The Boarding School Girl by Nadezhda Khvoshchinskaya. I quite liked the ending. A huge relief, I must
+    say.
+<p>
+<h4> <b>2/11/2026</b> </h4>
+<p>
+    the orientation of the many phones I am dealing with is beginning to make sense. Only a couple more edge cases to figure out.
+    Granted, it feels like there shouldn't be any edge cases at all, but who am I to judge? (myself. it's my code)
+<p>
+<h4> <b>2/10/2026</b> </h4>
+<p>
+    too much talking down
+</p>
+<p>
+    playtests, class, work, other various conversations. my throat. my voice.
+</p>
+<p>
+    I am so confused by some of the insecurities of others sometimes. People should have more
+    confidence in themselves, as a general rule, I think.
+</p>
+<h4> <b>2/9/2026</b> </h4>
+<p>
+    I have begun formatting a links page. It is not done yet, however.
+</p>
+
+<h4> <b>2/8/2026</b> </h4>
+<p>
+    hmmmmmmm...
+</p>
+<h4> <b>2/7/2026</b> </h4>
+<p>
+    I went to sleep at 9 PM to catch up on the sleep I missed yesterday, and I woke up at 10 AM (or really, I kind of woke up at 8 and sort of 
+    faded into consciousness over the next two hours). I felt pretty good in the morning, but I've felt quite lethargic throughout the day.
+    I ate too many eggs, I suspect.
+</p>
+<p>
+    I really need to finish styling the footer on the home page! It's nothing, just a placeholder right now. ARGH!!!
+</p>
+<h4> <b>2/6/2026</b> </h4>
+<p>
+    Went to sleep very late last night (playing TFT). Worked on the project for the day, then went to The Cheesecake Factory with my team.
+    Very cool.
+</p>
+<h4> <b>2/5/2026</b> </h4>
+<p>
+    I don't even remember what happened this day.
+</p>
 <h4> <b>2/4/2026</b> </h4>
 <p>
     some days, I just don't have very much to say. How many ways can I say "I worked today". Although, I did get a lot done. Reorganized, some structures, got a good
