@@ -1,4 +1,4 @@
-<h4> <b>2/15/2026</b> </h4>
+<h4> <b>2/16/2026</b> </h4>
 <p>
     Fixed the old bugs in my Global Game Jam game from last year, <em>Broth's Soup</em>. Caused one new bug, which I'll fix together.
     I'm also working with one of the artists to add a new enemy, to surprise the rest of the team. Its visage is so horrifying to me
