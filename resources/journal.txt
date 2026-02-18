@@ -9,7 +9,11 @@
 </p>
 <iframe width="400" height="400" scrolling="no" src="https://houseinthewoods.neocities.org/diffuse.html"></iframe>
 <p>
-    At the time that I first put this iframe here, this is still just a rough version of this little experiment. As of this date,
+    At the time that I first put this iframe here, this is still just a rough version of this little experiment. If you click the frame,
+    you should seem some red pixels appear and diffuse out.
+</p>
+<p>
+    As of this date,
     I have its dimensions tuned down to 30x30, which I think should be handled well by most devices. My Surface laptop begins to fail after 60x60,
     but my PC seems to be able to handle up to 100x100 just fine. I haven't tested beyond that yet.
 </p>
