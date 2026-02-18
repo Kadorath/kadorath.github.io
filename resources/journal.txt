@@ -1,5 +1,14 @@
 <h4> <b>2/16/2026</b> </h4>
 <p>
+    In the Russian Lit class I'm taking right now, we held a 'Literary Trial', which was apparently a thing that was real popular in Russia in the 1800s.
+    Watched my classmates put on an impressively competent defense of Pechorin, from <em>A Hero of Our Time</em>.
+</p>
+<p>
+    I'm also taking some time to try and get a better grasp of PDEs. Matrix math is still not totally intuitive to me, but a little
+    practice couldn't hurt.
+</p>
+<h4> <b>2/16/2026</b> </h4>
+<p>
     Fixed the old bugs in my Global Game Jam game from last year, <em>Broth's Soup</em>. Caused one new bug, which I'll fix together.
     I'm also working with one of the artists to add a new enemy, to surprise the rest of the team. Its visage is so horrifying to me
     that, although I could show it here, I will not. At least, not tonight. I saw a skit on Youtube that made me naseuous, and this creature
