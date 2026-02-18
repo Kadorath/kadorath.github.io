@@ -7,6 +7,12 @@
     I'm also taking some time to try and get a better grasp of PDEs. Matrix math is still not totally intuitive to me, but a little
     practice couldn't hurt.
 </p>
+<iframe width="400" height="400" scrolling="no" src="https://houseinthewoods.neocities.org/diffuse.html"></iframe>
+<p>
+    At the time that I first put this iframe here, this is still just a rough version of this little experiment. As of this date,
+    I have its dimensions tuned down to 30x30, which I think should be handled well by most devices. My Surface laptop begins to fail after 60x60,
+    but my PC seems to be able to handle up to 100x100 just fine. I haven't tested beyond that yet.
+</p>
 <h4> <b>2/16/2026</b> </h4>
 <p>
     Fixed the old bugs in my Global Game Jam game from last year, <em>Broth's Soup</em>. Caused one new bug, which I'll fix together.
