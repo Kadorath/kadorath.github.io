@@ -1,4 +1,38 @@
-<h4> <b>2/22/2026</b> </h4>
+<h4> <b>2/25/2026</b> </h4>
+<p>
+    'tis my birthday! I am 24 now. It is also the day of a big milestone presentation for my grad program project, so... deferring most
+    celebration till Spring Break next week.
+</p>
+<p>
+    The presentation went well. I made an ill-proportioned pourover coffee that ended up being more like espresso than a pourover. I drank that,
+    my team producer drank that, we both almost exploded, but the presentation came together, and I think it went well. Still felt a bit messy to me;
+    I basically blacked out during it. But I said what I needed to say, at a reasonable pace. I also took point on answering all of the faculty
+    questions, which I resolved I wouldn't do this time, but oh well. I think my answers went well. Initial feedback seemed good. Our advisor whispered to us
+    "good job" on the way out, and the questions we were asked indicated an understanding of our project, which isn't always a given here, so that is good.
+    We also got some emails afterward that indicated good things. But we'll see when we get the feedback. Regardless, it is what it is. I must prepare for GDC now,
+    that's the real milestone. I need to enhance some of the shoddy networking. We need some TCP sockets, I think.
+</p>
+<p>
+    Although I'm deferring my birthday celebration a bit, I still got gifts and well wishes, which is always nice. A first year that we share a birthday with
+    had a whole setup where she had a large gathering of people, and me and my twin got summoned up to share in her celebration, which was nice. She went out of her
+    way to get two cakes! I think that was for me and my twin to celebrate with her? I'm actually not entirely sure... I was still thinking about how our Halves presentation
+    went. But it was quite thoughtful of her to include us. I must get her a late birthday gift.
+</p>
+<p>
+    Especially since she also got the two of us gifts. She gave us some Peep scented bunny plushes. I also got an awesome handcarved stamp from
+    my brother's partner, and a House Funko Pop from a friend with clay bunny ears and giant clay breasts (it's simply too much for me to explain
+    this at the moment, but it was a most wonderful gift). My brother also gave me a check for some money, using some new checks from a checkbook he ordered
+    from the bank. I have gotten him a very nice pen, although its shipment was delayed.
+</p>
+<p>
+    Overall, a good day. Almost halfway there. Frightening.
+</p>
+<h4> <b>2/24/2026</b> </h4>
+<p>
+    Currently undergoing the most chaotic presentation preparation I've ever been through. Also doesn't
+    help that I am unaccountably filled with rage today. Something is in the air.
+</p>
+<h4> <b>2/23/2026</b> </h4>
 <p>
     More progress was made today than I expected.
 </p>
