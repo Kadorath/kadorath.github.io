@@ -57,13 +57,13 @@
 </p>
 <p>
     Things feel quite wrong in the world these days. But at least I could have my friends eat this magnificent pie.
-    <div style="display: flex; gap: 24px; width:90%; aspect-ratio: 1/0.5; justify-content: space-evenly; justify-self: center">
 </p>
     <div style="display: flex; gap: 24px; width:90%; aspect-ratio: 1/0.5; justify-content: space-evenly; justify-self: center">
     <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_prebake1_square.jpg">
     <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_fillet_square.jpg">
     </div>
-<p><em>
+<p>
+    <em>
     A aech wed clunk as ealth wer drunk
     En bumpers bremmen y,
     An wen up caam Tom Bawcock's naam
