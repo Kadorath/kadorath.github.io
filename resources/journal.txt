@@ -64,10 +64,10 @@
     </div>
 <p>
     <em>
-    A aech wed clunk as ealth wer drunk
-    En bumpers bremmen y,
-    An wen up caam Tom Bawcock's naam
-    We praesed un to tha sky.
+    A aech wed clunk as ealth wer drunk<br>
+    En bumpers bremmen y,<br>
+    An wen up caam Tom Bawcock's naam<br>
+    We praesed un to tha sky.<br>
     </em>
 </p>
 <h4> <b>3/1/2026</b> </h4>
