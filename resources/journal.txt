@@ -11,11 +11,11 @@
 </p>
 <p>
     Stargazy Pie is a Cornish delicacy, made for the festival of Tom Bawcock's Eve.
+</p>
     <div style="display: flex; gap: 24px; width:90%; aspect-ratio: 1/0.5; justify-content: space-evenly; justify-self: center">
     <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_1_square.jpg">
     <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_10_square.jpg">
     </div>
-</p>
 <p><em>
     Wen morgee brath ad cleard tha path<br>
     Comed lances for a fry,<br>
@@ -27,11 +27,11 @@
     I'm not Cornish, or even European. I just saw this dish when it was added to the game <em>Book of Hours</em> in the House
     of Light DLC. I've been thinking about it for about two years. My brother gifted me a nice ceramic pie dish for Christmas,
     I was at Costco recently, and I had a party coming up, so it felt like it was finally time to make this thing.
+</p>
     <div style="display: flex; gap: 24px; width:90%; aspect-ratio: 1/0.5; justify-content: space-evenly; justify-self: center">
     <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_close2_square.jpg">
     <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_distance_square.jpg">
     </div>
-</p>
 <p><em>
     Nex cumd fermaads, braa thustee jaads<br>
     As maad ar oozles dry,<br>
@@ -39,11 +39,11 @@
     a raunen shark to sy!<br>
     </em>
 </p>
-<p>
     <div style="display: flex; gap: 24px; width:90%; aspect-ratio: 1/0.5; justify-content: space-evenly; justify-self: center">
     <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_plated_square.jpg">
     <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_internal_square.jpg">
     </div>
+<p>
     I am actually quite frightened of fish. I had to have a friend of mine fillet and gut them. But
     look how worth it was. I had eight fish, but my attempts at gutting the first myself necessitated its disposal.
     The radial symmetries of seven look quite nice, however. Inadvertently, I suppose choosing between seven and eight fish
@@ -58,10 +58,11 @@
 <p>
     Things feel quite wrong in the world these days. But at least I could have my friends eat this magnificent pie.
     <div style="display: flex; gap: 24px; width:90%; aspect-ratio: 1/0.5; justify-content: space-evenly; justify-self: center">
+</p>
+    <div style="display: flex; gap: 24px; width:90%; aspect-ratio: 1/0.5; justify-content: space-evenly; justify-self: center">
     <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_prebake1_square.jpg">
     <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_fillet_square.jpg">
     </div>
-</p>
 <p><em>
     A aech wed clunk as ealth wer drunk
     En bumpers bremmen y,
