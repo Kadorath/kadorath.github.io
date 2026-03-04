@@ -1,5 +1,15 @@
-
-<h4> <strong><b>2/28/2026</b></strong> </h4>
+<h4> <b>3/2/2026</b> </h4>
+<p>
+    Oh boy. Oh boy oh boy oh boy.
+</p>
+<h4> <b>3/1/2026</b> </h4>
+<p>
+    Beginning of March.
+</p>
+<p>
+    Went to Costco with my team today. Bought ingredients for a most devious recipe (the stargazy pie).
+</p>
+<h4> <b>2/28/2026</b> </h4>
 <p>
     End of February.
 </p>
@@ -17,7 +27,7 @@
     I do want to make a stargazy pie for a thing that a friend of mine is hosting for me and my twin's birthday. I'm planning
     on going to Costco tomorrow to get the rest of the ingredients. We'll see if I can do it in time, I suppose.
 </p>
-<h4> <strong><b>2/27/2026</b></strong> </h4>
+<h4> <b>2/27/2026</b> </h4>
 <p>
     Pretty slow today. Mostly just sorting out administrative/planning things with our advisor before Spring Break.
     Gotta prepare for GDC over Spring Break.
@@ -25,7 +35,7 @@
 <p>
     I also worked on <em>Broth's Soup</em> a bit.
 </p>
-<h4> <strong><b>2/26/2026</b></strong> </h4>
+<h4> <b>2/26/2026</b> </h4>
 <p>
     Celebrated Halves with my team. We have already received our feedback via Google Form. Somehow, our feedback was even better than I got in my
     previous two projects. The best of the three, which is a surprise to be, given how much more chaotic the preparation felt this time. But 70%
