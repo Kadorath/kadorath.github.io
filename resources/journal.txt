@@ -9,14 +9,14 @@
     an starry gazee py<br>
 </p></em>
 <p>
-    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_1_square.jpg>
-    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_10_square.jpg>
-    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_close2_square.jpg>
-    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_distance_square.jpg>
-    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_plated_square.jpg>
-    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_internal_square.jpg>
-    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_prebake1_square.jpg>
-    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_fillet_square.jpg>
+    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_1_square.jpg">
+    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_10_square.jpg">
+    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_close2_square.jpg">
+    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_distance_square.jpg">
+    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_plated_square.jpg">
+    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_internal_square.jpg">
+    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_prebake1_square.jpg">
+    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_fillet_square.jpg">
 </p>
 <h4> <b>3/1/2026</b> </h4>
 <p>
