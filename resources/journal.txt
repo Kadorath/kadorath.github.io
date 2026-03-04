@@ -7,7 +7,8 @@
     woz Mowsel pon Tom Bawcock's Eve.<br>
     To be theer then oo wudn wesh<br>
     To sup o sibm soorts o fesh!<br>
-</p></em>
+    </em>
+</p>
 <p>
     Stargazy Pie is a Cornish delicacy, made for the festival of Tom Bawcock's Eve.
     <div style="display: flex; gap: 24px; width:90%; aspect-ratio: 1/0.5; justify-content: space-evenly; justify-self: center">
@@ -20,7 +21,8 @@
     Comed lances for a fry,<br>
     An then us had a bet o scad<br>
     an starry gazee py<br>
-</p></em>
+    </em>
+</p>
 <p>
     I'm not Cornish, or even European. I just saw this dish when it was added to the game <em>Book of Hours</em> in the House
     of Light DLC. I've been thinking about it for about two years. My brother gifted me a nice ceramic pie dish for Christmas,
@@ -35,7 +37,8 @@
     As maad ar oozles dry,<br>
     An ling an haak, enough to maak<br>
     a raunen shark to sy!<br>
-</p></em>
+    </em>
+</p>
 <p>
     <div style="display: flex; gap: 24px; width:90%; aspect-ratio: 1/0.5; justify-content: space-evenly; justify-self: center">
     <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_plated_square.jpg">
@@ -64,7 +67,8 @@
     En bumpers bremmen y,
     An wen up caam Tom Bawcock's naam
     We praesed un to tha sky.
-</p></em>
+    </em>
+</p>
 <h4> <b>3/1/2026</b> </h4>
 <p>
     Beginning of March.
