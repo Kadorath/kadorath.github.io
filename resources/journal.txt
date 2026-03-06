@@ -1,3 +1,25 @@
+<h4> <b>3/5/2026</b> </h4>
+<p>
+    Mostly just played a ton of Slay the Spire 2. Did some of the multiplayer with my friends.
+    I'm a big fan of The Regent. I like his whole vibe.
+</p>
+<p>
+    Weirdly got more work done today than yesterday, in spite of StS 2. Making a slot machine puzzle prototype,
+    where you rearrange the connected phones to 'cheat'.
+</p>
+<h4> <b>3/4/2026</b> </h4>
+<p>
+    ughhhh, not a very productive day. read a little.
+</p>
+<p>
+    Slay the Spire 2 is coming out on Early Access soon...
+</p>
+<h4> <b>3/3/2026</b> </h4>
+<p>
+    Went into my grad program building this Spring Break Tuesday to get some work done. I had a thought on a three-ring puzzle concept, so
+    I whipped up a quick prototype. I think there's some promise there. I also figured out how to use Android haptics in Unity for the
+    prototype.
+</p>
 <h4> <b>3/2/2026</b> </h4>
 <p>
     Oh boy. Oh boy oh boy oh boy. The stargazy pie.
