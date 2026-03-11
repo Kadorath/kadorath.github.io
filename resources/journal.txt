@@ -1,3 +1,72 @@
+<h4> <b>3/9/2026</b> </h4>
+<p>
+    I went to two talks today: "Balancing TCGs with Power Sorting" and "Etudes and Actors: Owlcat's Tooling for Highly Branched Narrative".
+</p>
+<p>    
+    The first one was about techinques for balancing trading card games (like Magic: The Gathering). The main idea was that 'algorithmic sorting',
+    i.e. formulating some kind of mathematical expression that can calculate the relative powers of cards and allow you to create perfect
+    balance is basically impossible. Assigning weighted values to various elements of a card (for example, MtG's power and toughness stats) can
+    help you set up a basic power curve, but no TCG's mechanics are simple enough that all of their complexity can be objectively captured in this way.
+    I mean, maybe someone will invent one, but that would be a strange beast indeed.
+</p>
+<p>
+    The idea that the presenter (Nathan Heiss) proposed was something that he claimed that many experienced TCG designers did implicitly, and he was just
+    formalizing the principle. He called the approach "Power Sorting". It sounded pretty logical to me, and I was a fan of the idea. Essentially,
+    what you do is you first organize your cards into categories of related types. So in MtG, the example Heiss used was sorting 'counterspells' into category.
+    Within that group, identify benchmark cards for each resource tier. So for the counterspell group in MtG, that would be like 'Dispel' at one mana and
+    'Cryptic Command' at four mana. Now, there's some subjective evaluation that has to be done. Cryptic Command is certainly better than Dispel, because it
+    is more flexible and can do more. So it makes sense that it costs more. The question of <em>how</em> much more seemed kind of vibes based. Like, Heiss already
+    had two other counterspell cards to fill the two mana and three mana benchmarks. Cryptic Command was better than those two cards as well, so four mana was an
+    appropriate place for it. And that leads in to the general idea of Power Sorting, which is just that having these benchmark cards established allows you as a 
+    designer to better understand where a new card should fall cost-wise. A counterspell that is much worse than Cryptic Command shouldn't cost more than Cryptic Command,
+    it's as simple as that. "Better" and "worse" are subjective for these kinds of things, as in there's no way to strictly quantify it, but you have to make that
+    evaluation at some point, and this gives you a way to pin a number to it. And the nature of sorting cards this way means it becomes easier to balance
+    new cards when you have a lot of preexisting cards, since those preexisting cards offer a wider range of benchmarks to measure against. The most 'shot in the dark'
+    part of this framework is when you're creating a card that is more powerful than any other card has ever been. How much more mana should it cost than the current most
+    expensive? That's really up to personal judgement and playtesting. But once you have that set, you now have another new benchmark that future cards can measure against.
+</p>
+<p>
+    So that was the general idea. Heiss also talked about powercreep. It's hard to keep benchmarks sound forever. The strategies he proposed for dealing with
+    powercreep once it got out of hand were classic. Things like ban cards, create new formats, just ignore it, print specific counters (silver bullets).
+</p>
+<p>
+    The second talk was also very interesting. Alexey Drobyshevsky from Owlcat Games was talking about a system that he built to enable branching narratives with
+    many sidequests and thousands of game states for Owlcat to build their RPGs with. The framework was built on a state unit that they called "Etudes".
+    Essentially, Etudes are node blocks that are organized into a parent-child hierarchy. If an Etude's parent is not enabled, then that Etude is also not
+    enabled. Etudes are also responsible for changing the gameworld in the way that the state they represent indicates the world should be changed. Etudes
+    can also have conflicts that are resolved via priority values.
+</p>
+<p>
+    The example scenario he gave to demonstrate Etudes was this: there's a character, the Rogue, who is in the Tavern. When the player enters the Tavern,
+    the Rogue should be there. The Rogue gives the player a quest, and when that quest is completed it can resolve in a way that means the Rogue should
+    stay in the Tavern and in a way that means the Rogue should no longer be in the Tavern. In addition, there is a world event that can occur where a brawl
+    breaks out in the Tavern, in which case the Rogue should not be present no matter what.
+</p>
+<p>
+    The way the Etudes were set up, there was a parent Etude that was the parent of all the Rogue states. It shared a conflict called 'tavern_floor' with
+    and Etude that represented the Tavern Brawl state. It had a much lower priority than the Tavern Brawl Etude. Therefore, if the Tavern Brawl Etude was ever
+    active, then the parent Rogue Etude would be disabled, and all logic related to the Rogue would never be enabled. The Rogue parent Etude had a Rogue quest
+    Etude that spawned the Rogue, and that had two children that represented the two possible states. The quest end state that meant the Rogue should despawn would
+    despawn the Rogue when it was completed. There was a small system for deferring the "completion" of an Etude that was otherwise ready to resolve, in this case
+    that specific quest completion Etude would only resolve once the player left the Tavern, so that the Rogue didn't just blip out of existence in front of them.
+</p>
+<p>
+    I really liked the structure of this system. It takes a mess of global flags and structures them into a hierarchy that implicitly captures mutual exclusions
+    and implications. They also did some things to make it so that when certain states were active you could trace the chain of reasons why easier. I wasn't super
+    clear on the exact way that quests and the linking of quests was implemented, but I think that if I were to try and implement a system like this for my own projects
+    (like for <em>Onion Future</em> perhaps), I could figure out a way that I would want to do it.
+</p>
+<p>
+    Overall, some very interesting stuff. I did also go to an AI Game Programmer roundtable (or rather, the room was already packed, but the line was very long, so
+    a second impromptu roundtable started on the balcony). And to clarify, it was for classic enemy AI stuff (descision trees, state machines, nav mesh, etc.), not
+    ML GenAI type stuff. But it did end up devolving into that... There is a whole different world out there. There's so many AI company ads in SF! It's wild.
+    Truly, a different culture.
+</p>
+<h4> <b>3/8/2026</b> </h4>
+<p>
+    I am in California now. Left at 5:30 AM, I have been awake for like 27 hours now. Picked up my GDC badge though,
+    and the earliest talk I want to go to tomorrow is at 10:30 AM, so I'm chilling.
+</p>
 <h4> <b>3/7/2026</b> </h4>
 <p>
     It's suddenly an 80 degree (Farenheit) day! With thunderstorms. Quite an intense rain, but paired with the warmth,
