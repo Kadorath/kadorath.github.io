@@ -1,3 +1,132 @@
+<h4> <b>3/12/2026</b> </h4>
+<p>
+    I went to some great talks today. Oh my oh my.
+</p>
+<p>
+    "Best Practices for Character Navigation: Architecting for AAA Performance and Robustness" by Ben Sunshine-Hill from Havok was
+    just a real broad crash course on character navigation AI. Navmesh construction, updating, solutions and their tradeoffs,
+    A* and its alternatives, collision avoidance and its algorithms, mesh link 'traversals', BOIDs and other group navigation,
+    and a bit on pathfinding for flying characters. He actually had three categories for that, which were characters in "Space" i.e.
+    no reference to the ground. In which case it's pretty easy. Depending on the openness of the space, you may not need much path searching
+    at all. The simplest BOID could work. Then "Sky" i.e. something flying relative to the ground like some flying enemy that's attacking a grounded
+    player. Treating one of those as just a grounded unit, and then putting them up in the sky instead apparently works just fine, which I think is
+    intuitive. And then "Cave", which are flying situations where you have some kind of labyrinthine tight 3D space to navigate. In which case he
+    said that you'd need to use an octree to break up the space, but to be careful with its resolution. The players won't see it, so as long as
+    it allows your AI to find paths, it doesn't need to be overly defined, as that can really eat up performance.
+</p>
+<p>
+    He also talked about string pulling and path smoothing on A* searched paths. RVO and ORCA for collision avoidance. JPS+, subgoal grpahs, and HPA* on
+    grid based pathing structures. Lots of things that I need to dig into on my own time. But one of the biggest, and kind of the most obvious in
+    hindsight, things that he pointed out is that depending on your situation, characters don't need to path immediately. You can parallelize path
+    solving asynchronously over multiple frames. If that results in your character taking some noticeable time to think, well... that's just how
+    people act normally. When characters are trying to decide where to go next, it isn't weird for them to take a moment to think. That could have
+    really saved me some grief on my second ETC project I think, where I had hundreds of pathfinding "gleebles" that were really hurting performance.
+    I managed to get it there in the end, but budgeting out their pathing times as needed during moments of high load probably could have helped.
+    He also had a funny point about cars and other vehicles. He talked about using rails for cars on streets, but then he mentioned "Dubins paths" for
+    offroading vehicles, which represent the optimal trajectory from one transform to another for wheeled vehicles with a turning radius. However, they
+    don't take into account collisions, so you have to use them in conjunction with something like A* or whatever. Or backing up when stuck a little, then
+    repeathing. But he pointed out that this can cause a vehicle AI to get stuck in an alley or something, with its only option being to go back and forth and
+    wiggle in the alley forever. The solution he proposed to that was just to... give up. If a car gets stuck in an alley, tries to path out three times and fails,
+    and then just stops driving, that would just look like a human panicking and giving up just like they would in real life. Which I thought was amusing.
+</p>
+<p>
+    The second talk I went to was a real doozy. I'm a big fan of <em>Limbus Company</em> so this one was great: "To Each Their Own Hell: The Journey of
+    Writing Complex Characters in 'Limbus Company' (Presented by Project Moon)", by Eunkyong Han, the Lead Scenario Writer at Project Moon. She talked about
+    her approach to writing and developing the wholeness of the characters in <em>Limbus Company</em>. And it felt like I was listening to an in-universe
+    presentation on how to manifest E.G.O. For starters, the title of the talk wasn't just some poetic flair. She began by asking the question "What is Hell"?
+    She went on to define "Hell" as personal to each individual. That characters have Virtues and Flaws. But Virtues can become Flaws and Flaws can become
+    virtues in what she called a "Contradiction". The tension between virtues and flaws and the contradictions that make up a person give rise to their Hell.
+    She used a bunch of examples from <em>Limbus Company</em>, so I did get spoiled on some of the parts I haven't reached yet. But one example she gave
+    was Hong Lu's 'niceness'. Initially a Virtue, his 'niceness' is revealed to arise from his own detachment from his life, a consequence of his trauma. So
+    his Virtue really acts as a Flaw. A Contradiction. If you've played <em>Limbus Company</em> then you know that exploring these Contradictions is really
+    what the game's story is focused on. Eunkyong's approach to writing characters was to identify the Contradictions that made a character's Hell, and then
+    find some kind of resolution. But she emphasized that a character 'resolving' their Hell shouldn't mean just overcoming it and then moving on as if they
+    never had it. Rather, they should come to an understanding of their Hell, and use that understanding to guide their path forward.
+</p>
+<p>
+    One example she went into depth on was Ishmael's Canto. She described that the writing process at Project Moon for her is that the director, Kim Ji Hoon,
+    would describe to her what the big ideas and themes of the upcoming Canto were, what it needed to do and all the requirements, and then she would start
+    drafting the specific scenarios that made it real. For Ishmael's Canto, she was given the requirement from the director that Ishmael could not end the
+    Canto by murdering Captain Ahab. And so she said she had to completely scrap her first draft of the Canto, to the amusement of the audience. Apparently,
+    that first draft had written itself into a place where it could not justify Ishmael not murdering Ahab. And when she examined why that was, she found that
+    it was because it didn't really address Ishmael's Hell. She identified two questions that the story would have to address/resolve in order to actually achieve
+    this. I don't remember exactly what they were, but they were something like "where does Ishmael's obsession come from?" and "what can she do to move past it?"
+    (I think they were more complex than that, but you get the gist). Apparently she took some time and wrote in a journal from the perspective of Ishmael, going
+    through her backstory of joining the whaling crew, falling under Captain Ahab's influence, and then losing everything. And by the end, she had identified that
+    Ishmael's obsession with killing Ahab was really just an extension of Ahab's own obsession, and that despite having left the crew as its 'sole survivor' she was
+    still trapped under the Captain's thumb. This Flaw of hers, her obsession, stemmed from this backstory, and in order to resolve her Hell, she would have to
+    come to understand its source and allow it to move on from Ahab's influence, even if that meant sparing her life. And of course, if you've played the Canto,
+    then you know that's basically what ends up happening. And Ishmael learned to "chart her own course".
+</p>
+<p>
+    It was truly a fascinating talk. And you could really see in her philosophy where a lot of the 'Project-Moonness' of <em>Limbus Company</em> was coming from.
+    She concluded her talk by making the point about not just overcoming and then throwing away a character's Hell being a core philosophy of Project Moon'S
+    storytelling, the big thing that they wanted to impart to players. Then she talked about her own personal Flaws and her own Hell, which was her anxiety
+    and constant dissatisfaction with her own writing. She reflected on how understanding that struggle in herself as a writer was something that she did in
+    order to try and find her voice in her craft. It didn't sound like she had fully 'resolved' her own Hell. But even in The City, doing so and manifesting
+    E.G.O. is pretty rare. I mean, mostly we only see Color Fixers do that, so it's not as if Project Moon (or Eunkyong) is saying that it's easy.
+</p>
+<p>
+    So, basically, we all have Flaws and Virtues, those Flaws and Virtues can act in paradoxical ways creating Contradictions, the Contradictions of our
+    characters make us fully-rounded people, but the tension they bring create our personal Hells, which we should all strive to understand in order to
+    grow as people. And so, if you want your characters to have depth, you can think of them in this manner.
+</p>
+<p>
+    Then I met up with someone who I had met for coffee a couple months ago while I was in Washington over Christmas. An ETC alum that my advisor connected me with.
+    She's great. I attended the talk "Flipping the Script: Overhauling Sucker Punch's Writing Pipeline for 'Ghost of Yōtei'", where Roland Munsil talked about the
+    narrative writing tool for games that he and some other devs made for Sucker Punch in order to fix a lot of the difficulties of merging narrative in <em>Ghost of Tsushima</em>.
+    Apparently the way that Sucker Punch previously did writing was they had writers putting their scripts in Google Drive, designers marking them up with metadata in
+    some Sony internal database service called "Line Up" or "Link Up" or something? And then eventually that was pushed to Perforce by the programmers. So... a real nightmare,
+    with three 'sources of truth'. And the writers were very isolated from the process. The tool they made was just this really nifty program that allowed writers and designers
+    to write in a slightly more technical screenwriting format (with hotkeys and all that similar to Final Draft), putting their scene direction comments and all that in. It would
+    convert that into the data format that the game needed in order to run. The programmers, designers, and writers could now all look at the same source, see all their comments,
+    understand more holistically what was going on with the script, and make changes to the one unified source. There were some nifty features he added, like a little pink diamond
+    that indicated if a script was referenced anywhere, meaning it just had a trigger reference in the data somewhere. This was helpful for the designers, who could look down a list of
+    conversation IDs and see which ones weren't linked yet and had to be, but it was also useful for writers who could see if a line was used yet. If it had no pink diamond, then
+    it was guaranteed that no part of the game used it, so if it needed to be cut for writing reasons, the writer could do so without breaking any part of the game. It overall seemed
+    like a great success. He had some great testimony from his writers, which is what realy matters. It's always interesting to here about how a tool can really bring a project team
+    into such harmonious alignment.
+</p>
+<p>
+    Shortly after that, I met up with the rest of my trio, then went to a fireside chat ("Game AI Fireside Chat with Damian Isla and Jeff Orkin: Celebrating 20+ Years of Behavior Trees and
+    Automated Planning Systems") once again with my ETC alum connection. And I got to introduce them to her. She had also met up with someone who was pretty cool. He had worked at a game studio
+    owned by Meta which had unfortunately been shut down a couple months ago. But we had a very good conversation, and I connected with him on LinkedIn. The fireside chat was
+    interesting. Damian Isla pioneered Hierarachical Behaviour Trees for games and Jeff Orkin pioneered Goal Oriented Action Planning for games. Both alternatives to Finite State Machine that
+    I really want to try out now. Apparently they've been popular for a while, especially for games that have pretty complex behaviours, since they can capture that kind of behaviour far
+    more elegantly. So I gotta poke around at that.
+</p>
+<p>
+    I must sleep now. I feel very tired today after all this talking.
+</p>
+<h4> <b>3/11/2026</b> </h4>
+<p>
+    Neopets
+</p>
+<h4> <b>3/10/2026</b> </h4>
+<p>
+    Went to fewer talks today. It's very... AI-heavy here. THe industry is very split. But in my program, I'm surrounded by people
+    who share my skepticism towards the technology. Here I am seeing the other side, as it were. Some people truly live very different
+    lives. Tencent is here in full force, seemingly trying to 'activate' the idea of <span title="blegh. eugh. bleeeeeehh">'AI-native'</span>
+    games to game devs. It's... quite something.
+</p>
+<p>
+    I did see the talk "Praise the Architect and Pass the Ammunition: Health & Damage in 'The Outer Worlds 2'", by Robert Donovan, which was about
+    how how he approached balancing hit points and damage in The Outer Worlds 2. It was some solid fundamentals. Hits to kill, curves, tiers of
+    enemy types and bucketing, tracking the change of hits to kill over player progression and seeing if it fits what you want, and then of course
+    playtesting to see if you're striking the right balance so that you avoid boredom or anxiety (or at least, boredom and anxiety that you don't intend).
+    I really should try and spreadsheet out some HP values and hits to kill, especially for <em>Broth's Soup</em> or <em>Onion Future</em>...
+</p>
+<p>
+    My artist, <a class="nina" href="ninagamboni.com">Nina</a> did go to a talk from the Peak developers and one from the Dispatch developers that were
+    extremely popular (hence why I couldn't get in. The crowds), and also sounded very cool. Of the Peak talk, she says: "Peak's talk was literally like, 'book
+    a trip to Korea, sell your game for $8.99" (it sounded like they really just gamejammed it to commiserate over the cancellation of their main project, but
+    the vibes ended up being great during that. Also communicate in person. Communicating online via Discord was killing their vibes. Also Landfall is great. Also have the desks
+    facing each other [the golden setup]) Of the Dispatch talk, she says: "There's a time and a place to do what you love. But make sure that you love it. 
+    And don't let it get lost. Essentially, if you have a good idea, make sure you don't fuck it up. Don't sell it out. Wait, you'll get the opportunity to make it, and it'll be amazing."
+</p>
+<p>
+    I also fixed some bugs in <em>Classic Trash</em>
+</p>
 <h4> <b>3/9/2026</b> </h4>
 <p>
     I went to two talks today: "Balancing TCGs with Power Sorting" and "Etudes and Actors: Owlcat's Tooling for Highly Branched Narrative".
