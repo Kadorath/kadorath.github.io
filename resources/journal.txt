@@ -1,5 +1,55 @@
+<h4> <b>3/17/2026</b> </h4>
+<p>
+    I feel as though I am losing my mind a bit today. I must talk to our narrative person. I don't know. Too many unknowns! AGH!
+</p>
+<p>
+    I like my appearance today, however. I am feeling quite vain. The way my hair falls, it is quite appealing to me. So that is good.
+</p>
+<h4> <b>3/16/2026</b> </h4>
+<p>
+    I need to finish rereading <em>Crime and Punishment</em> as soon as possible for this class... Also had a meeting for a group assignment.
+    My ETC project team seems to have a final direction now. Some confusing points. Some things that I think work quite well. I feel very
+    anxious, but we will just have to move quickly and see what works.
+</p>
+<p>
+    I walked home in an unexpected Spring snowstorm today. It was quite nice, ultimately, although snow and ice and water did get in my Crocs
+    and make my right sock quite wet. But I made it.
+    <img src="https://kadorath.github.io/resources/images/snowday3-16-26.jpg">
+</p>
+<h4> <b>3/15/2026</b> </h4>
+<p>
+    I made it back. The 'cold' seemed to have been nothing. I must catch up on as much work as I can today.
+</p>
+<h4> <b>3/14/2026</b> </h4>
+<p>
+    Flights and flying. I've felt a simmering cold. Although perhaps that's just dryness from convention hall and hotel AC. I hope so.
+</p>
 <h4> <b>3/13/2026</b> </h4>
 <p>
+    The final day of GDC. I went to one talk today, "Designing ARGs to Foster Meaningful Community Connection". There was a number of people
+    giving that talk, the organizers of the ARG I learned was apparently happening at GDC all week. I had heard something of the ARG earlier from a
+    friend, who had heard about it on Wednesday and dedicated himself to solving it. The talk was kind of the conclusion to that ARG. There was some
+    plot about "The ORG", a shadowy institution all about maximizing productivity. They were opposed by a rebel group called "The HOG". The ARG had puzzles,
+    NPCs, websites and presence on official GDC media, it seemed like quite a production. They also had ribbons all over the place. I hadn't realized because
+    I didn't have a frame of reference, but there were a lot of cool badge ribbons at GDC, which apparently was just a thing this year, because they were for
+    the ARG. Jokes about scope creep, and y versus z being up, things like that. They were quite beautiful. Although I did not participate in the ARG, afterwards
+    they gave out a bunch of their leftover supplies, so I harvested 5 floppy disks and a bunch of the ribbons. My friend also was one of the winners! And
+    apparently as a prize he gets a GDC Festival pass for 2027? Which is like a thousand bucks? Very cool. I mean, his pass this year was from a scholarship!
+    So... quite fortunate indeed. He also got to claim a piece of panelling from one of the puzzles. I carried it back for him in my suitcase (I'm writing this
+    entry in retrospect a bit... I still need to give that to him).
+</p>
+<p>
+    In the evening, I went to an AI Game Programmer dinner at Fang. The ETC alum I met up with yesterday had invited me, and payed the $40 cover fee for me, which
+    was quite generous. And I'm extremely greatful to her for that, since this dinner was amazing. I met a person from ArenaNet (we started talking first, before the
+    dinner started, since we recognized each other from that AI Roundtable impromptu session on Monday. I think that we both ended up talking to the same SCAD student
+    afterward about his personal AI tool he made to write dev blogs for him, although we were standing on opposite sides of him, and I did not talk to or really acknowledge
+    her and vice versa. Which was funny, since we really hit it off at the dinner). There was a recent grad and... I believe his mother, I'm not sure. Also two business ops
+    people from Take Two, who seemed quite put together. Also an ML PHD student. My ETC alum connection was also there of course, although she had accidentally walked
+    to the Tencent dinner happening on a higher floor of the restauarant and so was a bit late. After we all ate, she introduced me to a bunch of people who were vets of
+    both GDC and that dinner. They gave me some great advice on my portfolio, job applications, the state of the industry, all that (I have to make sure to put juice in my
+    portfolio projects, apparently). Then they talked amongst themselves about various GDC affairs. They were speakers and GDC decision makers who had been in the industry since,
+    like 2005 for most of them it seemed. So it really felt like I was amongst important people. They seemed to like me, although I made sure not to impose too much, of course.
+    It seemed to me like this was the beginning of my career, in a small way. Hopefully I can look back on this moment many years from now as such. But time will tell.
 </p>
 <h4> <b>3/12/2026</b> </h4>
 <p>
@@ -101,6 +151,12 @@
 <p>
     I must sleep now. I feel very tired today after all this talking.
 </p>
+<p>
+    P.S. I forgot to mention, I also got lunch at a Mediterranean place with my trio and three other people. One was someone who we knew from the Pittsburgh ETC scene,
+    and had met at the networking even the day before. Then someone else he knew/worked with, and the sound director of <em>2XKO</em>. It was very cool, and they
+    very generously paid for our lunch, which was awesome. We just talked, about the industry, the... state of AI as it were, and they were quite enthusiastic about the
+    idea of working on smaller indie projects being a good idea at the moment. So that was good encouragement.
+</p>
 <h4> <b>3/11/2026</b> </h4>
 <p>
     Neopets. Today I went to a talk called "'Neopets': From Web-Browser to Everywhere", by Dominic Law, the CEO of Neopets. He talked about the work him and
@@ -123,6 +179,25 @@
     which I won with my immense <span title="luck">skill</span>
     <img src="https://kadorath.github.io/resources/images/perforcebeeplush.jpg">
     <img src="https://kadorath.github.io/resources/images/perforcebeecrane.jpg">
+</p>
+<p>
+    I also was at the ETC booth, to represent my project for a little bit. Well, my group was. I cycled in and out. My dumpster bag has been
+    good for carrying the phones, since it is so square. Here's a very aesthetic picture of it I got at the booth.
+    <img src="https://kadorath.github.io/resources/images/dumpsterbag.jpg">
+    I mostly just wandered around, sometimes stopped by, sometimes talked to people. It all seemed to go well. They were giving out free alcoholic
+    freezy pops on the expo floor at one point. And various bubble tea drinks. That was quite nice. I had like four freezy pops. But they were only
+    5% ABV, so you know.
+</p>
+<p>
+    At the end of the day, there was an ETC networking dinner. Got some chips and vegetable skewers, and some free drinks. Also talked to a bunch of
+    ETC people. Some recent grads that I knew (one that I quite admire was impressed by our tech on our project, which I was mighty chuffed about). Talked
+    to some alum I knew, some I didn't. They gave there various advice about the state of the industry, got to know me and some others, all that. It does
+    sound unanimous that it is quite grim out there, but pretty much everyone seemed to agree that working on indie projects and building up ones portfolio
+    during the job search would be a good call. Also talked to one very strongly opinionated narrative person who had some Jesse Schell energy (if you've
+    ever talked to Jesse Schell, you can probably gather what I mean). He was very abrasive, and had strong opinions on both my current project and
+    <em>Onion Future</em>. He was... a bit irreverent, but I think the core of many of his points were good, although I disagree with his perspective on some
+    things. He did pose an interesting challenge in conversation though, which was good. Perhaps his combative thoughts will inspire correct choices in my
+    future, we will see.
 </p>
 <h4> <b>3/10/2026</b> </h4>
 <p>
