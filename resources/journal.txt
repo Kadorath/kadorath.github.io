@@ -1,3 +1,6 @@
+<h4> <b>3/13/2026</b> </h4>
+<p>
+</p>
 <h4> <b>3/12/2026</b> </h4>
 <p>
     I went to some great talks today. Oh my oh my.
@@ -100,7 +103,26 @@
 </p>
 <h4> <b>3/11/2026</b> </h4>
 <p>
-    Neopets
+    Neopets. Today I went to a talk called "'Neopets': From Web-Browser to Everywhere", by Dominic Law, the CEO of Neopets. He talked about the work him and
+    his team of, like, 15 engineers have been doing in the last couple of years to revitalize Neopets. It sounded like they inherited the game in a very broken
+    state (as a result of the decomissioning of Flash), so they dedicate most of their time modernizing the page so everything works again. They interface with
+    the community via an ambassador program in order to prioritize what they should fix first. He said that there was a bit of code that was recently removed
+    that had some comment on it like "Remove me after the event period ends on July/[XX]/2025" that was just sitting there months after that date. Then he
+    also talked about how a lot of their work is interfacing with second party teams to port Neopets to other platforms, working with brands to do collabs and
+    other kinds of marketing, which they had found great success with. Neopets at its peak had an absolutely massive playerbase, so a lot of their work is just
+    doing public events to remind people "hey, we still exist! And your Neopet is still alive, but starving, so you should check on them", and then also hosting
+    fan meetups in order to keep the community active and thriving. It was very interesting. The talk was attended by many Neopets fans, and Dominic did get swarmed
+    afterward. I mean, he had some merch to give out, so he did bring it on himself. I didn't get merch, or really talk to him at all, but my brother snagged his 
+    business card for me, and take a look at this beauty.
+    <img src="https://kadorath.github.io/resources/images/neopetsbusinesscard.jpg">
+</p>
+<p>
+    The expo floor also opened today. Saw some indie games. There was a radial bubble bobble game that I think would be really good on the Playdate.
+    I talked to one of the devs that worked on it, and exchanged some information and ideas, although I was incredibly awkward about it, I must admit.
+    There was also a Game Dev Union thing going on, so I got their info. There were also a lot of AI companies. And Perforce. Perforce had a clawmachine,
+    which I won with my immense <span title="luck">skill</span>
+    <img src="https://kadorath.github.io/resources/images/perforcebeeplush.jpg">
+    <img src="https://kadorath.github.io/resources/images/perforcebeecrane.jpg">
 </p>
 <h4> <b>3/10/2026</b> </h4>
 <p>
