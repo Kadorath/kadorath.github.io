@@ -426,9 +426,9 @@
 <p>
     Stargazy Pie is a Cornish delicacy, made for the festival of Tom Bawcock's Eve.
 </p>
-    <div style="display: flex; gap: 24px; width:90%; aspect-ratio: 1/0.5; justify-content: space-evenly; justify-self: center">
-    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_1_square.jpg">
-    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_10_square.jpg">
+    <div style="display: flex; gap: 24px; width:90%; justify-content: space-evenly; justify-self: center; flex-wrap: wrap;">
+    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_1_square.jpg" style="flex: 1 1 calc(50% - 12px); min-width: 150px; max-width: 100%; height: auto;">
+    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_10_square.jpg" style="flex: 1 1 calc(50% - 12px); min-width: 150px; max-width: 100%; height: auto;">
     </div>
 <p><em>
     Wen morgee brath ad cleard tha path<br>
@@ -442,9 +442,9 @@
     of Light DLC. I've been thinking about it for about two years. My brother gifted me a nice ceramic pie dish for Christmas,
     I was at Costco recently, and I had a party coming up, so it felt like it was finally time to make this thing.
 </p>
-    <div style="display: flex; gap: 24px; width:90%; aspect-ratio: 1/0.5; justify-content: space-evenly; justify-self: center">
-    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_close2_square.jpg">
-    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_distance_square.jpg">
+    <div style="display: flex; gap: 24px; width:90%; justify-content: space-evenly; justify-self: center; flex-wrap: wrap;">
+    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_close2_square.jpg" style="flex: 1 1 calc(50% - 12px); min-width: 150px; max-width: 100%; height: auto;">
+    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_distance_square.jpg" style="flex: 1 1 calc(50% - 12px); min-width: 150px; max-width: 100%; height: auto;">
     </div>
 <p><em>
     Nex cumd fermaads, braa thustee jaads<br>
@@ -453,9 +453,9 @@
     a raunen shark to sy!<br>
     </em>
 </p>
-    <div style="display: flex; gap: 24px; width:90%; aspect-ratio: 1/0.5; justify-content: space-evenly; justify-self: center">
-    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_plated_square.jpg">
-    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_internal_square.jpg">
+    <div style="display: flex; gap: 24px; width:90%; justify-content: space-evenly; justify-self: center; flex-wrap: wrap;">
+    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_plated_square.jpg" style="flex: 1 1 calc(50% - 12px); min-width: 150px; max-width: 100%; height: auto;">
+    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_internal_square.jpg" style="flex: 1 1 calc(50% - 12px); min-width: 150px; max-width: 100%; height: auto;">
     </div>
 <p>
     I am actually quite frightened of fish. I had to have a friend of mine fillet and gut them. But
@@ -472,9 +472,9 @@
 <p>
     Things feel quite wrong in the world these days. But at least I could have my friends eat this magnificent pie.
 </p>
-    <div style="display: flex; gap: 24px; width:90%; aspect-ratio: 1/0.5; justify-content: space-evenly; justify-self: center">
-    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_prebake1_square.jpg">
-    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_fillet_square.jpg">
+    <div style="display: flex; gap: 24px; width:90%; justify-content: space-evenly; justify-self: center; flex-wrap: wrap;">
+    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_prebake1_square.jpg" style="flex: 1 1 calc(50% - 12px); min-width: 150px; max-width: 100%; height: auto;">
+    <img src="https://kadorath.github.io/resources/images/stargazy/stargazy_fillet_square.jpg" style="flex: 1 1 calc(50% - 12px); min-width: 150px; max-width: 100%; height: auto;">
     </div>
 <p>
     <em>
