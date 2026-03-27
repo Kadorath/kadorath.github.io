@@ -1,3 +1,36 @@
+
+<h4> <b>3/26/2026</b> </h4>
+<p>
+
+</p>
+<h4> <b>3/25/2026</b> </h4>
+<p>
+    It is coming together.
+</p>
+<h4> <b>3/24/2026</b> </h4>
+<p>
+    Just working on the project. The rest of my group was running some playtests on an A/B thing for navigation that we planned to do,
+    to get some external data on the disagreement we've been having over navigation systems. Ended up gaining some interesting insights.
+    I think we've come up with a scheme which will ultimately be much clearer to the players. But I've got to make that work, so we
+    can test it this Saturday.
+</p>
+<h4> <b>3/23/2026</b> </h4>
+<p>
+    Okay. Felt a bit groggy in the morning, but I have recovered. Our advisor seemed perfectly satisfied with our progress so far,
+    although he didn't ask for any 'proof', per say. Which I guess just means that he trusts things are going as they should.
+    What a relief.
+</p>
+<h4> <b>3/22/2026</b> </h4>
+<p>
+    The illness persists, but I can sense that it is on the way out.
+</p>
+<h4> <b>3/21/2026</b> </h4>
+<p>
+    Oh no. I have a cold. It is quite annoying, although not the worst I've ever had. I will will it to be gone.
+</p>
+<p>
+    Also I've been playing <em>Clair Obscur: Expedition 33</em> lately, since it was so present during GDC. It's pretty good!
+</p>
 <h4> <b>3/20/2026</b> </h4>
 <p>
     Got work done. Feeling good. The plan is solidifying. Still so much to do, but it all is starting to feel more put together...
