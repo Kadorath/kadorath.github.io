@@ -2,9 +2,7 @@
 <p>
     Pretty chill day. Got my midterm grades back, and the literary trial grades, and they were very very good.
     Also, Youtube recommended me this <em>No Surprises</em> cover, and it sent me into another dimension.
-    <iframe style="border: 0.44vw inset black; padding: 0" width="100%" height="450px"
-        src="https://www.youtube.com/watch?v=h1aN7BLHXfc">
-    </iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/h1aN7BLHXfc?si=1hzdVtHD4CIbvewF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <h4> <b>3/30/2026</b> </h4>
 <p>
