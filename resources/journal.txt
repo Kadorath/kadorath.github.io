@@ -1,3 +1,9 @@
+<h4> <b>3/31/2026</b> </h4>
+<p>
+    <iframe style="border: 0.44vw inset black; padding: 0" width="100%" height="100%"
+        src="https://www.youtube.com/embed/32NqplGkT5w">
+    </iframe>
+</p>
 <h4> <b>3/30/2026</b> </h4>
 <p>
     Very good day! The team member I fought with previously, we hugged it out. Had a morning meeting that seemed okay, then later in the day we
