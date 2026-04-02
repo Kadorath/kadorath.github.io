@@ -59,10 +59,49 @@
         </span>
     </div>
 </div>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-1.jpg">
+        <span>Here is an assortment of keychains.
+        </span>
+    </div>
+</div>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-1.jpg">
+        <span>Here is an assortment of keychains.
+        </span>
+    </div>
+</div>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-2.jpg">
+        <span>and an assortment of stickers. Once again, the rats with sweets are by my <a href="https://www.ninagamboni.com/">friend</a>
+        </span>
+    </div>
+</div>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-3.jpg">
+        <span>Various prints. More sweets rats, and the cat thief is done by another <a href="https://junjingr.wixsite.com/hello">friend of mine</a>
+        </span>
+    </div>
+</div>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-4.jpg">
+        <span>neat print and envelope</a>
+        </span>
+    </div>
+</div>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-7.jpg">
+        <span>Bought these as a late birthday gift for someone who shares a birthdate with me. I have been told that this will suit them, but I am not sure yet.</a>
+        </span>
+    </div>
+</div>
 
-<p>
-    <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-1.jpg">
-</p>
 <h4> <b>3/27/2026</b> </h4>
 <p>
     My god, we fought again. I'm losing my mind over here. What are we even fighting about. We are just far too different.
