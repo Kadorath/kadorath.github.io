@@ -50,8 +50,16 @@
         <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-6.jpg">
         <span><em>League of Legends</em> yordle stickers, made by my <a href="https://www.ninagamboni.com/">illustrious friend.</a></span>
     </div>
-    <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-5.jpg">
 </div>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-6.jpg">
+        <span>and some RATS, also made by my <a href="https://www.ninagamboni.com/">illustrious friend</a>, commissioned by my other friend for their lightweight
+        TTRPG <a href="https://neaman.itch.io/rat-bastards"><em>Rat Bastards</a>. Check it out!
+        </span>
+    </div>
+</div>
+
 <p>
     <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-1.jpg">
 </p>
