@@ -45,13 +45,13 @@
     there after noon. And as a lover of merch and trinkets, I bought a lot of things from other artists' stands. <s>[Hopefully, I will come back to this
     entry later and document my acquisitions, with pictures].</s>
 </p>
-<p>
+<div>
     <div class="image-caption-block">
         <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-6.jpg">
         <span><em>League of Legends</em> yordle stickers, made by my <a href="https://www.ninagamboni.com/">illustrious friend.</a></span>
     </div>
-    <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-7.jpg">
-</p>
+    <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-5.jpg">
+</div>
 <p>
     <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-1.jpg">
 </p>
