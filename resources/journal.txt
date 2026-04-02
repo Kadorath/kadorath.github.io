@@ -46,7 +46,10 @@
     entry later and document my acquisitions, with pictures].</s>
 </p>
 <p>
-    <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-6.jpg">
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-6.jpg">
+        <span><em>League of Legends</em> yordle stickers, made by my <a href="https://www.ninagamboni.com/">illustrious friend.</a></span>
+    </div>
     <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-5.jpg">
 </p>
 <p>
