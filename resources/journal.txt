@@ -460,7 +460,7 @@
     I went to two talks today: "Balancing TCGs with Power Sorting" and "Etudes and Actors: Owlcat's Tooling for Highly Branched Narrative".
 </p>
 <p>    
-    The first one was about techinques for balancing trading card games (like Magic: The Gathering). The main idea was that 'algorithmic sorting',
+    The first one was about techniques for balancing trading card games (like Magic: The Gathering). The main idea was that 'algorithmic sorting',
     i.e. formulating some kind of mathematical expression that can calculate the relative powers of cards and allow you to create perfect
     balance is basically impossible. Assigning weighted values to various elements of a card (for example, MtG's power and toughness stats) can
     help you set up a basic power curve, but no TCG's mechanics are simple enough that all of their complexity can be objectively captured in this way.
