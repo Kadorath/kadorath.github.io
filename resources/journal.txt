@@ -1,3 +1,29 @@
+<h4> <b>4/11/2026</b> </h4>
+<p>
+
+</p>
+<h4> <b>4/11/2026</b> </h4>
+<p>
+    Taking a pretty chill Saturday. Wynncraft's Fruma expansion released last week. So I just played some Wynncraft.
+</p>
+<p>
+    My twin did return from the conference in France. He returned to the apartment to pick up the outfit he lent me for the literary
+    trial a couple weeks ago. I convinced him to go to that new frozen yogurt place with me. Also, I didn't mention this earlier, but
+    a couple days ago I saw a Youtube Short of the Bissell Little Green Machine. I have some stains in my carpet and on my couch that
+    I've tried to clean, but couldn't. When I was in Japan a couple months ago, I met up with my dad, who was also visiting Japan on a
+    separate vacation. We went to an appliance store, and we were looking at the small handheld vaccuums. I was talking about how I
+    was thinking about getting one of them, but he said that our family had bought one when we were young, but they were very weak and
+    underwhelming, and didn't work that well. But when I saw this video, I sent it to him, and messaged him "You're telling me this wouldn't
+    solve all of my problems?" And then he just responded "You're going to find out tomorrow and report back." I wasn't sure if that meant
+    he just decided to get one as a gift for me. But my brother brought it up from the apartment mail room when he returned today, so now
+    I have a Bissell Little Green Machine, which I am extremely excited about. Thank you father.
+</p>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/bissell-littlegreenmachine.jpg">
+        <span>can't wait to take this baby for a spin</span>
+    </div>
+</div>
 <h4> <b>4/10/2026</b> </h4>
 <p>
     The meeting with our advisor went well! Everything worked, mostly. I did have to step in a couple times, but I was able to get things back on track smoothly.
@@ -13,6 +39,8 @@
 </p>
 <p>
     Here are some pics I took.
+</p>
+<div>
     <div class="image-caption-block">
         <img src="https://kadorath.github.io/resources/images/journal/CMUCarnival26-Fri-1.jpg">
         <span>The booth alley, seen from the Toby Fox booth line (pictured below)</span>
@@ -33,7 +61,7 @@
         <img src="https://kadorath.github.io/resources/images/journal/CMUCarnival26-Fri-5.jpg">
         <span>The dragon furry that my other dragon furry friend introduced to me has hidden a secret in this Deltarune, so they allege</span>
     </div>
-</p>
+</div>
 <p>
     Are all these photos taken of/from the Toby Fox booth? Yes? Did I only actually visit the Toby Fox booth? Yes? What of it.<br>
     (there was a DDR pad controlled game inside the Toby Fox booth. Like a rhythm game, but you're dodging attacks on a grid, kind of like
@@ -43,12 +71,13 @@
 <p>
     Visited CMU Carnival, but it turned out that it started at 3:30 PM, and I was a bit early and wouldn't be able to return today. I did get this picture of
     the booth alley under construction.
-
+</p>
+<div>
     <div class="image-caption-block">
         <img src="https://kadorath.github.io/resources/images/journal/CMUCarnival26-Thurs-1.jpg">
         <span>Frats, sororities, and clubs, all hard at work</span>
     </div>
-</p>
+</div>
 <p>
     Then I went to the ETC and worked. We're showing the demo of our project to our advisor tomorrow, so that he can give us some tips for the faculty 'Softs'
     walkaround on Monday. Got in a bit of a tense creative disagreement, but it resolved with a compromise that seems quite promising. Basically, we're just
