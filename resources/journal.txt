@@ -1,5 +1,43 @@
 <h4> <b>4/10/2026</b> </h4>
 <p>
+    The meeting with our advisor went well! Everything worked, mostly. I did have to step in a couple times, but I was able to get things back on track smoothly.
+    There were clear confusion points, but they were kind of where we already knew they were. And he was able to glean more about the story despite those glaring
+    gaps than I think any of us expected. We all know what we need to do, it's all coming together. The 3D scene compromise we came to together he called out as
+    working particularly well, which is great for something that did not exist even as an idea until yesterday. So I'm in high spirits.
+</p>
+<p>
+    Also, I actually got to walk around Carnival today. Talked with some friends I encountered there, and meandered around the booth alley, since the booths
+    are what I really find interesting. The carnival rides and the expensive games and food are interesting to look at as well, but the booths feel pretty unique.
+    I didn't stay too long though, since my allergies were really acting up. The theme this year of Carnival (which mostly just affects the booths and the T-shirts)
+    was "Scotty's Playlist", A.K.A. music.
+</p>
+<p>
+    Here are some pics I took.
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/CMUCarnival26-Fri-1.jpg">
+        <span>The booth alley, seen from the Toby Fox booth line (pictured below)</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/CMUCarnival26-Fri-2.jpg">
+        <span>CMU's KGB and Robot Club present: Toby Fox booth</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/CMUCarnival26-Fri-3.jpg">
+        <span>cyberworld</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/CMUCarnival26-Fri-4.jpg">
+        <span>*gasp* (this star behaved erratically)</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/CMUCarnival26-Fri-5.jpg">
+        <span>The dragon furry that my other dragon furry friend introduced to me has hidden a secret in this Deltarune, so they allege</span>
+    </div>
+</p>
+<p>
+    Are all these photos taken of/from the Toby Fox booth? Yes? Did I only actually visit the Toby Fox booth? Yes? What of it.<br>
+    (there was a DDR pad controlled game inside the Toby Fox booth. Like a rhythm game, but you're dodging attacks on a grid, kind of like
+    and Undertale mechanic. I played Megalovania and did poorly (got a B, in rhythm game scoring metrics))
 </p>
 <h4> <b>4/9/2026</b> </h4>
 <p>
