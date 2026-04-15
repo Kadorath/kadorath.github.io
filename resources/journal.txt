@@ -1,3 +1,25 @@
+<h4> <b>4/10/2026</b> </h4>
+<p>
+</p>
+<h4> <b>4/9/2026</b> </h4>
+<p>
+    Visited CMU Carnival, but it turned out that it started at 3:30 PM, and I was a bit early and wouldn't be able to return today. I did get this picture of
+    the booth alley under construction.
+
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/CMUCarnival26-Thurs-1.jpg">
+        <span>Frats, sororities, and clubs, all hard at work</span>
+    </div>
+</p>
+<p>
+    Then I went to the ETC and worked. We're showing the demo of our project to our advisor tomorrow, so that he can give us some tips for the faculty 'Softs'
+    walkaround on Monday. Got in a bit of a tense creative disagreement, but it resolved with a compromise that seems quite promising. Basically, we're just
+    trying to figure out how to frame some 3D scenes in our project, but the process of framing is a whole thing, and the process of recreating the Blender
+    render the artist is creating in Unity is a whole thing... but we're trying out rendering out the shots we want from Blender, and using them as 2D images
+    in the actual build, so that those shots function much like the 2D illustrations do, in terms of slicing them up to span across the multiple phone screens.
+    It seems to be working, and the lighting is now quite beautiful. Our 3D scenes have been noticeably lacking that, which has been tormenting both of our artists,
+    I can tell, although neither really says anything that directly (maybe the one thing that they have in common).
+</p>
 <h4> <b>4/8/2026</b> </h4>
 <p>
     just working. Was reminded that CMU Carnival technically gives us two days off this week, so that'll be exciting. I mean, I still need to work then,
