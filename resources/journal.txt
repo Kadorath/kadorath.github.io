@@ -1,4 +1,342 @@
+<h4> <b>4/21/2026</b> </h4>
+<p>
+    Russian lit and newspapers today. And a bunch of website work! Forest is shaping up, did a typing thing for a potential status, fixed sizing of
+    the autoplayer on the journal page (this one you're on now, presumably!). Shaving things, shaping things, little tinkering. Feels good. Restored
+    some of the things that the transfer to MountainDuck accidentally undid. I'm going to have to pay for the license soon if I want to keep using
+    MountainDuck... it is nice though. It may well be worth it.
+</p>
+<h4> <b>4/20/2026</b> </h4>
+<p>
+    just trucking along. the project energy is very relaxed these days now.
+</p>
+<p>
+    I finished <em>Anna Karenina</em> today. The way Tolstoy really <em>sees</em> the... events that he depicts... Good God, what a book. It was a little
+    too much for me, in many ways. I feel almost stupid trying to talk about it, it's just so <em>much</em>.
+</p>
+<h4> <b>4/19/2026</b> </h4>
+<p>
+    very chill sunday
+</p>
+<p>
+    I did accomplish a very nifty thing on the ETC project. Maybe once I figure out how to properly host videos here I can share it elsewhere in more detail. But in our
+    hub scene (which our 3D artist is currently making pre-rendered sequences for), the four phones can be connected more freely/flexibly, spanning the view in more
+    whimsical ways. And it works so well! I am quite pleased.
+</p>
+<h4> <b>4/18/2026</b> </h4>
+<p>
+    very chill saturday
+</p>
+<h4> <b>4/17/2026</b> </h4>
+<p>
+    My program is having some kind of 25th anniversary alumni event, and so there's food for us to scrounge as well. And they had a pretty nice minibar. Got a Salt and Pepper Greyhound.
+    Always love when my school funds my alcoholism.
+</p>
+<p>
+    They also set up a sort of mini game museum in one of the rooms, with a timeline of consoles up to the modern day. I played <em>Duck Hunt</em> for the first time, drink in hand,
+    and I feel like I really got the hang of it. It's pretty fun! I'm shocked how well the gun works.
+</p>
+<h4> <b>4/16/2026</b> </h4>
+<p>
+    Tomodachi Life: Living the Dream
+</p>
+<h4> <b>4/15/2026</b> </h4>
+<p>
+    We met with Scott Kim, a puzzle designer who we had talked to at the beginning of our project, just to get some advice as we close out the semester.
+    It went well. He gave us some good advice on transitions and user interaction feedback. Today was very chill. Just working on things, and such.
+    My artist friend is stressed about her team (she had her Softs today), and it is worrying for me. Unfortunately, there's not much I can do to
+    help her...
+</p>
+<p>
+    Our project advisor popped in to give us some of our Softs feedback early (well, just me and the 3D artist, the others had already left for the day).
+    He's the faculty member that manages all that, so we get the early scoop. It was great! Some faculty member commented that "we had met all of the promises
+    of our original pitch", which, well. That might objectively sound like mild feedback, but we got other extremely enthusiastic/complimentary notes, so there's
+    a reason I remembered that one specifcally. It is a kind of constant anxiety amongst the faculty that pitch projects they approve fall short of the original
+    promise of the pitch. So, as our advisor also suggested, we're kind of 'done'. Like, we did everything we needed to, all the faculty was impressed, we could
+    technically just do nothing for these last two weeks. But we're not. Or at least I'm not. There are still things I want to do. But there's nothing we <em>have</em>
+    to do to prove ourselves. Not to the people in this building at least. So that is a huge relief to me. I am very pleased.
+</p>
+<h4> <b>4/14/2026</b> </h4>
+<p>
+    chill day. thunderstorm in the evening.
+</p>
+<h4> <b>4/13/2026</b> </h4>
+<p>
+    A very strange day. It was Softs. We had four faculty groups come by. They were all able to play our experience end-to-end with relatively minimal
+    guidance, and it took twenty to thirty minutes for each. And, knowing the faculty at the ETC, that is shocking to me. We have a very obtuse puzzle
+    experience, and the fact that no matter their age and video game experience, they could at least make it through? Amazing. And we were getting great
+    responses. They were impressed by the tech, liked what we had made, generally they seemed very congratulatory, which is unusual for them. I was mighty
+    chuffed.
+</p>
+<p>
+    Of course, there are gaps in what we've made at the moment, so of course they had feedback on those things as well. It was informative to me at least
+    to see where they were confused by the narrative, where they didn't understand the placeholder art we had in, where the UX failed, things like that.
+    And most of what we saw from them and heard from them reinforced what we already knew about which areas in particular need work. So to me that is also
+    very good.
+</p>
+<p>
+    The main strangeness to me is that half of our team seems to have been... affected strongly by Softs, and they are responding in their own unique ways.
+    Passion, poetry, and gloom, I would say. Maybe in the future I'll remember who was who based on those three words alone. But ultimately, I think the main
+    thing is that the confusion points in the experience right now are often related to placeholder assets. They each have a clear vision of what it should be,
+    so they're somewhat fixated on critiques relating to something that they feel should be complete. Especially when that critique comes with slightly off-base
+    suggestions, made by a faculty member who just doesn't have the full context. It's a natural thing. But ultimately their feedback was so overwhelmingly good!
+    Ah well. The director of our program suggested using AI to finish the art assets which... well his directive as the new director I've heard is to push AI...
+    but I did have to break my zen "take all the suggestions and organize them later" philosophy at that and tell him that we weren't going to do that. But what
+    is to be done, what is to be done...
+</p>
+<p>
+    To me, things are as they should be! And people see that, and things are working, and we did it! My main stress now is just the mental health of the rest of
+    the team. But I don't have the power to affect that positively, I don't think. Hopefully time will mellow things out.
+</p>
+<h4> <b>4/12/2026</b> </h4>
+<p>
+    Didn't get any work done today. Stresses me out ambiently, since we do have our Softs faculty walkaround tomorrow. But the build was stable
+    on Friday, and despite having things that we do obviously need/want to fix, it is also in a place where I feel comfortable enough with it.
+    So maybe it's good not to jeopardize its stability too much.
+</p>
+<p>
+    This was an apartment cleaning day for me. I felt very focused on organizing and cleaning. Vacuuming, taking out the trash, mopping the
+    kitchen floor, organizing my spare pins. I got a new corkboard from CVS, and started up a new board, this time featuring the rat prints
+    that my artist friend made for ScottyCon. There's probably a photo of that on the site somwhere, in its complete form (speaking to my future
+    self). And the Bissell Little Green Machine. It got all the stains out of my couch. I hadn't realized there were so many stains. But it worked
+    wonders. It's very satisfying. I love it very much. So thank you again to my dad. There was one tiny dot stain that I couldn't get out with it,
+    however. So I'll be poking around at that and I'll see if I can figure out how to get rid of it. Also I realized there were tons of crumbs in
+    the crevices of the couch, so I vacuumed all that as well.
+</p>
+<p>
+    Also played Pathfinder today, as I do most Sundays.
+</p>
+<h4> <b>4/11/2026</b> </h4>
+<p>
+    Taking a pretty chill Saturday. Wynncraft's Fruma expansion released last week. So I just played some Wynncraft.
+</p>
+<p>
+    My twin did return from the conference in France. He returned to the apartment to pick up the outfit he lent me for the literary
+    trial a couple weeks ago. I convinced him to go to that new frozen yogurt place with me. Also, I didn't mention this earlier, but
+    a couple days ago I saw a Youtube Short of the Bissell Little Green Machine. I have some stains in my carpet and on my couch that
+    I've tried to clean, but couldn't. When I was in Japan a couple months ago, I met up with my dad, who was also visiting Japan on a
+    separate vacation. We went to an appliance store, and we were looking at the small handheld vaccuums. I was talking about how I
+    was thinking about getting one of them, but he said that our family had bought one when we were young, but they were very weak and
+    underwhelming, and didn't work that well. But when I saw this video, I sent it to him, and messaged him "You're telling me this wouldn't
+    solve all of my problems?" And then he just responded "You're going to find out tomorrow and report back." I wasn't sure if that meant
+    he just decided to get one as a gift for me. But my brother brought it up from the apartment mail room when he returned today, so now
+    I have a Bissell Little Green Machine, which I am extremely excited about. Thank you father.
+</p>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/bissell-littlegreenmachine.jpg">
+        <span>can't wait to take this baby for a spin</span>
+    </div>
+</div>
+<h4> <b>4/10/2026</b> </h4>
+<p>
+    The meeting with our advisor went well! Everything worked, mostly. I did have to step in a couple times, but I was able to get things back on track smoothly.
+    There were clear confusion points, but they were kind of where we already knew they were. And he was able to glean more about the story despite those glaring
+    gaps than I think any of us expected. We all know what we need to do, it's all coming together. The 3D scene compromise we came to together he called out as
+    working particularly well, which is great for something that did not exist even as an idea until yesterday. So I'm in high spirits.
+</p>
+<p>
+    Also, I actually got to walk around Carnival today. Talked with some friends I encountered there, and meandered around the booth alley, since the booths
+    are what I really find interesting. The carnival rides and the expensive games and food are interesting to look at as well, but the booths feel pretty unique.
+    I didn't stay too long though, since my allergies were really acting up. The theme this year of Carnival (which mostly just affects the booths and the T-shirts)
+    was "Scotty's Playlist", A.K.A. music.
+</p>
+<p>
+    Here are some pics I took.
+</p>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/CMUCarnival26-Fri-1.jpg">
+        <span>The booth alley, seen from the Toby Fox booth line (pictured below)</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/CMUCarnival26-Fri-2.jpg">
+        <span>CMU's KGB and Robot Club present: Toby Fox booth</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/CMUCarnival26-Fri-3.jpg">
+        <span>cyberworld</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/CMUCarnival26-Fri-4.jpg">
+        <span>*gasp* (this star behaved erratically)</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/CMUCarnival26-Fri-5.jpg">
+        <span>The dragon furry that my other dragon furry friend introduced to me has hidden a secret in this Deltarune, so they allege</span>
+    </div>
+</div>
+<p>
+    Are all these photos taken of/from the Toby Fox booth? Yes? Did I only actually visit the Toby Fox booth? Yes? What of it.<br>
+    (there was a DDR pad controlled game inside the Toby Fox booth. Like a rhythm game, but you're dodging attacks on a grid, kind of like
+    and Undertale mechanic. I played Megalovania and did poorly (got a B, in rhythm game scoring metrics))
+</p>
+<h4> <b>4/9/2026</b> </h4>
+<p>
+    Visited CMU Carnival, but it turned out that it started at 3:30 PM, and I was a bit early and wouldn't be able to return today. I did get this picture of
+    the booth alley under construction.
+</p>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/CMUCarnival26-Thurs-1.jpg">
+        <span>Frats, sororities, and clubs, all hard at work</span>
+    </div>
+</div>
+<p>
+    Then I went to the ETC and worked. We're showing the demo of our project to our advisor tomorrow, so that he can give us some tips for the faculty 'Softs'
+    walkaround on Monday. Got in a bit of a tense creative disagreement, but it resolved with a compromise that seems quite promising. Basically, we're just
+    trying to figure out how to frame some 3D scenes in our project, but the process of framing is a whole thing, and the process of recreating the Blender
+    render the artist is creating in Unity is a whole thing... but we're trying out rendering out the shots we want from Blender, and using them as 2D images
+    in the actual build, so that those shots function much like the 2D illustrations do, in terms of slicing them up to span across the multiple phone screens.
+    It seems to be working, and the lighting is now quite beautiful. Our 3D scenes have been noticeably lacking that, which has been tormenting both of our artists,
+    I can tell, although neither really says anything that directly (maybe the one thing that they have in common).
+</p>
+<h4> <b>4/8/2026</b> </h4>
+<p>
+    just working. Was reminded that CMU Carnival technically gives us two days off this week, so that'll be exciting. I mean, I still need to work then,
+    in preparation towards all of our deadlines, but that is still nice.
+</p>
+<h4> <b>4/7/2026</b> </h4>
+<p>
+    Playtest was a bit messy, but it seemed to be encouraging in a decent way. I also tried some other projects. I have so much to do... but it seems okay.
+    The second close reading assignment for my Russian Lit class was pushed back a week, I found out, which is great news for me! Also went back to
+    that frozen yogurt place again. Got cookies and cream this time, but wasn't a huge fan.
+</p>
+<h4> <b>4/6/2026</b> </h4>
+<p>
+    Prepping for a playtest event tomorrow. Not much else to say. Just chipping away at the project. I really need to apply to more jobs...
+</p>
+<p>
+    I saw something online about interesting historical texts like diaries and such that mention monumental historical events in the context of
+    normal people's daily lives. So, thinking about that, I will mention that today, the worst president in US history is threatening to exterminate
+    a civilization with no recourse. Horrid.
+</p>
+<h4> <b>4/5/2026</b> </h4>
+<p>
+    working and pathfinder, a very normal Sunday for me. Oh, but also, happy Easter!
+</p>
+<h4> <b>4/4/2026</b> </h4>
+<p>
+    There's a frozen yogurt place that's pay by the weight that opened up near me. I've been there like 4 times now. Brought a friend there (the person living in my
+    apartment right now. A roommate, I guess you could say). I've had mango and salted caramel there so far.
+</p>
+<p>
+    Also someone made dinner for me, so I was over at their place (cf. 3/27/26).
+</p>
+<h4> <b>4/3/2026</b> </h4>
+<p>
+    I finally completed the TFT Lorefinder today! finally... Just had to use Choncc's Treasure to finally get Xerath and Renekton in top 4.
+</p>
+<h4> <b>4/2/2026</b> </h4>
+<p>
+    just a normal day
+</p>
+<h4> <b>4/1/2026</b> </h4>
+<p>
+    April Fools!
+</p>
+<h4> <b>3/31/2026</b> </h4>
+<p>
+    Pretty chill day. Got my midterm grades back, and the literary trial grades, and they were very very good.
+    Also, Youtube recommended me this <em>No Surprises</em> cover, and it sent me into another dimension.
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/h1aN7BLHXfc?si=1hzdVtHD4CIbvewF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<h4> <b>3/30/2026</b> </h4>
+<p>
+    Very good day! The team member I fought with previously, we hugged it out. Had a morning meeting that seemed okay, then later in the day we
+    all had a big design meeting, where we aligned on what our final deliverable was going to look like, and I am quite excited about it. And we
+    all seemed mostly in agreement. Probably 94%. So very good! Now just have to do it.
+</p>
+<p>
+    Also worked with one other graduate student helping the ETC take the BVW yearly T-shirts they have framed in the Bullpen down and out of their 
+    frames so they could be photographed for archival purposes. Then put them all back up. That was fun. I will get paid for that, but I need to
+    fill out the Workday stuff. Don't let me forget!
+</p>
+<p>
+    Apparently one of the frames did fall down at the end of the day... Should just be a fluke, but I do gotta fix this... or someone does. Now
+    I am somewhat paranoid about them all falling down in the middle of the night.
+</p>
+<p>
+    I also finally started reading <em>Anna Karenina</em> (or, rather, just listening to the audiobook right now. I can't focus tonight! But the
+    translation of the edition I have is very different from this audiobook...). I am ashamed to admit it, but I am kind of into Stepan... he's
+    very Stolas-coded. And now I have admitted two somewhat shameful things. But he's so pathetic! ahh
+</p>
+<h4> <b>3/29/2026</b> </h4>
+<p>
+    Very chill day.
+</p>
+<h4> <b>3/28/2026</b> </h4>
+<p>
+    Alas, I did not have the energy to go into Playtest Day today, given the events of yesterday. Luckily, this is the first team I'm on
+    where there is someone who is capable and wants to run the playtest, so I don't have to handle that myself. Apparently it went really well though!
+    People were impressed by the technology. We lose perspective so easily, we've been dealing with these damn screens for too long. Apparently people
+    were mostly getting many of the things we needed them too. Points of confusion were roughly where we expected them. Still things are quite promising,
+    although it remains to be seen until we next meet if we are all still aligned as we should be...
+</p>
+<p>
+    CMU's ScottyCon was also today! Some of my friends were running a booth at their artist alley selling stickers and stuff, so I was helping them out
+    there after noon. And as a lover of merch and trinkets, I bought a lot of things from other artists' stands. <s>[Hopefully, I will come back to this
+    entry later and document my acquisitions, with pictures].</s>
+</p>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-6.jpg">
+        <span><em>League of Legends</em> yordle stickers, made by my <a href="https://www.ninagamboni.com/">illustrious friend.</a></span>
+    </div>
+</div>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-5.jpg">
+        <span>and some RATS, also made by my <a href="https://www.ninagamboni.com/">illustrious friend</a>, commissioned by my other friend for their lightweight
+        TTRPG <a href="https://neaman.itch.io/rat-bastards"><em>Rat Bastards</a>. Check it out!
+        </span>
+    </div>
+</div>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-1.jpg">
+        <span>Here is an assortment of keychains.
+        </span>
+    </div>
+</div>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-2.jpg">
+        <span>and an assortment of stickers. Once again, the rats with sweets are by my <a href="https://www.ninagamboni.com/">friend</a>
+        </span>
+    </div>
+</div>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-3.jpg">
+        <span>Various prints. More sweets rats, and the cat thief is done by another <a href="https://junjingr.wixsite.com/hello">friend of mine</a>
+        </span>
+    </div>
+</div>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-4.jpg">
+        <span>neat print and envelope</a>
+        </span>
+    </div>
+</div>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/knickknacks/sc26-haul-7.jpg">
+        <span>Bought these as a late birthday gift for someone who shares a birthdate with me. I have been told that this will suit them, but I am not sure yet.</a>
+        </span>
+    </div>
+</div>
 
+<h4> <b>3/27/2026</b> </h4>
+<p>
+    My god, we fought again. I'm losing my mind over here. What are we even fighting about. We are just far too different.
+    Also had to stay up with part of my team until 2 AM to actually finish up this build for Playtest Day tomorrow. Passing out now.
+</p>
+<p>
+    Also a friend of mine and one of my project team members asked me out. This is really beyond the realm of what I'm prepared to deal with,
+    although the details of that are not something I can share here yet. But, if the person I'm talking about happens to read this, then you remember
+    our conversation, and all that still stands, of course.
+</p>
 <h4> <b>3/26/2026</b> </h4>
 <p>
     Made quite good progress today! Feels like we're finally working on a game, with a clear direction. Still a lot to do though, and
@@ -319,7 +657,7 @@
     I went to two talks today: "Balancing TCGs with Power Sorting" and "Etudes and Actors: Owlcat's Tooling for Highly Branched Narrative".
 </p>
 <p>    
-    The first one was about techinques for balancing trading card games (like Magic: The Gathering). The main idea was that 'algorithmic sorting',
+    The first one was about techniques for balancing trading card games (like Magic: The Gathering). The main idea was that 'algorithmic sorting',
     i.e. formulating some kind of mathematical expression that can calculate the relative powers of cards and allow you to create perfect
     balance is basically impossible. Assigning weighted values to various elements of a card (for example, MtG's power and toughness stats) can
     help you set up a basic power curve, but no TCG's mechanics are simple enough that all of their complexity can be objectively captured in this way.
