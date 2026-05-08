@@ -1,3 +1,77 @@
+<h4> <b>5/7/2026</b> </h4>
+<p>
+    Was poking around at my bullet hell again. I guess I never really talk about it on this site (yet, as of right now. Who knows in the future). But
+    I really like bullet hells. I find the patterns a beautiful geometric thing. Which is also why I like chain maille, knitting, and pocket watches.
+    I love intricate, intentional things. But anyways, I finally figured out how to generate expanding squares made of individual bullets, which I can have
+    produced at any rotation. Big unlock for me. I really need to build out the framework of 'my bullethell' (whatever that is), so I can have fun
+    constructing actual stages and bosses that I can make playable here in some way. That would be fun. I guess I could generate OCs then, in a way
+    that makes sense to me: a 'non-artist'.
+</p>
+<p>
+    Also played DnD 5E with my less frequent TTRPG group. I've been playing Pathfinder 2E so much lately, DnD 5E is so strange to me now. It's simpler,
+    for sure, but that's nice in its own way. So that was cool.
+</p>
+<h4> <b>5/6/2026</b> </h4>
+<p>
+    The parties never end. One of my friends, who is in charge of student activities for my year, she got funding to have an event
+    at Dave and Buster's. She got a room there, food, and one hundred ~25$ preloaded cards. When I showed up, there was only six people
+    there, which was a little concerning. But people started filtering in about forty minutes in. Dave and Buster's has shockingly good
+    soft pretzels, I was impressed. I don't think all the cards got used, but it felt like there was about 30 people there. I suppose
+    that means the ETC now has 70 Dave and Buster's cards to use as they please, because there was a very nice staff member there who
+    explained to us that the cards never expired. Also that it was apparently half-off Wednesday, so the ticket-giving games were half
+    token cost, and the non-ticket-giving games were free. So very good timing! It was fun. I got a crystal growing kit? Uh, we'll see
+    what that produces once I use it I guess.
+</p>
+<p>
+    The main thing I did there was watch one of my other classmates play the Candy Crush Saga cabinet. She cleared, like, 6 out of the 16 stages,
+    and it had already had some progression on it, so she was about 2 stages away from the jackpot stage. But alas, we ran out of tokens. I kind
+    of want to download <em>Candy Crush now</em> though.
+</p>
+<h4> <b>5/5/2026</b> </h4>
+<p>
+    Finally got a hangover today. Oof. Not so bad though. Just a pounding headache for a bit. But it's a friend's birthday today (sort of
+    his birthday, actually it's Cinco de Mayo today, which they're hosting a thing for, but since their birthday is nearby and people are
+    starting to fly out this month, the two events were condensed).
+</p>
+<p>
+    Woke up very late today, and very quickly had to get it together to bake a raspberry pie with my friends for the birthday. We did it,
+    and it turned out... uhhh..
+    [I WILL INSERT PICTURES HERE LATER]
+</p>
+<p>
+    You know, it depicts a meteor impact, so the scorching is thematic. But uh, yeah, I could have definitely baked this one better.
+    Two issues really: 
+    <ul>
+        <li>the brand of premade crust I used, it just wasn't large enough or robust enough for the size of pie dish I had.</li>
+        <li>my oven rack was set too high. The pie got cooked too hot, so the crust scorched, but the filling didn't get to cook down enough</li>
+    </ul>
+
+    But oh well, not everything can be perfect. I may try to salvage the filling/the remaining portion of the pie by simmering it again in the oven.
+    Also, I got my friend <em>Titanium Court</em>, which is a game that seems nifty to me. I have not played it myself. I saw a bit of a let's play,
+    but stopped watching it because I wanted to play it myself. Hopefully it is good. It seemed very interesting. Also got him durian ice cream, but
+    apparently he does not like durian at all, so that was very funny. We were fed misinformation, apparently.
+</p>
+<p>
+    The party was fun. Just hanging out. There was a grill, but unfortunately I could not eat any of the meats. There was also a cake with pickle
+    candles. And I got one drink, since one of our friends likes to bartend at these sorts of events. Big mistake. I am never drinking again.
+    It was good, but given my state since last night/this morning, it did not make me feel great.
+</p>
+<h4> <b>5/4/2026</b> </h4>
+<p>
+    oughhhhhhhhhh
+</p>
+<p>
+    Went out drinking with my project team as an end-of-the-term sort of thing. We got drinks at a place called Cupka's Cafe, of which there
+    are apparently many variations in a small area, so I wandered the streets a bit at night to find it. But the weather was very nice. I saw
+    a poster for some kind of plushie art gallery event that has a Neocities page (whose.neocities.org). I was able to get two gin and tonics
+    for $3.75 a piece (absolutely wild), and they felt quite strong to me. It was only two drinks, which I've certainly had before, but for
+    some reason I felt <em>way</em> drunker than I ever have before. I drink straight gin while I'm alone in my apartment. I don't know what
+    was up with them. I mean, they were in plastic cups that were quite tall and quite full, and you could certainly taste the gin. Perhaps
+    it was a matter of volume. But for that price!? Amazing. Anyways, I got kind of messy.
+</p>
+<p>
+    $3.75... in this economy? Also our 3D artist paid for the second round that that second gin and tonic was in. Thank you for that.
+</p>
 <h4> <b>5/3/2026</b> </h4>
 <p>
     Much more relaxing day today than I've had in a while.
