@@ -1,3 +1,31 @@
+<h4> <b>5/10/2026</b> </h4>
+<p>
+    <ul>
+        <li>CMU Commencement today</li>
+        <li>Jensen Huang spoke [GRAINY PHOTO HERE]</li>
+        <li>Finally gave the last of my classmates the Japan gifts I've been needing to give</li>
+        <li>Casino: [IF I WIN] / [IF I LOSE]</li>
+    </ul>
+</p>
+<h4> <b>5/9/2026</b> </h4>
+<p>
+    There's a university-wide commencement ceremony tomorrow, but for today I was just hanging out with my family. We went to the mall, and
+    I got some teas and spices, and a 6-inch round cake pan. Then we went on a river boat tour. Then we went to the casino, and I lost $98 on
+    Blackjack (although I was up $90 at one point. why didn't I just quite while I was ahead!). Then we got dinner at a Mediterranean place.
+    Very cool.
+</p>
+<h4> <b>5/8/2026</b> </h4>
+<p>
+    ETC's commencement ceremony happened today. I got my diploma. Took pictures with my classmates, ate some reception food (they had
+    loaves of bread arranged out on the tables seemingly just for display, so I swiped an entire loaf for myself). It was all good.
+    My family is also here right now, so that's cool. There was a form we were asked to fill out asking us about our future plans and such,
+    and I didn't realize it at the time, but they read those answers out as we walked to get our diplomas. I had said that in five years, I planned
+    to have made my first billion. I kind of remember thinking that those answers were just going to be text on a slideshow or something, but I was
+    very stressed and sleep-deprived when I filled out that form.
+</p>
+<p>
+    I could fill this entry with photos, but this isn't Instagram, so I'm not going to put all my classmates on blast like that.
+</p>
 <h4> <b>5/7/2026</b> </h4>
 <p>
     Was poking around at my bullet hell again. I guess I never really talk about it on this site (yet, as of right now. Who knows in the future). But
@@ -39,9 +67,18 @@
 </p>
 <p>
     Woke up very late today, and very quickly had to get it together to bake a raspberry pie with my friends for the birthday. We did it,
-    and it turned out... uhhh..
-    [I WILL INSERT PICTURES HERE LATER]
+    and it turned out... uhhh...
 </p>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/dinopie_1.jpg">
+        <span>before baking</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/dinopie_3.jpg">
+        <span>after baking (accidentally gave this thing a heavy scorching)</span>
+    </div>
+</div>
 <p>
     You know, it depicts a meteor impact, so the scorching is thematic. But uh, yeah, I could have definitely baked this one better.
     Two issues really: 
@@ -713,7 +750,7 @@
 <p>
     I walked home in an unexpected Spring snowstorm today. It was quite nice, ultimately, although snow and ice and water did get in my Crocs
     and make my right sock quite wet. But I made it.
-    <img src="https://kadorath.github.io/resources/images/snowday3-16-26.jpg">
+    <img src="https://kadorath.github.io/resources/images/journal/snowday3-16-26.jpg">
 </p>
 <h4> <b>3/15/2026</b> </h4>
 <p>
