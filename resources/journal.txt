@@ -5,7 +5,7 @@
         <li>Jensen Huang spoke. Here he is:
             <div class="image-caption-block">
                 <img src="https://kadorath.github.io/resources/images/journal/JensenHuang.jpg">
-                <span></span>
+                <span>he didn't give us free GPUs, 0/10</span>
             </div>
             <p>
                 I have such conflicted feelings about him. I am deeply frustrated by the way of the world, and
@@ -14,7 +14,9 @@
                 he was a little more cynical. But Jensen was also a little more tempered than I expected. All these AI thought-leaders,
                 they keep saying "don't worry, AI will benefit us all (but only if you learn how to use it ;D). Frankly, he's probably
                 right in essence, but I simply disagree with his outlook. Alas, I suppose it will be the modern burden of my generation,
-                so... eh. I'm too wearied to be so angry right now. But my own mood will oscillate, as it has been.
+                so... eh. I'm too wearied to be so angry right now. But my own mood will oscillate, as it has been. (I considered trying
+                out Claude Code to vibe code some random project, so I can stay up-to-date with the 'cutting edge'. But it costs $17 a month
+                to use at all!? I do not want to pay that.)
             </p>
             <p>
                 I do have to say, Jensen Huang is clearly a very comfortable public speaker. The speech he gave was constructed and
@@ -34,15 +36,47 @@
             tired or something.
         </p>
         <p>
-            <s>[DRAFT: IF I WIN]: LUCK EQUATES WITH SKILL. I AM A GAMBLING GOD. IT'S AS THOUGH I CAN
-            SEE THROUGH THE TOP OF THE DECK. WHEN I WANT A BLACKJACK, I GET ONE. I HIT ON 18'S AND I GET 3'S.</s>
+            [DRAFT: IF I WIN]: LUCK EQUATES WITH SKILL. I AM A GAMBLING GOD. IT'S AS THOUGH I CAN
+            SEE THROUGH THE TOP OF THE DECK. WHEN I WANT A BLACKJACK, I GET ONE. I HIT ON 18'S AND I GET 3'S. I WALK AROUND
+            THE CASINO FLOOR, I SEE A SLOT MACHINE THAT'S CALLING TO ME, I SIT DOWN AND I SPIN A JACKPOT RIGHT AWAY. WE GOT PAID OUT
+            BIT BY THREE SLOT MACHINES. I'M UP $170, AND MY BROTHER'S PARTNER IS UP $260. AND I WON $35 AT BLACKJACK.
+        </p>
+        <p> 
+            Okay, in all seriousness, I actually was quite lucky. I started Blackjack sort of bouncing back and forth around my base,
+            but then the table had a terrible streak where the dealer started really devastating all of us with lucky blackjacks. But I bet
+            big at just the right time, and managed to clawback an almost complete wipe out to being $35 up, and I called it then. Then,
+            while the rest of my family (mom, dad, brother, grandmother) continued playing at the table, I walked around and looked at some
+            slot machines. My brother's partner was also doing that, so I wandered with her for a bit, but it seemed to damage her luck, so I went
+            elsewhere. On my wanderings, I saw a machine that seemed to be themed around a Lion spirit and a Dragon spirit dueling, so I tried
+            my luck at it. And in only the first $10 worth of spins, I hit the bonus game! The animations seemed somewhat broken, and it went on
+            for an absolute age, but by the end, I was up $170! I actually thought that it had taken 10 minutes of my time to only give my $11, but
+            that's just because I misinterpreted the credit number and how it was actually paying me out. So withdrawing the ticket receipt for my winnings
+            was a doubly pleasant surprise.
         </p>
         <p>
-            [DRAFT: IF I LOSE]: You know, gambling is more about playing a fun game, where the excitement
-            is in the moment to moment decisions that you make, than it is about 'winning', per say. That's why I like Blackjack. 
-            Unfortunately, I ended up
-            $98 down by the end, but at one point I was $90 up, so it was really like I was paying to have a fun, exciting
-            gaming experience. Albeit an expensive one. But it was a family outing.</li>
+            After that, I rejoined my brother's partner, and he joined us as well as our family went off for the night, and we wandered around looking for more
+            lucky-seeming slot machines. We saw some machine with progressive jackpots that had three fishbowls with fish in them to represent the progress towards
+            three different kinds of bonus game. One of the fish seemed to be near completion (it was so big the bowl was cracked), and my brother's partner really wanted to win back some money lost on previous
+            machines, so we decided to try it. We ended up not getting that fish right away, but just as we were losing hope, we unexpectedly got one of the other
+            bowls to crack, and we won a bonus game! We got like 40 bucks on that or something. Then we continued until we got the other bowl. So we were somewhat up
+            at that point. We then kept wandering around, until we came upon another progressive slot machine, this one with hanging firecracker chains. One of the
+            chains seemed to be right at the edge of completion, but we slowly found out that that was a TRICK! I mean, of course it was. But we kept getting the
+            symbol that would light the chain, and the last firecracker kept fizzling instead of lighting. A woman on a duplicate machine next to us seemed to be
+            in a similar situation. When she got up to leave, we also decided to give up. But we took a quick look at her machine first, and saw that she actually had
+            two firecracker chains that were right at the edge as well. So against our better judgement, we decided to give the machine she abandoned a try. And quite
+            quickly, something or other happened and suddenly all of the bonus game firecracker chains were ignited! And we won $200. It was quite exhilarating. Slot
+            machines are clearly skill based. After that we went to a similar machine that had the firecracker chains, but four of them instead of three. We got three of
+            those chains right to the edge, but they just wouldn't go off. And after each putting in $25 to push it over, we realized we needed escape with our earnings
+            before the casino ensnared us and took them back. So we scarpered off.
+        </p>
+        <p>
+            gambling pays.
+        </p>
+        <p>
+            <s>[DRAFT: IF I LOSE]: Unfortunately, couldn't win back what I lost yesterday. Still down. But that's the cost of gambling!
+            Really, it's like paying to play games at an arcade. I like Blackjack. I think it's fun. I also like slot machines. The, perhaps
+            villanous, game design in casinos, be it the flashy Skinner box tactics of video slots or the rigid decision tree probabilities of
+            Blackjack, are fun to me. So I spent my money as a graduation celebration to play some games. It's not all about winning.</s></li>
         </p>
     </ul>
 </p>
