@@ -1,3 +1,16 @@
+<h4> <b>5/13/2026</b> </h4>
+<p>
+
+</p>
+<h4> <b>5/12/2026</b> </h4>
+<p>
+    hmmm mmhm mhm
+</p>
+<h4> <b>5/11/2026</b> </h4>
+<p>
+    Well, two days break, and then I'm flying out to Boston to help my sister celebrate <em>her</em> graduation. 'Tis the season.
+    Working on my bullethell in the meantime. I really need to update my resume... but ugh.
+</p>
 <h4> <b>5/10/2026</b> </h4>
 <p>
     <ul>
@@ -5,7 +18,7 @@
         <li><p>Jensen Huang spoke. Here he is:</p>
             <div class="image-caption-block">
                 <img src="https://kadorath.github.io/resources/images/journal/JensenHuang.jpg">
-                <span>he didn't give us free GPUs, 0/10</span>
+                <span>he didn't give us free GPUs. 0/10</span>
             </div>
             <p>
                 I have such conflicted feelings about him. I am deeply frustrated by the way of the world, and
