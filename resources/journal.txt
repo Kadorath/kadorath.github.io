@@ -1,6 +1,19 @@
 <h4> <b>5/13/2026</b> </h4>
 <p>
-
+    Flying out to Boston on Delta. My brother and I got upgraded to First Class! It's a very short flight, but it was wild.
+    You get free drinks and they bring out a tray of snacks that you can just take multiple items off of. I got white wine,
+    and it came in a glass!
+</p>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/DeltaFlight5-18-26.jpg">
+        <span>absolutely wild. this was more wine than I could finish before we started landing.</span>
+    </div>
+</div>
+<p>
+    Also, the landscape of Boston is fascinating. Very foresty, and the costline is extremely windy, and the ocean is shallow
+    for a long time past the beach. There was some peninsula I saw that connected to the land via a tiny land bridge with really just
+    an asphalt street on it, and then opened up like a club head into some kind of neighborhood. Very interesting.
 </p>
 <h4> <b>5/12/2026</b> </h4>
 <p>
