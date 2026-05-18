@@ -4,38 +4,46 @@
         <li>CMU Commencement today</li>
         <li>Jensen Huang spoke. Here he is:
             <div class="image-caption-block">
-                <img src="https://kadorath.github.io/resources/journal/journal/JensenHuang.jpg">
+                <img src="https://kadorath.github.io/resources/images/journal/JensenHuang.jpg">
                 <span></span>
             </div>
             <p>
-            I have such conflicted feelings about him. I am deeply frustrated by the way of the world, and
-            in the end, his commencement speech was about the kind of evangelizing you would expect. I mean,
-            during my program-specific commencement ceremony, our alumni speaker also said the same things, although
-            he was a little more cynical. But Jensen was also a little more tempered than I expected. All these AI thought-leaders,
-            they keep saying "don't worry, AI will benefit us all (but only if you learn how to use it ;D). Frankly, he's probably
-            right in essence, but I simply disagree with his outlook. Alas, I suppose it will be the modern burden of my generation,
-            so... eh. I'm too wearied to be so angry right now. But my own mood will oscillate, as it has been.
+                I have such conflicted feelings about him. I am deeply frustrated by the way of the world, and
+                in the end, his commencement speech was about the kind of evangelizing you would expect. I mean,
+                during my program-specific commencement ceremony, our alumni speaker also said the same things, although
+                he was a little more cynical. But Jensen was also a little more tempered than I expected. All these AI thought-leaders,
+                they keep saying "don't worry, AI will benefit us all (but only if you learn how to use it ;D). Frankly, he's probably
+                right in essence, but I simply disagree with his outlook. Alas, I suppose it will be the modern burden of my generation,
+                so... eh. I'm too wearied to be so angry right now. But my own mood will oscillate, as it has been.
             </p>
             <p>
-            I do have to say, Jensen Huang is clearly a very comfortable public speaker. The speech he gave was constructed and
-            delivered with a clear skill. So, at least he isn't like Elon Musk, who feels like he's failing upwards at every conference
-            he speaks at. Jensen did tell a slightly funny/frightening anecdote about how his wife is much older than him and they
-            started dating when he was 17? But I guess it worked out for him... slightly concerning though.
+                I do have to say, Jensen Huang is clearly a very comfortable public speaker. The speech he gave was constructed and
+                delivered with a clear skill. So, at least he isn't like Elon Musk, who feels like he's failing upwards at every conference
+                he speaks at. Jensen did tell a slightly funny/frightening anecdote about how his wife is much older than him and they
+                started dating when he was 17? But I guess it worked out for him... slightly concerning though.
             </p>
             <p>
-            So, that was that.
+                So, that was that.
             </p>
         </li>
         <li>Finally gave the last of my classmates the Japan gifts I've been needing to give, so I finally have
         completed that little sidequest of mine.</li>
-        <li>Went to the casino with my family after. Just my mom and grandmother, since my brother was
-        tired or something. <s>[DRAFT: IF I WIN]: LUCK EQUATES WITH SKILL. I AM A GAMBLING GOD. IT'S AS THOUGH I CAN
-        SEE THROUGH THE TOP OF THE DECK. WHEN I WANT A BLACKJACK, I GET ONE. I HIT ON 18'S AND I GET 3'S.</s>/ 
-        [DRAFT: IF I LOSE]: You know, gambling is more about playing a fun game, where the excitement
-        is in the moment to moment decisions that you make, than it is about 'winning', per say. That's why I like Blackjack. 
-        Unfortunately, I ended up
-        $98 down by the end, but at one point I was $90 up, so it was really like I was paying to have a fun, exciting
-        gaming experience. Albeit an expensive one. But it was a family outing.</li>
+        <li>
+        <p>
+            Went to the casino with my family after. Just my mom and grandmother, since my brother was
+            tired or something.
+        </p>
+        <p>
+            <s>[DRAFT: IF I WIN]: LUCK EQUATES WITH SKILL. I AM A GAMBLING GOD. IT'S AS THOUGH I CAN
+            SEE THROUGH THE TOP OF THE DECK. WHEN I WANT A BLACKJACK, I GET ONE. I HIT ON 18'S AND I GET 3'S.</s>
+        </p>
+        <p>
+            [DRAFT: IF I LOSE]: You know, gambling is more about playing a fun game, where the excitement
+            is in the moment to moment decisions that you make, than it is about 'winning', per say. That's why I like Blackjack. 
+            Unfortunately, I ended up
+            $98 down by the end, but at one point I was $90 up, so it was really like I was paying to have a fun, exciting
+            gaming experience. Albeit an expensive one. But it was a family outing.</li>
+        </p>
     </ul>
 </p>
 <h4> <b>5/9/2026</b> </h4>
