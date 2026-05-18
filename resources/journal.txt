@@ -2,9 +2,21 @@
 <p>
     <ul>
         <li>CMU Commencement today</li>
-        <li>Jensen Huang spoke [GRAINY PHOTO HERE]</li>
+        <li>Jensen Huang spoke. Here he is:
+            <div class="image-caption-block">
+                <img src="https://kadorath.github.io/resources/journal/JensenHuang.jpg">
+                <span></span>
+            </div>
+        </li>
         <li>Finally gave the last of my classmates the Japan gifts I've been needing to give</li>
-        <li>Casino: [IF I WIN] / [IF I LOSE]</li>
+        <li>Went to the casino with my family after. Just my mom and grandmother, since my brother was
+        tired or something. <s>[DRAFT: IF I WIN]: LUCK EQUATES WITH SKILL. I AM A GAMBLING GOD. IT'S AS THOUGH I CAN
+        SEE THROUGH THE TOP OF THE DECK. WHEN I WANT A BLACKJACK, I GET ONE. I HIT ON 18'S AND I GET 3'S.</s>/ 
+        [DRAFT: IF I LOSE]: You know, gambling is more about playing a fun game, where the excitement
+        is in the moment to moment decisions that you make, than it is about 'winning', per say. That's why I like Blackjack. 
+        Unfortunately, I ended up
+        $98 down by the end, but at one point I was $90 up, so it was really like I was paying to have a fun, exciting
+        gaming experience. Albeit an expensive one. But it was a family outing.</li>
     </ul>
 </p>
 <h4> <b>5/9/2026</b> </h4>
