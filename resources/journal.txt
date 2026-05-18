@@ -2,7 +2,7 @@
 <p>
     <ul>
         <li>CMU Commencement today</li>
-        <li>Jensen Huang spoke. Here he is:
+        <li><p>Jensen Huang spoke. Here he is:</p>
             <div class="image-caption-block">
                 <img src="https://kadorath.github.io/resources/images/journal/JensenHuang.jpg">
                 <span>he didn't give us free GPUs, 0/10</span>
@@ -34,6 +34,12 @@
         <p>
             Went to the casino with my family after. Just my mom and grandmother, since my brother was
             tired or something.
+        </p>
+        <p>
+            <s>[DRAFT: IF I LOSE]: Unfortunately, couldn't win back what I lost yesterday. Still down. But that's the cost of gambling!
+            Really, it's like paying to play games at an arcade. I like Blackjack. I think it's fun. I also like slot machines. The, perhaps
+            villanous, game design in casinos, be it the flashy Skinner box tactics of video slots or the rigid decision tree probabilities of
+            Blackjack, are fun to me. So I spent my money as a graduation celebration to play some games. It's not all about winning.</s></li>
         </p>
         <p>
             [DRAFT: IF I WIN]: LUCK EQUATES WITH SKILL. I AM A GAMBLING GOD. IT'S AS THOUGH I CAN
@@ -71,12 +77,6 @@
         </p>
         <p>
             gambling pays.
-        </p>
-        <p>
-            <s>[DRAFT: IF I LOSE]: Unfortunately, couldn't win back what I lost yesterday. Still down. But that's the cost of gambling!
-            Really, it's like paying to play games at an arcade. I like Blackjack. I think it's fun. I also like slot machines. The, perhaps
-            villanous, game design in casinos, be it the flashy Skinner box tactics of video slots or the rigid decision tree probabilities of
-            Blackjack, are fun to me. So I spent my money as a graduation celebration to play some games. It's not all about winning.</s></li>
         </p>
     </ul>
 </p>
