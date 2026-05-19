@@ -1,3 +1,20 @@
+<h4> <b>5/18/2026</b> </h4>
+<p>
+    Working on some things. My artist found something that could help with some of our dither flashing issues in <em>Onion Future</em> which have been driving
+    me mad. This great runtime static dithering tool by dennens on <a href="https://dennens.itch.io/hope-lost/devlog/701729/run-time-screen-space-dithering">itch.io</a>
+    They made a tool that converts greyscale images to a special format, that then a small C library can use to create and draw images with static dither shading.
+    I spent some time getting it working, since I wasn't familar with the PlaydateSDK C API yet. But after some slight modifications to the functions to make them
+    callable from our Lua game as opposed to just pure C methods, I got it working!
+</p>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/pomniditherbounce.gif">
+    </div>
+</div>
+<p>
+    Now me and the artist will just run some tests to see what our assets and style could look like using this tool! And hopefully it solves all of our issues.
+    (I am also trying to learn Figma so I can really figure out some UI flows in our combat screens, which I've been procrastinating on).
+</p>
 <h4> <b>5/17/2026</b> </h4>
 <p>
     classic programming and pathfinder sunday for me today.
