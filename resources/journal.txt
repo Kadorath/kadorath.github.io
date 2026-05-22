@@ -1,3 +1,13 @@
+<h4> <b>5/21/2026</b> </h4>
+<p>
+    I have made substantial progress untangling the rat nest combat scripts for <em>Onion Future</em>. That is helping me get some mental clarity for game design. I think
+    I can finally figure this out now.
+</p>
+<h4> <b>5/20/2026</b> </h4>
+<p>
+    beginning to feel my attention shifting back towards <em>Onion Future</em>. It helps that my brother has seemed to have begun taking ownership of not just the audio, but the audio
+    manager scripts. that is very good.
+</p>
 <h4> <b>5/19/2026</b> </h4>
 <p>
     I got a notification on LinkedIn that seemed to fit my current situation so well that it finally kicked me off my rear and got me to update my resume. I have
