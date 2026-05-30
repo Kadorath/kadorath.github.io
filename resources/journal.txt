@@ -1,3 +1,35 @@
+<h4> <b>5/30/2026</b> </h4>
+<p>
+    'TIS DONE!!!!
+</p>
+<p>
+    I have finally finished this god forsaken book (<em>Don Quixote</em>)
+</p>
+<p>
+    I think it took me like four or five years. It literally ends with Cervantes talking about that author that wrote the fake second book again. All that time, for this:
+    <blockquote>
+        For me alone was Don Quixote born, and I for him; it was for him to act, for me to write; we two are as one, in spite of that false writer from Tordesillas who has had and may even again have the 
+        effrontery to write with a coarse and clumsy ostrich quill about my valiant knight's deeds, because this is not a burden for his shoulders or a subject for his torpid wit. And you can warn him, 
+        if you do happen to meet him, to leave Don Quixote's weary mouldering bones at rest in his tomb, and not to try to take him, in the face ofa ll the prerogatives of death, to Old Castile, making 
+        him rise from the grave where he really and truly does lie stretched out at full length, quite incapable of any third sally or fresh campaign; because to make fun of all those campaigns waged by 
+        so very many knights errant his two are quite sufficient, such has been the approval and delight of all those who have known of them, both in Spain and in foreign realms. And so you will have carried 
+        out your Christian mission, giving good advice to one who wishes you itll, and I shall feel proud and satisfied to have been the first author to enjoy the full fruit of his writings, as I desired,
+        because my only desire has been to make men hate those false, absurd histories in books of chivalry, which thanks to the exploits of my real Don Quixote are even not tottering, and without any doubt 
+        will soon tumble to the ground. Farewell.
+    </blockquote>
+    This book really is just the prototype of the parody novel of modern days... Like <em>Harry Potter and The Methods of Rationality</em>...
+</p>
+<p>
+    Also, near the end of the second book, a character who had faked death to Don Quixote is recounting what she saw looking into hell, and she's painting this strange picture of a bunch of devils playing tennis, 
+    but with books instead of balls. And she sees them serve up a book that looks brand new, and it's "The Second Adventures of Don Quixote", the fake sequel book. And the devils apparently had a 
+    conversation where they talked about how it's the worst thing ever written, and even if they (the devils) tried to write something worse, they wouldn't be able to Cervantes was clearly... very affected by the fake 
+    sequel lol.
+</p>
+<p>
+    Okay, I'm going to go read Circe now
+    And, uhhh, Darling Madness...
+</p>
+</p>
 <h4> <b>5/29/2026</b> </h4>
 <p>
     Made more progress on the <em>Onion Future</em> combat system today! I'm starting to feel it more and more when I test it. I wanted to get even
