@@ -1,3 +1,58 @@
+<h4> <b>5/29/2026</b> </h4>
+<p>
+    Made more progress on the <em>Onion Future</em> combat system today! I'm starting to feel it more and more when I test it. I wanted to get even
+    more done today, but I think I need to sleep on it instead. I have a plan for the next small steps I need to take, in terms of shaping the turn-to-turn
+    player flow, but I want to let that also sit a bit, so I don't do everything all at once. Every time you look at something with fresh eyes, your perspective
+    becomes a little sharper.
+</p>
+<p>
+    I've also been maybe drinking a few too many Hot Toddy's as of late. But it's such a good cocktail. I did also just make hot lemon water with sugar a couple days
+    ago, but it was only kind of the same. Maybe I'll try subbing out the rum for Angostura Bitters to make a kind of mocktail. I'm getting headaches...
+</p>
+<h4> <b>5/28/2026</b> </h4>
+<p>
+    I am losing track of time a little bit. Today was such a fog.
+</p>
+<h4> <b>5/27/2026</b> </h4>
+<p>
+    Had a call with the alumni my advisor set up a connection with for me a while back. It was great. We talked for a while, just about the various state
+    of the industry. I told her about how the job search is from the early career position that I'm at these days, and she told me about the most recent
+    changes in the way AI is being treated in the industry. And then she set me up with a connection with another older alumni that she had worked with, and
+    he seems really friendly as well! Also just recently searching for a job, if his LinkedIn profile is any indication, although it's not totally clear. But
+    we scheduled a time to grab coffee and just chat for next week, so that's cool. If he is searching for a job right now, then it will be especially fun to talk
+    to him, I think.
+</p>
+<h4> <b>5/26/2026</b> </h4>
+<p>
+    I really think I'm getting somewhere with this combat system design.
+</p>
+<h4> <b>5/25/2026</b> </h4>
+<p>
+    Saw <em>Project Hail Mary</em> today. It was great! I'd been seeing clips and fanart of it already, so it was a bit spoiled for me. But it was
+    very charming, well-paced, interesting, fun. I quite liked it. I think the way the flashbacks were interspersed at key moments of the primary story
+    was very cool. Would recommend.
+</p>
+<p>
+    (I was considering whether or not to put Ryland Grace in the fox dungeon, given his fox motif. And then I realized that this is my site, and the rules
+    I set are of my own making.)
+</p>
+<h4> <b>5/24/2026</b> </h4>
+<p>
+    pathfinder day. also, I bought some skincare serums and tinctures, and they came in these cool glass bottles. So that's nifty.
+    I've also been seeing a lot of Youtube Shorts clips of some anime about what seems like a guy who doesn't have magic powers, attending
+    a wizard school where everyone is convinced they're the best. And he kind of just punches them with a low-energy demeanor when they laugh at
+    how little magic he has. It's the same clip over and over again basically. But it seems like it does it well, so that's interesting. Saw a
+    scene from that show that I particularly liked where he buries some dean who is explicitly classist.
+</p>
+<h4> <b>5/23/2026</b> </h4>
+<p>
+    okay, these days are blurring together a little bit. more job related stuff. I didn't get the job I was hopeful for. But now that I've got things
+    set up, I'm just sort of spam applying to random things. It is depressing my spirits quite a bit though...
+</p>
+<h4> <b>5/22/2026</b> </h4>
+<p>
+    more progress today
+</p>
 <h4> <b>5/21/2026</b> </h4>
 <p>
     I have made substantial progress untangling the rat nest combat scripts for <em>Onion Future</em>. That is helping me get some mental clarity for game design. I think
