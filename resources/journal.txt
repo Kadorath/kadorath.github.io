@@ -1,3 +1,59 @@
+<h4> <b>6/5/2026</b> </h4>
+<p>
+    Session 0 for a Rise of the Old Ones campaign, but that's about it today.
+</p>
+<h4> <b>6/5/2026</b> </h4>
+<p>
+    Chill day.
+</p>
+<h4> <b>6/4/2026</b> </h4>
+<p>
+    Saw the finale of <em>The Amazing Digital Circus</em> in theatres today! (with two friends. you know who you are). It was great. I quite liked it. I find often with animated shows that their pacing can be off, and they don't seem to know
+    how to handle their endings, but I was quite impressed with TADC. I feel like it knew how it wanted to end, it was interesting, it did it well, and it wrapped up in a satisfying way. There were some pacing things
+    at the beginning that felt a bit off, but overall, especially in the back half, I felt that it was quite solid. Thinking about buying the Pomni popcorn bucket. It would go good with my growing collection...
+</p>
+<p>
+    I did pass out very early today.
+</p>
+<h4> <b>6/3/2026</b> </h4>
+<p>
+    Got coffee with the person that my alumni connection connected me with. Another alumni. He's also looking for a job right now. Or rather, he's taking a bit of a break because he was just taking care of family.
+    He's a bit more sardonic than my other connection, but he was cool. We talked about movies and current media trends and such. And also general job stuff. I drank way too much coffee. We were at the cafe near me,
+    and apparently their large sized lattes are four shots now. So I kind of felt a bit crazy by the end of that... 
+</p>
+<h4> <b>6/2/2026</b> </h4>
+<p>
+    Took the skills test for Epic Systems today. It was interesting. It was four parts. A 2-minute section with some simple arithmetic problems that you wanted to solve as many of in the time as possible. I think I
+    got 6/10 or something... I could have done better, if I was more awake. Oh well. Then a math section, which was mostly basic math, with some weird questions. There was one fun one that was something like "how many
+    minutes is it before 4:00 if 30 minutes before now it was four times as many minutes past 2:00". I liked that one. Then there was a stupid one that was like "a man just finished painting his house, and sees he needs
+    one last thing. He goes to the hardware store, and the employee there brings him to what he needs. He says 'one is $1'. The man says 'I need 600 for $3'". I looked it up afterwards, and apparently it's supposed to be
+    some lateral thinking thing, where he needs a new housenumber, and it's 1 dollar per digit. That's dumb. Why would buying a new house number be the definite 'finishing touch' he needed. The house numbers are 1-999??? My house
+    number was four digits. And it was, like, on a beam on my house or on a driveway lamppost or something. And couldn't he have painted around it? The more correct sounding alt answer I see online is that he needed 600 nails, and the
+    employee was pointing at a 200ct box for $1, and he needs 600 nails, so 3 200ct boxes. That makes way more sense to me. I mean, he's at a hardware store for goodness sake. The other silly question was, like, "today, under <strong>certain 
+    circumstances</em> an apple costs 40 cents, a banana 60 cents, and a grapefruit 80 cents. Under the same circumstances, how much does a pear cost?" I was talking about it with a friend afterwards, and we think that it's the number of
+    vowels in the fruit name are 20 cents each for the cost. I think I may have guessed it right, but I was too busy counting the wholes in the letters to realize that at the time.
+</p>
+<p>
+    The other two sections were interesting too. It was one that was four basic leetcode problems. The final one was about doing a wordsearch, that sort of thing. And then the other section was you were reading/learning about a fake
+    programming language, and answering questions about the way it works as you learned about it. That was interesting. In its documentation, it shows you how it does arithmetic and all that, but specifies that it calculates strictly
+    left to right, so no order of operations, barring parentheses. That was an interesting challenge. String concatenation and implicit conversion between integers and strings was odd though. It specified that strings could be cast to integers,
+    and elaborated on how, but it didn't mention that integers could implicitly become strings. But then a bunch of questions afterwards felt like they would be kind of impossible if that weren't the case. So who knows if I got that right.
+</p>
+<p>
+    Honestly who knows how that test went. It felt <em>fine</em> but not perfect or even great. So we'll see. It will be what it will be.
+</p>
+<h4> <b>6/1/2026</b> </h4>
+<p>
+    Had an initial interview call for Epic Systems today. Talked to a software developer there for about 45 minutes. Honestly, the company seems kind of interesting. They've got a crazy campus.
+    For some reason their offices are built to look like castles or something? The guy I was talking to said he worked in "the fortress", and that there was a dragon on the roof. They've got all the
+    client-focused development philosophy that you like to see. I was a bit overenthusiastic during the call, I think, but oh well. He mentioned <em>Broth's Soup</em> on my portfolio, which caught me offguard
+    since I did not think I linked that. I really need to finish my portfolio, I can't believe they saw it in the state it's in right now... At least he said he liked it! I should have talked about it more, I kind
+    of balked when I heard it.
+</p>
+<h4> <b>5/31/2026</b> </h4>
+<p>
+    I've started playing <em>Mina the Hollower</em>. Cool game, but I'm getting my butt kicked. I think I have to add El to the fox dungeon, although I must confirm first.
+</p>
 <h4> <b>5/30/2026</b> </h4>
 <p>
     'TIS DONE!!!!
