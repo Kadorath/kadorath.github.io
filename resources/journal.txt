@@ -1,10 +1,10 @@
-<h4> <b>6/5/2026</b> </h4>
+<h4> <b>6/6/2026</b> </h4>
 <p>
-    Session 0 for a Rise of the Old Ones campaign, but that's about it today.
+    Session 0 for a Rise of the Old Ones campaign, but that's about it today. Doing leetcode and studying today as well.
 </p>
 <h4> <b>6/5/2026</b> </h4>
 <p>
-    Chill day.
+    Chill day. Did some leetcode and MERN studying to prepare for the Amazon skills test. I learned Mongoose... I probably won't ace this test. But who knows.
 </p>
 <h4> <b>6/4/2026</b> </h4>
 <p>
