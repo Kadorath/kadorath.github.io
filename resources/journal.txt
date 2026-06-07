@@ -44,6 +44,9 @@
 </p>
 <h4> <b>6/1/2026</b> </h4>
 <p>
+    'tis June! Happy Pride!
+</p>
+<p>
     Had an initial interview call for Epic Systems today. Talked to a software developer there for about 45 minutes. Honestly, the company seems kind of interesting. They've got a crazy campus.
     For some reason their offices are built to look like castles or something? The guy I was talking to said he worked in "the fortress", and that there was a dragon on the roof. They've got all the
     client-focused development philosophy that you like to see. I was a bit overenthusiastic during the call, I think, but oh well. He mentioned <em>Broth's Soup</em> on my portfolio, which caught me offguard
