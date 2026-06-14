@@ -1,3 +1,11 @@
+<h4> <b>6/7/2026</b> </h4>
+<p>
+    My brother has begun constructing his blog. Check it out <a href="michael-g-wong.com/blog">here</a>! 
+</p>
+<h4> <b>6/7/2026</b> </h4>
+<p>
+    Big Dog 2026
+</p>
 <h4> <b>6/6/2026</b> </h4>
 <p>
     Session 0 for a Rise of the Old Ones campaign, but that's about it today. Doing leetcode and studying today as well.
