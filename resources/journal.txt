@@ -1,6 +1,41 @@
-<h4> <b>6/7/2026</b> </h4>
+<h4> <b>6/11/2026</b> </h4>
 <p>
-    My brother has begun constructing his blog. Check it out <a href="michael-g-wong.com/blog">here</a>! 
+    hmm hmm mhm hmm. this egg needs your help 
+    <a href="https://dragcave.net/view/JE38T"><img src="https://dragcave.net/image/JE38T.gif" style="border-width:0" alt="Dragon Cave: Adopt one today!"/></a>
+</p>
+<h4> <b>6/10/2026</b> </h4>
+<p>
+    Saw <em>The Backrooms</em> today. It was good, I liked it. Quite interesting. One of my friends who I was with I think put it best when he said: 'it was gorgeous. i did feel it
+    more in my head than in my heart'. I think the movie really is truly about the Backrooms more than the characters. The characters get some development, of course, but they don't
+    have full arcs or anything like that. They kind of just have neuroses that we see get worse, and then they die. But to that end, what they're really doing is developing what the
+    Backrooms represents, how it reflects the way we remember and layer and distort our traumas. I thought that was quite appropriate, given that the movie clearly wants more than anything
+    else to explore this space. Also, the inclusion of the monsters: I'm more of a purist about the Backrooms, so I'm always skeptical of monsters. But I liked this ones quite a bit. They
+    felt like they belonged well. Distorted memories of the people who occupy these distorted memories of the rooms. In a sense, the monsters aren't native to the Backrooms, they're brought
+    by humanity. But then, nothing is native to the Backrooms. The entire place is transplanted memory. I think that works well. Also the shot of pirate Charles from behind, then the swivel to reveal
+    his unnaturally large eye? That was quite well done.
+</p>
+<p>
+    And the movie <em>is</em> just gorgeous. The rooms, the cinematography, the composition. Oh my, it was beautiful.
+</p>
+<h4> <b>6/9/2026</b> </h4>
+<p>
+    eurghhhhh. just plinking away at <em>Onion Future</em>. Made the way maps load more logical, now that I... guess I understand JSON now? I don't know why I set it up like
+    I did previously. Also made an extension for Tiled that lets us export our maps directly into the map format the game reads that I wrote, and lints the big arrays of tiledata
+    to be perfectly square. Previously I'd been extracting data and doing that manually whenever I got a map from any other memeber of the team, and it was a pain. Hopefully, this
+    will give them more power to create.
+</p>
+<h4> <b>6/8/2026</b> </h4>
+<p>
+    I took the Amazon skills test today. Oh my god. I am so stupid. I don't know what's wrong with me. My brain is just untrained at Leetcode style problems.
+    And I don't know MERN <em>that</em> well... Oh well. I suppose it isn't really the kinds of skills I've been studying these past years (I just wish the job market
+    for those skills was less grim at this moment). I suppose you never know, but... God. I couldn't get the time complexity for the classic coding problem quick enough,
+    and I couldn't figure out the last two MERN test cases. Something was wrong with some 'notification read' API, and I just wasted too much time that by the time I got to it,
+    I couldn't address it. Oh well...
+</p>
+<p>
+    My roommate did help me study some leetcode things afterwards, while I was ranting. He is far better at this sort of thing than I am. It is interesting. I'm sure I could do it
+    if I just really studied, but these problems make me feel nauseous. I should spend <em>some</em> time each week improving at it though. It's like doing physical exercise. It'll
+    help me be sharp.
 </p>
 <h4> <b>6/7/2026</b> </h4>
 <p>
@@ -9,6 +44,9 @@
 <h4> <b>6/6/2026</b> </h4>
 <p>
     Session 0 for a Rise of the Old Ones campaign, but that's about it today. Doing leetcode and studying today as well.
+</p>
+<p>
+    Also, my brother has begun constructing his blog. Check it out <a href="michael-g-wong.com/blog">here</a>! 
 </p>
 <h4> <b>6/5/2026</b> </h4>
 <p>
