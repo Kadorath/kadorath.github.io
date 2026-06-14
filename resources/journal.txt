@@ -1,7 +1,23 @@
+<h4> <b>6/13/2026</b> </h4>
+<p>
+    Got lunch with a highschool friend today! He's going for a PhD right now, but has an internship in Pittsburgh. Was with my twin, so we just caught up,
+    and answered his questions about things to do around Pittsburgh. He also seems to want to get into cocktails, so he was asking my brother about that.
+    We were also giving him a list of what's going on in... culture, I guess. He's been doing his own thing for a while, seemingly. So that was cool.
+</p>
+<p>
+    Got even more work done on <em>Onion Future</em>. I know I keep saying that. But that is what I'm doing right now, afterall.
+</p>
+<h4> <b>6/12/2026</b> </h4>
+<p>
+    What does one do on a Friday?
+</p>
 <h4> <b>6/11/2026</b> </h4>
 <p>
     hmm hmm mhm hmm. this egg needs your help 
     <a href="https://dragcave.net/view/JE38T"><img src="https://dragcave.net/image/JE38T.gif" style="border-width:0" alt="Dragon Cave: Adopt one today!"/></a>
+</p>
+<p>
+    Met with some of my graduating class about doing some sideproject geared towards Alt-Ctrl GDC. So that could be fun. We'll see where that goes, I suppose.
 </p>
 <h4> <b>6/10/2026</b> </h4>
 <p>
@@ -46,7 +62,7 @@
     Session 0 for a Rise of the Old Ones campaign, but that's about it today. Doing leetcode and studying today as well.
 </p>
 <p>
-    Also, my brother has begun constructing his blog. Check it out <a href="michael-g-wong.com/blog">here</a>! 
+    Also, my brother has begun constructing his blog. Check it out <a href="https://michael-g-wong.com/blog">here</a>! 
 </p>
 <h4> <b>6/5/2026</b> </h4>
 <p>
