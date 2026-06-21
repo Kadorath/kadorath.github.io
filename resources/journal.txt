@@ -1,3 +1,32 @@
+<h4> <b>6/19/2026</b> </h4>
+<p>
+    Got nothing done today (did some writing).
+</p>
+<h4> <b>6/18/2026</b> </h4>
+<p>
+    Got some inventory discarding functionality just starting to work. You can pick numbers and such, all though not everything is getting passed through correctly yet. I just need to... do that. eventually.
+</p>
+<h4> <b>6/17/2026</b> </h4>
+<p>
+    The menus are coming together. Got a menu framework, they can open infinite submenus. It's looking like a bit of a mess, but at the same time it's organized. Descriptions and text and such can
+    be assigned to functions that retrieve data as I need so that things update properly. It's great. Also finally learned how to render draws to an image in the PlaydateSDK so that I can use draws as
+    a sprite and use primitive draw calls in conjunction with the sprite system and not be forced to redraw those primitives every frame (drawing text is kind of expensive, and it was shredding the performance
+    of the Playdate once I got it working...). This is very exciting to me.
+</p>
+<h4> <b>6/16/2026</b> </h4>
+<p>
+    Working on Onion Future menus, finally. Gotta do a bunch of restructuring. Or rather, not restructuring, but mostly just structuring. Sort of fell by the wayside because,
+    while menus are incredibly important for a video game to... function, the faculty at the ETC weren't particularly looking for <em>that</em> aspectin particular, so I never prioritized that.
+</p>
+<h4> <b>6/15/2026</b> </h4>
+<p>
+    Just chipping away at <em>Onion Future</em>. Structuring the notion of 'equipment' in combat, with stats and moves and all the things I wanted. Finally making this thing an RPG rather than just
+    a tech demo. Very exciting.
+</p>
+<h4> <b>6/14/2026</b> </h4>
+<p>
+    hmmm
+</p>
 <h4> <b>6/13/2026</b> </h4>
 <p>
     Got lunch with a highschool friend today! He's going for a PhD right now, but has an internship in Pittsburgh. Was with my twin, so we just caught up,
