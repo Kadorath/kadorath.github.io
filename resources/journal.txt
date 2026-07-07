@@ -1,4 +1,4 @@
-<h4> <b>7/5/2026</b> </h4>
+<h4> <b>7/6/2026</b> </h4>
 <p>
     I got a job!!! It was the Epic thing. I'm going to Wisconsin now, is the plan. Ultimately, I'm not planning on working there for decades to come or anything, but it will be nice to have an income and
     to get some professional experience, finally. And they seem very stable, which is nice, given these turbulent economic times. Also, I do like the midwest, or at least I did like it during my time
@@ -25,11 +25,11 @@
 </p>
 <div>
     <div class="image-caption-block">
-        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-5-deaddog1.webp">
+        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-5-26-deaddog1.webp">
         <span></span>
     </div>
     <div class="image-caption-block">
-        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-5-deaddog2.webp">
+        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-5-26-deaddog2.webp">
         <span></span>
     </div>
 </div>
@@ -39,15 +39,15 @@
 </p>
 <div>
     <div class="image-caption-block">
-        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-5-protogen1.webp">
+        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-5-26-protogen1.webp">
         <span></span>
     </div>
     <div class="image-caption-block">
-        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-5-protogen2.webp">
+        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-5-26-protogen2.webp">
         <span></span>
     </div>
     <div class="image-caption-block">
-        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-5-protogendeaddog.webp">
+        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-5-26-protogendeaddog.webp">
         <span>and here they are, at the dead dog dance</span>
     </div>
 </div>
@@ -145,9 +145,12 @@
     </div>
 </div>
 <h4> <b>7/1/2026</b> </h4>
-<p>
-
-</p>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-1-26-tofu.jpg">
+        <span>fried tofu day</span>
+    </div>
+</div>
 
 <h4> <b>6/26/2026</b> </h4>
 <p>
