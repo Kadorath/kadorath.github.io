@@ -20,6 +20,12 @@
         <span>this is the second paper art artifact thingy i've got of them. i didn't mention the previous one anywhere as well, seemingly</span>
     </div>
 </p>
+<p>
+    It did rain aftewards, so there was a bit of a rush back, but luckily since my brother was there I had access to a car. We got pho afterwards. It's been a while
+    since I've had pho. (I also purchased even more from that artist I mentioned yesterday. I got a bunch of prints this time, but he had run out of sleeves to put them
+    in, so they were rolled up and put in a branded bag lol. And the rain was a bit of a risk for them, but they turned out fine. But I've got all these things from him
+    signed now, which I'm very happy about!)
+</p>
 <h4> <b>7/3/2026</b> </h4>
 <p>
     my feet and my lower back.
@@ -32,11 +38,11 @@
 </p>
 <div>
     <div class="image-caption-block">
-        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-3-26-charityhorse.jpg">
+        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-3-26-charityhorsie.jpg">
         <span>The charity section had a horse. They're an animal rescue.</span>
     </div>
     <div class="image-caption-block">
-        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-3-26-charitybees.jpg">
+        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-3-26-charitybeees.jpg">
         <span>They also brought some bees as well.</span>
     </div>
 </div>
@@ -48,7 +54,7 @@
 </p>
 <div>
     <div class="image-caption-block">
-        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-3-26-suspiciouspie.jpg">
+        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-3-26-dubiouspie.jpg">
     </div>
 </div>
 <p>
