@@ -22,14 +22,33 @@
     an artist who means a lot to me who was vending at AC for the first time ever, and I ended up making an exorbitant purchase from him (not saying his
     name here for... reasons. I shall remember though).
 </p>
-<div class="image-caption-block">
-    <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-3-26-charityhorse.jpg">
-    <span>The charity section had a horse. They're an animal rescue.</span>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-3-26-charityhorse.jpg">
+        <span>The charity section had a horse. They're an animal rescue.</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-3-26-charitybees.jpg">
+        <span>They also brought some bees as well.</span>
+    </div>
 </div>
-<div class="image-caption-block">
-    <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-3-26-charitybees.jpg">
-    <span>They also brought some bees as well.</span>
+<p>
+    I should document the things that I got... Although I will probably do that in the future. I am quite tired now.
+</p>
+<p>
+    My fridge is a bit depleted. I threw together this pie with the ingredients we have remaining.
+</p>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-3-26-suspiciouspie.jpg">
+    </div>
 </div>
+<p>
+    I found it... a bit unpalatable. It's a layer of onion and kidney beans, then shredded brussel sprouts, then mashed potatoes.
+    Individually the layers are fine, but... it ended up being so dry and gummy, and the brussel sprout texture was like soft bone.
+    It gave me the feeling of cottonmouth without actually being high! So that's... something. I don't know if I'll be able to eat much of this.
+    Luckily, my roommate quite likes it, so it's all his now.
+</p>
 <h4> <b>7/2/2026</b> </h4>
 <p>
     Linecon today. I picked up my badge for Anthrocon! This years theme is "Critters, Cryptids, and Curses", for those unaware.
@@ -41,9 +60,11 @@
     Of course, besides that there wasn't much to do. I will admit, I completely missed the opening ceremony, since I forgot that happened today.
     I just took a look at the Dealer's Den being setup from above and then headed back home.
 </p>
-<div class="image-caption-block">
-    <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-2-26-dealersdensettingup.jpg">
-    <span>oh boy oh boy oh boy</span>
+<div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-2-26-dealersdensettingup.jpg">
+        <span>oh boy oh boy oh boy</span>
+    </div>
 </div>
 <h4> <b>7/1/2026</b> </h4>
 <p>
