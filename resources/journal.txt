@@ -6,7 +6,9 @@
 </p>
 <h4> <b>7/5/2026</b> </h4>
 <p>
-    Final day of Anthrocon. Alas! I found some friends in the Dealer's Den. Also went to a panel about non-Tamagotchi virtual pets, and a panel that was an opportunity to look at fur swatches.
+    Final day of Anthrocon. Alas! I found some friends in the Dealer's Den. Also went to a panel about non-Tamagotchi virtual pets. The presenter had a
+    virtual pet called a "Punirune", that had, like, a hole in it that you stick your finger in to manipulate a soft rubber covered knob. It's supposed to
+    simulate petting the little virtual slime creature on the screen. It felt fascinating. Then I went to a panel that was an opportunity to look at fur swatches.
     Mendels seems interesting. Very naturalistic looking options.
 </p>
 <h4> <b>7/4/2026</b> </h4>
@@ -40,6 +42,10 @@
     name here for... reasons. I shall remember though).
 </p>
 <div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-3-26-spotballoondog.webp">
+        <span>Spotted Spot. This suit had arms, seemingly good visibility, and the ability to speak, all without a handler. Different from what I remember last year.</span>
+    </div>
     <div class="image-caption-block">
         <img src="https://kadorath.github.io/resources/images/journal/AC26/Jul-3-26-charityhorsie.jpg">
         <span>The charity section had a horse. They're an animal rescue.</span>
