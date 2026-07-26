@@ -133,18 +133,6 @@
     and we already have a far superior version of the card that was actually put together with intentionality and whimsy. I swear to god, these Riftbound card's are AI generated. At least the flavor text. This is
     truly nonsensical. It makes me sad.
 </p>
-<p>
-    Also, I've put together an Excel spreadsheet to do some game design for the combat of <em>Onion Future</em>. I've been thinking about
-    two of the GDC talks I saw: the one on balancing TCGs and the one on balancing damage and HP. I've put together a nifty spreadsheet that autocalculates
-    hits to kill for various categories of damage (I'm just using 'low', 'medium', and 'high' descriptors, like <em>Clair Obscur</em>). For the current bucket of abilities
-    I want to design as a baseline, a given move can have low, medium, or high base damage and low, medium, or high scaling. So that gives me nine fundamental abilities I need
-    to come up with, with the ones off the diagonal being weaker or stronger than those standard moves that are on the diagonal (e.g., low scaling, high base damage). My spreadsheet
-    also lets me enter in an example scaling amount and strength factor, and it will update the hits to kill, so I can see how the curves are affected by that. I filled in some damages
-    and some of the moves, and I've got the numberes in a place that looks visually good. Hits to kill scale upwards, but not strictly linearly, with high damage moves staying fairly powerful
-    for longer than low damage moves, all that. Of course, these numbers are just initial numbers, and they'll need to be playtested to see if they work like I imagine. But the goal here is to
-    finally provide myself enough structure to start with <em>something</em> that I actually can playtest. It is difficult for me though. This really is not a skill I've practiced.
-    But I like this spreadsheet.
-</p>
 <h4> <b>7/14/2026</b> </h4>
 <p>
     Went grocery shopping today to get some fresh ingredients to use to finally finish up some of the dry ingredients I have before I move. I don't
@@ -184,6 +172,25 @@
 <p>
     Lots of moving planning and organizational things. I need to find an apartment for my new location. I've never apartment searched before. I've just lived in university housing or with
     my brother. So this is all very confusing.
+</p>
+<p>
+    I felt like I needed to play more video games today. So I finally bought <em>Off</em> and started playing it. It is quite an interesting game.
+    Got to the second area. The rotating paper in the library was very funny to me. Playing the game, I've been thinking about game design again.
+    I mean, that's the whole point of playing more games, in my head. I need to actually practice game design, as a skill. And that means being 'better
+    read', as it were, I think.
+</p>
+<p>
+    So, I've put together an Excel spreadsheet to do some game design for the combat of <em>Onion Future</em>. I've been thinking about
+    two of the GDC talks I saw: the one on balancing TCGs and the one on balancing damage and HP. I've put together a nifty spreadsheet that autocalculates
+    hits to kill for various categories of damage (I'm just using 'low', 'medium', and 'high' descriptors, like <em>Clair Obscur</em> or <em>Off</em>. I'm sure
+    lots of RPGs do that... but those are the two I know. Wait, I think <em>Pokemon</em> does that too? Maybe it's most of them). For the current bucket of abilities
+    I want to design as a baseline, a given move can have low, medium, or high base damage and low, medium, or high scaling. So that gives me nine fundamental abilities I need
+    to come up with, with the ones off the diagonal being weaker or stronger than those standard moves that are on the diagonal (e.g., low scaling, high base damage). My spreadsheet
+    also lets me enter in an example scaling amount and strength factor, and it will update the hits to kill, so I can see how the curves are affected by that. I filled in some damages
+    and some of the moves, and I've got the numberes in a place that looks visually good. Hits to kill scale upwards, but not strictly linearly, with high damage moves staying fairly powerful
+    for longer than low damage moves, all that. Of course, these numbers are just initial numbers, and they'll need to be playtested to see if they work like I imagine. But the goal here is to
+    finally provide myself enough structure to start with <em>something</em> that I actually can playtest. It is difficult for me though. This really is not a skill I've practiced.
+    But I like this spreadsheet.
 </p>
 <h4> <b>7/6/2026</b> </h4>
 <p>
@@ -338,12 +345,53 @@
         <span>fried tofu day</span>
     </div>
 </div>
-
+<h4> <b>6/31/2026</b> </h4>
+<p>
+    It's tomorrow.
+</p>
+<h4> <b>6/30/2026</b> </h4>
+<p>
+    Thinking about <em>Deltarune</em>, and now Anthrocon is approaching. Can't do anything today. Trying to read a bit.
+</p>
+<h4> <b>6/29/2026</b> </h4>
+<p>
+    Just... thinking about <em>Deltarune</em>.
+</p>
+<h4> <b>6/28/2026</b> </h4>
+<p>
+    Went to a hot pot place today for a friend's birthday! A lot of people were there (it seems the job search is hard on all of us...). I inhaled
+    a chili pepper and really choked myself. But it was fun! Talked with one of the first years about his recollection of 9/11.
+</p>
 <h4> <b>6/27/2026</b> </h4>
 <p>
-    [Deltarune thoughts]
+    I really liked the new Deltarune chapter! I think there's some sense among fans that it was a bit of a lull in the story, especially
+    compared to chapter 4. I did definitely feel that. I mean, chapter 4 was the culmination/reveal of many things about the broader story.
+    Chapter 5 was another deep zoom into a specific dark world. But I liked the flowers. The ending goodbye really got me. And then... the twist,
+    that sudden surge of energy at the end. It was a kind of pacing I feel like I haven't really seen before, and it was quite interesting. I can accept
+    the somewhat lower stakes. I mean, the newsletter had said that it would be "one last fun adventure", and Susie's turn at the end I think mainly makes sense
+    because so much of the chapter was light. I liked the rivalry between Ralsei and Flowery, and I think that it did a lot to develop his character
+    in a way that wasn't just, like, clumsily transforming him. This chapter felt to me like it was setting a lot of seeds for the future.
 </p>
-
+<p>
+    I wouldn't have been opposed to getting some crazy Gaster and Roaring Knight lore or whatever in this chapter. But I did really like what we ended up getting.
+    It felt very character-focused. Coming out of the big lore climax, it felt nice to get some calmer development of Ralsei and Susie's arcs.
+</p>
+<p>
+    The secret boss and the final boss really kicked my ass. Although, I was quite tired by the time I got to both of them, since I played it all straight through
+    and really took my time looking at everything. I mean, Flowery <em>really</em> beat me up. I watched my brother play the chapter afterwards, and he beat Flowery in
+    two tries! It took me so many tries that he stopped having lines to say to me after my defeat...
+</p>
+<p>
+    Speaking of the secret boss... Pink's shop dialogue... it's so beautiful to me. Just, everything about it. Especially with the context of the boss fight and her
+    backstory in the rest of the game. It's so subtly sublime.
+</p>
+<p>
+    Also, the 'chapter gimmick' felt so mechanically good. Just, it was so well executed. It felt natural and fun to play. It was so smooth. God, it just felt good.
+</p>
+<p>
+    So, those were my broad Deltarune Chapter 5 impressions. I'll of course be thinking about this chapter for however long it takes for chapter 6 to come out. Then I'll
+    continue thinking about it in the context of the rest of the game. God, I love <em>DELTARUNE</em>.
+</p>
 <h4> <b>6/26/2026</b> </h4>
 <p>
     100 followers!? waow!!!
