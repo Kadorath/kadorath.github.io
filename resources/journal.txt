@@ -11,6 +11,21 @@
     Mostly just driving around and talking with my dad today. We got dinner at a burger place called "Mooyah", which I thought was funny,
     since that's a nickname we call my sister. They had a vegetarian black bean burger there called "The Meatless Beast", which is also my speed.
     And I got a mint milkshake there, which had a <em>lot</em> of chocolate flakes in it. It was pretty good.
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/mooyahburger.webp">
+        <span></span>
+    </div>
+</p>
+<p>
+    Oh wait, of course, the big thing we did. We also visited the campus of my future workplace. It's... a lot more whimsical than I even thought based
+    on the articles I'd read and testimonies I'd heard. It's very colorful. And there's a lot of uh... extraneous decorative flairs. There's, like, a Harry Potter
+    Diagon Alley themed walkspace, with facades of royalty free magic shops. Lots of castles. We walked through what felt like just an "Asian district". There was a torii
+    gate and wood walkways. There were lots of statues. Most of the buildings must just be offices. But it's just... a lot. Well, I guess I'll see what it's actually to work there
+    in a little over a month, when I finally start.
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/epichumpty.webp">
+        <span>Saw this <s>corporate shill</s> dapper fellow</span>
+    </div>
 </p>
 <h4> <b>7/24/2026</b> </h4>
 <p>
