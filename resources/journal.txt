@@ -47,7 +47,7 @@
 </p>
 <p>
     It did take an hour or two to get my remaining stuff into the car. It was a bit of an annoying process, and I ended up forgetting some small things.
-    Hopefully my brother will be able to mail those to me.
+    Hopefully my brother will be able to mail those to me. We were able to just put the IKEA couch in the minivan without deconstructing it.
 </p>
 <p>
     Mostly just talked to my dad on the way there. Talked about my future plans. Looked at the new police radar scanner thing he got, which he always likes to attach
@@ -74,6 +74,58 @@
 <p>
     For today though, I'm staying in a Best Western with my dad, seeing as my place has no furniture. He really likes Best Westerns, since he is very particular about his sleep,
     and their mattresses suit him.
+</p>
+<p>
+    Also, thanks to my ex-roommate for helping me move my things into the minivan.
+</p>
+<h4> <b>7/22/2026</b> </h4>
+<p>
+    I will be leaving Pittsburgh tomorrow. I don't know what to do with myself right now...
+</p>
+<h4> <b>7/21/2026</b> </h4>
+<p>
+    A storm blew through, cancelling my father's flight. So I will be in Pittsburgh for a little bit longer. I've been going to Sidecar a lot, since
+    I no longer have any coffee in my apartment.
+</p>
+<h4> <b>7/20/2026</b> </h4>
+<p>
+    The pod is gone! Disappeared in the morning during the earliest timeslot. Meant to secure some of the furniture better, but uhh, oh well. Also
+    completely forgot to pack the couch. Hopefully that fits in the car!
+</p>
+
+<h4> <b>7/19/2026</b> </h4>
+<p>
+    The move is coming up... Packing all my stuff has been a nightmare. Moving these boxes... Well, we got a dolly from Home Depot, thank goodness. And
+    I'll definitely need to use that to get my stuff out of the pod and into my new place... My roommate is really helping me out, moving stuff into the pod.
+    My brother helped as well.
+</p>
+<h4> <b>7/18/2026</b> </h4>
+<p>
+    hmm hmm hmm, packing.
+</p>
+<h4> <b>7/17/2026</b> </h4>
+<p>
+    Refactoring some of the rendering code for <em>Onion Future</em>, with my new found knowledge.
+    Continuing to try to game design today as well.
+</p>
+<h4> <b>7/16/2026</b> </h4>
+<p>
+    Got my books into boxes, ready to put into the pod. The boxes are quite heavy.
+</p>
+<p>
+    Also, I've put together an Excel spreadsheet to do some game design for the combat of <em>Onion Future</em>. I've been thinking about
+    two of the GDC talks I saw: the one on balancing TCGs and the one on balancing damage and HP. I've put together a nifty spreadsheet that autocalculates
+    hits to kill for various categories of damage (I'm just using 'low', 'medium', and 'high' descriptors, like <em>Clair Obscur</em>). For the current bucket of abilities
+    I want to design as a baseline, a given move can have low, medium, or high base damage and low, medium, or high scaling. So that gives me nine fundamental abilities I need
+    to come up with, with the ones off the diagonal being weaker or stronger than those standard moves that are on the diagonal (e.g., low scaling, high base damage). My spreadsheet
+    also lets me enter in an example scaling amount and strength factor, and it will update the hits to kill, so I can see how the curves are affected by that. I filled in some damages
+    and some of the moves, and I've got the numberes in a place that looks visually good. Hits to kill scale upwards, but not strictly linearly, with high damage moves staying fairly powerful
+    for longer than low damage moves, all that. Of course, these numbers are just initial numbers, and they'll need to be playtested to see if they work like I imagine. But the goal here is to
+    finally provide myself enough structure to start with <em>something</em> that I actually can playtest. It is difficult for me though. This really is not a skill I've practiced.
+    But I like this spreadsheet.
+</p>
+<p>
+    I'm being kind of lazy about actually filling my pod...
 </p>
 <h4> <b>7/15/2026</b> </h4>
 <p>
