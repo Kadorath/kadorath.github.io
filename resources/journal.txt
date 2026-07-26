@@ -113,19 +113,12 @@
     Got my books into boxes, ready to put into the pod. The boxes are quite heavy.
 </p>
 <p>
-    Also, I've put together an Excel spreadsheet to do some game design for the combat of <em>Onion Future</em>. I've been thinking about
-    two of the GDC talks I saw: the one on balancing TCGs and the one on balancing damage and HP. I've put together a nifty spreadsheet that autocalculates
-    hits to kill for various categories of damage (I'm just using 'low', 'medium', and 'high' descriptors, like <em>Clair Obscur</em>). For the current bucket of abilities
-    I want to design as a baseline, a given move can have low, medium, or high base damage and low, medium, or high scaling. So that gives me nine fundamental abilities I need
-    to come up with, with the ones off the diagonal being weaker or stronger than those standard moves that are on the diagonal (e.g., low scaling, high base damage). My spreadsheet
-    also lets me enter in an example scaling amount and strength factor, and it will update the hits to kill, so I can see how the curves are affected by that. I filled in some damages
-    and some of the moves, and I've got the numberes in a place that looks visually good. Hits to kill scale upwards, but not strictly linearly, with high damage moves staying fairly powerful
-    for longer than low damage moves, all that. Of course, these numbers are just initial numbers, and they'll need to be playtested to see if they work like I imagine. But the goal here is to
-    finally provide myself enough structure to start with <em>something</em> that I actually can playtest. It is difficult for me though. This really is not a skill I've practiced.
-    But I like this spreadsheet.
+    I'm being kind of lazy about actually filling my pod...
 </p>
 <p>
-    I'm being kind of lazy about actually filling my pod...
+    In the evening, I finally went to <em>The Speckled Egg</em>, once again with my aforementioned friend. I got the Hen Hash, and it was great.
+    Also got a drink that was gin and Earl Grey tea and "honey chantilly cream" called "Tea with the Bees", which I quite liked. I should have gone to that
+    restauarant way more... at least I managed to go before I left. The person I was with also gave me a very touching parting letter.
 </p>
 <h4> <b>7/15/2026</b> </h4>
 <p>
@@ -139,6 +132,18 @@
     card that ripped the art... its flavor text is "He'd be less eager to escape if he knew what was out there." That's absurd. The name was already bad. This themeing doesn't match the card art at all,
     and we already have a far superior version of the card that was actually put together with intentionality and whimsy. I swear to god, these Riftbound card's are AI generated. At least the flavor text. This is
     truly nonsensical. It makes me sad.
+</p>
+<p>
+    Also, I've put together an Excel spreadsheet to do some game design for the combat of <em>Onion Future</em>. I've been thinking about
+    two of the GDC talks I saw: the one on balancing TCGs and the one on balancing damage and HP. I've put together a nifty spreadsheet that autocalculates
+    hits to kill for various categories of damage (I'm just using 'low', 'medium', and 'high' descriptors, like <em>Clair Obscur</em>). For the current bucket of abilities
+    I want to design as a baseline, a given move can have low, medium, or high base damage and low, medium, or high scaling. So that gives me nine fundamental abilities I need
+    to come up with, with the ones off the diagonal being weaker or stronger than those standard moves that are on the diagonal (e.g., low scaling, high base damage). My spreadsheet
+    also lets me enter in an example scaling amount and strength factor, and it will update the hits to kill, so I can see how the curves are affected by that. I filled in some damages
+    and some of the moves, and I've got the numberes in a place that looks visually good. Hits to kill scale upwards, but not strictly linearly, with high damage moves staying fairly powerful
+    for longer than low damage moves, all that. Of course, these numbers are just initial numbers, and they'll need to be playtested to see if they work like I imagine. But the goal here is to
+    finally provide myself enough structure to start with <em>something</em> that I actually can playtest. It is difficult for me though. This really is not a skill I've practiced.
+    But I like this spreadsheet.
 </p>
 <h4> <b>7/14/2026</b> </h4>
 <p>
