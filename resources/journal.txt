@@ -1,4 +1,4 @@
-<h4> <b>8/16/2026</b> </h4>
+<h4> <b>8/28/2026</b> </h4>
 <p>
     Still waking up early in the morning. My illness feels almost completely gone. Almost.
 </p>
@@ -65,7 +65,13 @@
 </p>
 <h4> <b>8/10/2026</b> </h4>
 <p>
-    [First day on the ship, Strait of Gibraltr]
+    First day on the ship. Just chilling. It's pretty relaxing here. I wandered around the ship to see what was where.
+    There's a buffet area that's opened often called "Lido's Market". We have this drinks package which means we can get
+    up to fourteen cocktails a day, which is an extreme limit. There's a pool. There's this store area that looks like the
+    duty free mall area of an airport (did you know that Glock makes watches?).
+</p>
+<p>
+    We passed through the Strait of Gibraltr today.
 </p>
 <h4> <b>8/9/2026</b> </h4>
 <p>
@@ -116,7 +122,29 @@
     obstructed by a lifeboat. But then, that's part of the room.
 </p>
 <p>
-    Gonna sleep now.
+    We used one of our ship dining reservation credits to book lunch at their 'nice' restauarant. It was quite good!
+    Here's some of the stuff.
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/pinnacle-asparagusrisotto.jpg">
+        <span>I always love a tastefully plated small dish.</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/pinnacle-mushrooms.jpg">
+        <span>These were really good. Very crispy fried mushrooms stuffed with Beyond Meat(TM)</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/pinnacle-tablesidegintonic.jpg">
+        <span>I wondered what a "tableside" gin and tonic would be. Turns out it means they dump the botanicals in at the table. Fun!</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/pinnacle-potato.jpg">
+        <span>baked potato</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/pinnacle-cremebrulee.jpg">
+        <span>I was too full to finish this. But it looks very nice.</span>
+    </div>
+
 </p>
 <h4> <b>8/8/2026</b> </h4>
 <p>
@@ -154,7 +182,7 @@
     A house had been built against its foundations in the 1700s, so that was also part of the excavation. It was quite interesting
     looking at how the two structures seemed to have integrated.
     <div class="image-caption-block">
-        <img src="https://kadorath.github.io/resources/images/journal/[DEERVOTIVE].png">
+        <img src="https://kadorath.github.io/resources/images/journal/lisbondeervotive.jpg">
         <span>there was also this nifty little guy. they found him buried with the support structure, so they hypothesize that he's a votive offering. (this is a replica though)</span>
     </div>
 </p>
