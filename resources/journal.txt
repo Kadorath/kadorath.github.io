@@ -61,6 +61,8 @@
 </p>
 <h4> <b>8/11/2026</b> </h4>
 <p>
+    Today the ship has docked in Alicante, Spain. It is HOT! Although I gather that no matter where we go in Europe right now,
+    it shall be so.
     [Alicante, the castle, heat, McDonalds]
 </p>
 <h4> <b>8/10/2026</b> </h4>
@@ -71,8 +73,17 @@
     duty free mall area of an airport (did you know that Glock makes watches?).
 </p>
 <p>
-    We passed through the Strait of Gibraltr today.
+    Went to a lecture about eclipses with my mom in the main presentation hall. It was pretty interesting. The professor they've
+    got is a good presenter. I need to name a sword "Syzygy". All the best games do it.
 </p>
+<p>
+    My family also did Bingo today.
+</p>
+<div class="image-caption-block">
+    <img src="https://kadorath.github.io/resources/images/journal/8-10-26gibraltr.jpg">
+    <span>We passed through the Strait of Gibraltr today.</span>
+</div>
+    
 <h4> <b>8/9/2026</b> </h4>
 <p>
     Getting on the cruise ship today. It's called the "Oosterdam". The name kind of irks me. I find the double O strange.
@@ -144,7 +155,9 @@
         <img src="https://kadorath.github.io/resources/images/journal/pinnacle-cremebrulee.jpg">
         <span>I was too full to finish this. But it looks very nice.</span>
     </div>
-
+</p>
+<p>
+    Okay, sleep now.
 </p>
 <h4> <b>8/8/2026</b> </h4>
 <p>
