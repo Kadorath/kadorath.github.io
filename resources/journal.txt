@@ -1,3 +1,11 @@
+<h4> <b>8/30/2026</b> </h4>
+<p>
+    [TBD]
+</p>
+<h4> <b>8/29/2026</b> </h4>
+<p>
+    hurrrrrrrrrgh
+</p>
 <h4> <b>8/28/2026</b> </h4>
 <p>
     Still waking up early in the morning. My illness feels almost completely gone. Almost.
@@ -61,9 +69,40 @@
 </p>
 <h4> <b>8/11/2026</b> </h4>
 <p>
+    [Alicante, the castle, heat, McDonalds]
     Today the ship has docked in Alicante, Spain. It is HOT! Although I gather that no matter where we go in Europe right now,
     it shall be so.
-    [Alicante, the castle, heat, McDonalds]
+</p>
+<p>
+    I disembarked from the ship with my mother, grandmother, and sister. There was a very whimsical train shuttle thing that took us from the
+    port to the main beach, which was quite convenient, since it was actually a pretty substantial trek. We passed by my paternal grandparents walking out
+    on our way out. They seemed to want to walk, despite the heat.
+</p>
+<p>
+    I'm not much of a beach person. Or a water person. My sister split off from the group to go shopping, and I walked with my mother and grandmother towards
+    a castle we could see in the distance. It ended up being quite a journey. Walking up a bunch of hills in the heat wasn't ideal. Once we got into the castle,
+    however, signs indicated that this was the Castle of Santa Barbara. I bought a fan and some thimbles from my brother in their gift shop.
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/8-11-26alicante1.webp">
+        <span>view of the city from the castle</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/8-11-26alicante2.webp">
+        <span>some cool arches in the castle. there were also some mysterious orbs.</span>
+    </div>
+</p>
+<p>
+    We were mentally preparing ourselves for the journey back down when we realized that we could actually enter the castle itself. It was pretty musty inside.
+    And while we were wandering around, we pretty swiftly realized that there was actually an elevator that connected to the very base of the mountain, just about a
+    block away from where our journey up to the castle from the beach initially started. So uh... we just took that instead. It was a two euro fee to take the elevator,
+    but we didn't have to pay that. Since they only charge you on the way up. And we just walked up. The elevator was, like, at the end of a very long tunnel that led deep
+    into the mountain the castle was built on. While we were exiting the tunnel, we overheard a tour guide telling a group that there were three ways to get up to the castle:
+    by walking, by elevator, or by bus. But she didn't recommend walking because the heat today made it dangerous. Oops.
+</p>
+<p>
+    Well, after we got back from the castle, I split off from my mother and grandmother for a bit to go to a nearby McDonalds. I got their fries, and these star-shaped fried cheese
+    curds. They were quite mild and creamy. Very nice, actually. I was a fan. I also got sour cream and onion shaker fries. I'm not usually a fan of shaker fries, but they seem
+    to be in every foreign McDonalds I go to, so I always have to try them. I ate these things while waiting in the security line to reboard the ship.
 </p>
 <h4> <b>8/10/2026</b> </h4>
 <p>
@@ -83,6 +122,17 @@
     <img src="https://kadorath.github.io/resources/images/journal/8-10-26gibraltr.jpg">
     <span>We passed through the Strait of Gibraltr today.</span>
 </div>
+<p>
+    There's a sit down restuarant on the ship called "The Dining Room" that's included in the ticket price. It's pretty nice.
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/8-10-26diningroom-soup.jpg">
+        <span>I do like tomato bisque</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/8-10-26diningroom-main.jpg">
+        <span>how tastefully plated</span>
+    </div>
+</p>
     
 <h4> <b>8/9/2026</b> </h4>
 <p>
