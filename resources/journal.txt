@@ -1,6 +1,43 @@
+<h4> <b>9/1/2026</b> </h4>
+<p>
+    Company campus tour today. Watched a presentation about the benefits of working at the company. Then walked around
+    through various buildings. It turns out that all of the weird and whimsical buildings are, indeed, offices. And everyone
+    gets their own offices, or a double if they're going to move into an office space that's currently being built or they want
+    to be in a double. So that's fun. I guess I will be getting an office then. We walked through many buildings' interiors, and
+    it kind of felt like going through the flumes in <em>Pendragon</em>. There was a London train station theme, a Willy Wonka theme
+    (which is maybe the only modern property they had the actual name rights for), a nautical <em>20,000 Leagues Under the Sea</em> theme,
+    a prairie house theme, a Wild West theme, a very disorientating <em>Alice in Wonderland</em> theme... it was very all over the place.
+</p>
+<p>
+    After we walked around, we got lunch in one of their cafeterias (that was the building that was themed after a London train station), and
+    then I had a chat with a software developer and then my recruiter. They seemed pretty nice. I learned that I'm going to be on the 
+    "Unified Communcations Team". So that's fun.
+</p>
+<p>
+    Afterwards, I went with my sister to the National Mustard Museum. Got some mustards. The museum was bigger than I expected. Still pretty
+    small, just bigger than I expected. There was a small farmer's market nearby that was just opening up that we went to after. I got some
+    maple syrup root beer, hummus, pita chips, and some baking cheese. And at the stand where we got baking cheese, we also tried some cheese curds,
+    and they did, in fact, squeak.
+</p>
+<p>
+    There was some brief heavy rain today. It's also very humid and hot here.
+</p>
+<h4> <b>8/31/2026</b> </h4>
+<p>
+    Flew with my sister to Wisconsin. Went to a restaurant. Bought a Monster energy at the airport. Rented a car. All
+    theoretically on the company's dollar, using what they very quirkily call "Moo Lah". We will see if these expenses
+    get approved.
+</p>
+<p>
+    Spotted a games store in downtown Madison called the Gamer's Library. Want to check it out.
+</p>
+<p>
+    While we were checking into the hotel that the company booked for us as part of this campus visit we're on, the concierge at
+    the front desk talked about me with my new job a little. I guess there was a note on the booking. So that was fun.
+</p>
 <h4> <b>8/30/2026</b> </h4>
 <p>
-    [TBD]
+    Starting to code again. My cough still lingers. Watching <em>The Apothecary Diaries</em>
 </p>
 <h4> <b>8/29/2026</b> </h4>
 <p>
@@ -65,11 +102,16 @@
 </p>
 <h4> <b>8/12/2026</b> </h4>
 <p>
-    [Solar eclipse]
+    Today was the day of the solar eclipse! The whole reason we were here in the first place!
+</p>
+<p>
+    Uhhh, we did get clouded out from the event proper, unfortunately. The clouds seemed to manifest in front of the sun
+    exactly when totality began. We theorize that the timing was so perfectly unfortunate because the drop in temperature over
+    the humid sea air itself is precisely what caused the clouds to manifest. They appeared just for the eclipse, and then burned
+    away right after. But we still got to see some interesting things!
 </p>
 <h4> <b>8/11/2026</b> </h4>
 <p>
-    [Alicante, the castle, heat, McDonalds]
     Today the ship has docked in Alicante, Spain. It is HOT! Although I gather that no matter where we go in Europe right now,
     it shall be so.
 </p>
