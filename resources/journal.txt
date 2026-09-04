@@ -1,3 +1,13 @@
+<h4> <b>9/3/2026</b> </h4>
+<p>
+    Chill day. Mostly just worked on <em>Classic Trash</em>. I had some ideas on the plane flights back, so I was tinkering with it
+    then. Continuing that work today. Also filed some travel transactions for company reimbursement.
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/9-3-26ClassicTrash.gif">
+        <span>You now score points by filling 'goal zones'.</span>
+    </div>
+</p>
+
 <h4> <b>9/2/2026</b> </h4>
 <p>
     Flew back to Seattle today. Will be here for a bit for Pax until flying back for my job.
