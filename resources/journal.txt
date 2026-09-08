@@ -13,11 +13,13 @@
     When I returned to my office, my officemate was gone. But there was a banana just sitting on his desk, so I thought maybe he hadn't left for the day
     yet? But then I noticed that on his whiteboard, he has written
 </p>
+<em>
 <blockquote>
     <p>Today's To-Do</p>
     <p>#1 - Eat banana</p>
     <p>#2 - Make sure there's a banana for tomorrow</p>
 </blockquote>
+</em>
 <p>
     So I guess he had a productive day
 </p>
