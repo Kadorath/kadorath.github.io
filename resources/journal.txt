@@ -1,3 +1,66 @@
+<h4> <b>9/7/2026</b> </h4>
+<p>
+    Job starts tomorrow. Gotta be ready. Was looking into buying a car and some tax things. All of these things
+    are such a nightmare! God. Oh well, scheduled a DMV visit and stuff like that.
+</p>
+<p>
+    In the afternoon, I walked to a nearby theater to see <em>Coyote vs. Acme</em>. It was really fun! I really liked it.
+    The courtroom scenes were a bit cartoon logic to me, kind of too a fault in my opinion. That's really my main complain.
+    I really liked the characterization of Wile E. Coyote. He's so schemey, even when he's the protagonist. I like the constant-failure
+    evil genius inventor archetype. And I like how he's always standing with his hands behind his back and an incredibly straight posture.
+    I also thought it was kind of funny that Bugs appears just as this mysterious informant. I don't think they ever even know what
+    his name is?
+</p>
+<h4> <b>9/6/2026</b> </h4>
+<p>
+    Flight today. But I did get so drunk at So Furry. I felt terrible. But early flight, so my sister drove me
+    to the lightrail and I was on my way. It ended up going pretty smoothly. I'm back in my Wisconsin apartment now.
+</p>
+<h4> <b>9/5/2026</b> </h4>
+<p>
+    Went to Pax today! Walked around. Bought a card binder, since my Bloomburrow collection is currently in a
+    binder that doesn't comfortably fit all of the base set cards along with the special treatments. It was Realm Guard's
+    Field Guide binder, so it looks pretty thematic for that collection, I think. It's got a little guy on it. I also got their
+    squirrel sleeves, since I liked the squirrel.
+</p>
+<p>
+    I met up with a friend and his friend at Pax. We talked, I got to know the friend's friend. It was fun. We went to So Furry,
+    the cidery, afterwards.
+</p>
+<p>
+    While I was at Pax, I watched the public play a sneak preview of <em>Trivia Murder Party 3</em>. It seemed cool. A lot more 3D animations.
+    I'm not sure I like the fully animated deaths. I thought the ragdoll turning around was really snappy, in a way that the full animations aren't.
+    But I liked the last chase sequence that the game has, because it's animated to be, like, all the ragdolls running away from a harvesting combine.
+    And the final push where you have to get all three choices right is themed as your ragdoll needing to jump into the back of a speeding truck in order to
+    escape, but it's got its truck bed door up blocking them if you don't get all three right. I thought that was fun.
+</p>
+<p>
+    I also watched some speedruns. I watched half of a speedrun of <em>Chicory: A Colorful Tale</em>, which was a game I hadn't heard of, but I'm planning
+    on playing now. The speedrun was being commentated by the dev of the game and Lena Raine, who composed the music for the game. So it was cool to see Lena
+    on stage. Later in the day I also ended up catching glimpses of the ends of the <em>Animal Well</em> and <em>Deltarune</em> speedruns.
+</p>
+<p>
+    Ify Nwadiwe was also doing a meet-and-greet. I'm not really enticed by the concept of meet-and-greets, so I just looked into the room and saw his face. I'm
+    satisfied just by seeing that famous people actually exist. Also walked by a booth a couple times and saw Dan Olson. I actually did a double take
+    when I first walked by him. He seemed to be holding court with a crowd of fans, talking about the Nostalgia Critic or something. I was starstruck. I love
+    Dan Olson.
+</p>
+<p>
+    They had a little arcade section, with some imported Japanese machines. There was this strange one that was, like, you had to chop fish with a prop knife
+    on a low resolution LCD display, and if you chopped 20 within the timelimit, you won a prize from a dispenser on the side. I was watching someone play it,
+    and when he walked away, he handed me a token. So I got to try it. I did terribly. I only got 15 fish.
+</p>
+<p>
+    I got a hard iced tea out on the deck in the evening. That was pretty good. It was a pretty cool day. A lot of walking. But I got to walk around the expo floor,
+    I did some shopping, saw some speedruns. Every time I see the indie games on the expo floor, it reminds me that I should be working lol.
+</p>
+<h4> <b>9/4/2026</b> </h4>
+<p>
+    I'm going to Pax tomorrow. It's Friday, so it's technically started, but I just have a Saturday pass.
+    Just chilling today, continuing to work on some personal projects. Tried drawing a little bit.
+    It felt alright. Drew a little crumpled ball of paper.
+</p>
+
 <h4> <b>9/3/2026</b> </h4>
 <p>
     Chill day. Mostly just worked on <em>Classic Trash</em>. I had some ideas on the plane flights back, so I was tinkering with it
@@ -7,7 +70,9 @@
         <span>You now score points by filling 'goal zones'.</span>
     </div>
 </p>
-
+<p>
+    I got a $2 scratch ticket at the Wisconsin airport that I finally scratched today. No luck.
+</p>
 <h4> <b>9/2/2026</b> </h4>
 <p>
     Flew back to Seattle today. Will be here for a bit for Pax until flying back for my job.
@@ -120,7 +185,23 @@
 </p>
 <h4> <b>8/13/2026</b> </h4>
 <p>
-    [Barcelona: Main]
+    The ship has docked in Barcelona today! (it will here for two days). We took a cab from the port to a downtown area. And by "we", I mean my family
+    minus my brother, since he didn't want to wake up early enough for our plans. We had a tour of the Sagrada Familia Basilica scheduled today. A giant
+    cathedral which has been under construction for around a century now, I think, designed by the famous architect Gaudi. I had never heard of Gaudi before
+    today. We also went to a fancy home he designed, Casa Batllo, before our tour. Just because we had time, I guess (so we didn't really need to get in that
+    early afterall, I think? I mean, my brother and his partner met up with us later for the tour). I went from not knowing Gaudi to being a Gaudi hater to being a Gaudi fan today.
+</p>
+<p>
+    Casa Batllo was this very curious organic, nautical townhouse. The walls and ceilings were very flowy. We had an audio guide, which was... a lot. A female narrator would
+    occasionally cut in to deliver very poetic excerpts written from the perspective of the house. At one point, she was talking about her fireplace, and how she loved providing
+    a place for lovers to steal a secret kiss, and she took great joy in watching them. It made my skin crawl lol. Honestly the audio guide might have been what initially biased me
+    against Gaudi.
+</p>
+<p>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/8-13-26burrata.jpg">
+        <span>Got this burrata salad for lunch at a place called La Piazzenza. I love burrata. Not pictured here: I also got a pear gouda tortellini dish.</span>
+    </div>
 </p>
 <h4> <b>8/12/2026</b> </h4>
 <p>
@@ -150,7 +231,11 @@
     sky darken over the sea. We did get that classic oppressive and sudden night, and with the water and the clear horizon, it was pretty cool. My
     brother's partner has never seen a total eclipse before. So this was like a teaser for her, I guess. Apparently the next total eclipse is in
     Egypt though, over the pyramids, so uh... obviously all travel even remotely close to that area is absolutely booked up. I think my parents have
-    their own plan for that one though. Maybe my brother and his partner will figure something out lol. But it would be quite difficult.
+    their own plan for that one though. Perhaps my brother and his partner will figure something out... But it would be quite difficult.
+</p>
+<p>
+    It is a bit sad to not have been able to see the total eclipse directly. But there were still many cool things to see on this day for us. Eclipse
+    viewing will always be subject to the whims of the weather, afterall.
 </p>
 <h4> <b>8/11/2026</b> </h4>
 <p>
@@ -200,7 +285,8 @@
     got is a good presenter. I need to name a sword "Syzygy". All the best games do it.
 </p>
 <p>
-    My family also did Bingo today.
+    My family also did Bingo today. I spent $10 on a slot machine, to see how they worked. Turns out, you put your room card in, enter a PIN which is by
+    default set to your birthday, and then you can charge $1-$5000 directly to your room to play the slot machines. Absolutely terrifying. I did not win anything.
 </p>
 <div class="image-caption-block">
     <img src="https://kadorath.github.io/resources/images/journal/8-10-26gibraltr.jpg">
