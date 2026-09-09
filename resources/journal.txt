@@ -30,7 +30,7 @@
     Artist also made these dog sprites for <em>Classic Trash</em>.
     <div class="image-caption-block">
         <img src="https://kadorath.github.io/resources/images/journal/9-8-26ClassicTrash-catsanddogs.gif">
-        <span>You now score points by filling 'goal zones'.</span>
+        <span><em>it's raining cats and dogs</em></span>
     </div>
 </p>
 <h4> <b>9/7/2026</b> </h4>
