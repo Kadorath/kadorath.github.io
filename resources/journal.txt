@@ -26,6 +26,13 @@
 <p>
     I also scheduled a visit with the car dealer I've been talking to to check out a promising used car.
 </p>
+<p>
+    Artist also made these dog sprites for <em>Classic Trash</em>.
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/9-8-26ClassicTrash-catsanddogs.gif">
+        <span>You now score points by filling 'goal zones'.</span>
+    </div>
+</p>
 <h4> <b>9/7/2026</b> </h4>
 <p>
     Job starts tomorrow. Gotta be ready. Was looking into buying a car and some tax things. All of these things
