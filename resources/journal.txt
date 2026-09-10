@@ -1,3 +1,12 @@
+<h4> <b>9/9/2026</b> </h4>
+<p>
+    More orientation stuff today. More focused on the timeline of training to come. Feels like I'm in school again... I need to take proctored
+    exams.
+</p>
+<p>
+    Also apparently the f*cked up model language in their interview exam where you have to read documentation and learn how it works wasn't really
+    a model language. It was M, which they use for their database or something. Good God.
+</p>
 <h4> <b>9/8/2026</b> </h4>
 <p>
     First day on the job!
