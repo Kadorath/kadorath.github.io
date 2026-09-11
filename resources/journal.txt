@@ -1,10 +1,13 @@
-<h4> <b>9/1-/2026</b> </h4>
+<h4> <b>9/10/2026</b> </h4>
 <p>
     Learned about my healthcare benefits. Got all that signed up for. I got life insurance, health insurance, dental, vision, short and long-term
     disability, and I put some money into an FSA. I am fully insured.
 </p>
 <p>
     Also learned about the database system underpinning all of the company's tech. That was fun.
+</p>
+<p>
+    Besides that... thinking gay thoughts today.
 </p>
 <h4> <b>9/9/2026</b> </h4>
 <p>
@@ -42,6 +45,11 @@
 </p>
 <p>
     I also scheduled a visit with the car dealer I've been talking to to check out a promising used car.
+</p>
+<p>
+    When I got back to my apartment, I checked my mailbox. I had cleared it of spam mail the day before, so sitting alone in my mailbox was an unexpected letter.
+    A highschool friend of mind is getting into snailmail apparently, and he sent me a real pretty handwritten letter. So that was a fun surprise. And my mailing address
+    clearly works, so it was a timely test. I need to visit a stationary store around here so I can get what I need to write back.
 </p>
 <p>
     Artist also made these dog sprites for <em>Classic Trash</em>.
