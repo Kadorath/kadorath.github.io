@@ -1,7 +1,15 @@
+<h4> <b>9/1-/2026</b> </h4>
+<p>
+    Learned about my healthcare benefits. Got all that signed up for. I got life insurance, health insurance, dental, vision, short and long-term
+    disability, and I put some money into an FSA. I am fully insured.
+</p>
+<p>
+    Also learned about the database system underpinning all of the company's tech. That was fun.
+</p>
 <h4> <b>9/9/2026</b> </h4>
 <p>
     More orientation stuff today. More focused on the timeline of training to come. Feels like I'm in school again... I need to take proctored
-    exams.
+    exams. Feeling a little existential today.
 </p>
 <p>
     Also apparently the f*cked up model language in their interview exam where you have to read documentation and learn how it works wasn't really
