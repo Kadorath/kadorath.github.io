@@ -1,3 +1,48 @@
+<h4> <b>9/14/2026</b> </h4>
+<p>
+    I finally own a car!
+</p>
+<p>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/9-14-26car.jpg">
+        <span></span>
+    </div>
+</p>
+<p>
+    I took an early Lyft to the Bank of America. I was standing in their front room as they opened the gate to their lobby
+    for the very first time. It got caught on one corner and broke, but they came around and let me in through the side.
+    I was their very first customer. I tried to get a cashier's check, but the machine broke. There was something wrong with
+    the way their system was connecting to the printer. Later, they updated me via phone call and said that because they were a
+    new branch, there systems didn't have all the right certifications yet, and that's what was wrong. But in the future as more 
+    branches opened up they would make sure to have that ready. I mean, I think they were trying to make sure I wasn't annoyed. I felt
+    pretty relaxed about it. I mean, a new branch is going to have growing pains. I did need that check in the morning though. They offered
+    to just give me cash, which would have been quite something. But I called the dealership, and they apparently aren't equipped to deal with
+    that much cold hard cash. So I ended up taking a Lyft to work.
+</p>
+<p>
+    At 11 AM, my personal checkbook that I ordered arrived. So I dipped out during lunch, went back to my apartment, filled out a check, went to
+    the dealership, and I got my car! Then I drove that back to the office. I had to catch a lecture on giving feedback. A lot of Lyfts, but at that
+    time of day and at those distances, they were like $6 each. So it wasn't too bad.
+</p>
+<p>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/9-14-26check.jpg">
+        <span></span>
+    </div>
+</p>
+    So yeah, I've got a car now. A Prius. My favorite kind of car. I had a 2008 Toyota Prius growing up, until we parked it at an airport parking lot,
+    and its catalytic converter got stolen. It was old enough that the expensive replacement part to fix it wasn't worth it. But I really like the Prius.
+    Its shape, its handling, its calm nature. And this car is a bit sleeker looking, but it's still got that character. And physical dash buttons. And a
+    stick shifter. So I'm very happy.
+<p>
+<p>
+    Also finally finished the agentic safety training module at work. Finally...
+</p>
+</p>
+<h4> <b>9/13/2026</b> </h4>
+<p>
+    Chilling on a weekend. Eating my pie. I did some steps on this stair machine in my apartment's fitness center. Worked on my site a bit.
+</p>
 <h4> <b>9/12/2026</b> </h4>
 <p>
     Spent this morning at the car dealership. I've got all the paperwork signed and all that. Now I just need to show up Monday morning with a check,
