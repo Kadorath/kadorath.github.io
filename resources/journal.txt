@@ -1,3 +1,8 @@
+<h4> <b>9/15/2026</b> </h4>
+<p>
+    Learing M. And how to do all of this software dev stuff in a professional environment. I have somehow already strained my upper back terribly,
+    and it's just getting worse. Oh well.
+</p>
 <h4> <b>9/14/2026</b> </h4>
 <p>
     I finally own a car!
@@ -53,30 +58,33 @@
     like 8 years of not having a car at all.
 </p>
 <p>
-    [Afterwards: pie]
+    Also, I finally got groceries! I did order them on Amazon... which I know one shouldn't be supporting Amazon. But I'm in a new place that's very car-centric,
+    and I don't have a car. And I need food. I'm going to work every day, and my fridge is so beautiful and neat, but so empty. So I caved. I got some basic produce.
+    And with it, I made a vegetarian chicken pot pie. And by that I mean I made a chicken pot pie, but I subbed the chicken for portobello and lion's mane mushrooms.
+    It was pretty darn good!
 </p>
 <p>
     <div class="image-caption-block">
         <img src="https://kadorath.github.io/resources/images/journal/9-12-26lionsmane.jpg">
-        <span></span>
+        <span>Look at this beautiful mushroom box from this bougie mushroom company.</span>
     </div>
 </p>
 <p>
     <div class="image-caption-block">
         <img src="https://kadorath.github.io/resources/images/journal/9-12-26pie1.jpg">
-        <span></span>
+        <span>The crust did puff up hilariously high. This isn't the most aesthetic pie.</span>
     </div>
 </p>
 <p>
     <div class="image-caption-block">
         <img src="https://kadorath.github.io/resources/images/journal/9-12-26pie2.jpg">
-        <span></span>
+        <span>The filling was very tasty though. Just what I wanted.</span>
     </div>
 </p>
 <p>
     <div class="image-caption-block">
         <img src="https://kadorath.github.io/resources/images/journal/9-12-26slightlyfurry.jpg">
-        <span></span>
+        <span>Also, finally unpacked my suitcase. Got the pint glass from Slightly Furry, taken it for a test drive with the Wisconsin ale.</span>
     </div>
 </p>
 <h4> <b>9/11/2026</b> </h4>
