@@ -1,7 +1,73 @@
+<h4> <b>9/22/2026</b> </h4>
+<p>
+    I am just studying. Some of the exercises I have to do are also practice for doing the two rounds of code review that we'll eventually have to put all our changes through. They
+    had told us that the first round we would be code reviewing our peers, and the second round an experienced software developer would do the code review. And since we were new, likely
+    the comments made in that first round would be fewer than the second, because as newbies we would be less familiar with little style details and things like that. But I got my second exercise
+    all the way through reviews, and my first new hire peer review, he was so meticulous and precise about his code comments. And the second reviewer, the experienced software dev, he just approved
+    it with no comments. Something about that was funny to me. But hey, I mean I went back and forth a couple times with that first reviewer, so in the real context from what I've heard, it should be
+    that first review round where most comments are made and addressed anyways.
+</p>
+<h4> <b>9/21/2026</b> </h4>
+<p>
+    The company I'm working for now does this monthly "staff meeting", where all staff are expected to be at the campus. So scheduling makes sure no one is travelling today, and everyone
+    comes into the giant auditorium to watch a two and a half hour presentation about the goings on of the company. The giant auditorium they most recently built actually is too
+    small for the entire employee base now, so the old auditorium it was built to replace is used as the overflow, and they livestream it on the giant screen there. I accidentally went
+    into that auditorium to watch the presentation, although I'm pretty sure as a new hire I was meant to go to the main auditorium. Oh well.
+</p>
+<p>
+    It was actually pretty interesting. Obviously I'm not supposed to share confidential information, so I'm going to keep it vague. But I did leave the staff meeting feeling pretty
+    good about the company. I'll go through my little list of notable things I jotted down:
+    <ul>
+        <li>To announce that things were beginning, someone at the stage qutoed Sam Reich's <em>Game Changer</em> intro</li>
+        <li>One of the presenters was talking about various anecdotes he had about our competitors and pursuing contracts. He told one story about a bid we made
+        to support a new region of Finland, and the travel he and his team had to take to get out there. We ended up losing that bid to a lower one, but then that contract
+        ended up falling apart because the true price ended up ballooning to three times that bid. And then likewise, he mentioned that thing recently about how Oracle's healthcare
+        software company (which apparently is Cerner, who they acquired), got a government contract to do some things for the US VA. And ten years later, their site is only able to service
+        about 35k people and they're asking for almost triple their original bid of ten billion dollars. The presenter somewhat cheekily and somewhat bitterly remarked that our company
+        services more than that many people regularly in a quarter for just one of our many clients. He also talked about how he went to a DC conference recently, and apparently in DC there's
+        a lot of finger pointing about who is to blame for the healthcare affordability crisis. Some politician implied our company was somehow gouging pharmaceutical companies or something, the notion
+        of which got quite a laugh from the entire crowd. Apparently the vibe in DC right now is that somehow small AI tech startups are the only thing that can save us. But the presenter believes in our
+        grit and commitment to excellence. Which I would cynically find cheesy in most other contexts. But uh, given the alternative, I do believe he is right at the moment. He also apparently went
+        to some Apple conference, and apparently Apple is far more collaborative with our company, in terms of the mission of reaching more patients and helping people out. Don't know if that actually means
+        anything in particular though, just that their people aren't like... the current US administation</li>
+        <li>Our company is apparently part of that whole Anthropic Mythos Project Glasswing thing. Which I guess makes sense. Security leaks matter a lot for us. Which does relate to what my mentor was telling me
+        when he was introducing me to the job. Apparently Mythos has identified many benign security quirks that when chained together in very unusual ways can cause vulnerabilities. So a ton of work R&D has been doing
+        is just patching all of those. The company is committed to securing all of that, which I have noticed. Many software developers I've talked to mentioned most of their task list right now is full of tasks related to
+        fixing security gaps. They gave out a bug fixing sticker and Sour Patch Kids in our staff meeting boxed lunches because of that, as wordplay.</li>
+        <li>Apparently it's US law that companies like this need to have their services open for interoperability, so that patients can access their data with whatever other services they want.
+        Which means ChatGPT's health thing is somehow interfacing with the company's interoperability stuff to provide health advice. Which based on the Q&A, some of the staff here is worried about.
+        Which I mean, yeah. I don't trust Sam Altman with anything. The presenter answered that question by basically saying, "yeah, we legally have to allow that. But that's why we're working so hard on our
+        own in suite AI tools designed with healthcare in mind, so that people don't feel like they need to turn to OpenAI for that kind of service." Which I guess tracks. There's also this new all-in-one AI suite or something
+        that seems like is entering a stable production phase. Called "Ergo", from "Cogito ergo sum", because the company already has something called "Cogito". And this thing is the bridge between thinking and being... or something. I'm
+        pretty sure I can mention the specific name here, because if you look it up there are already press releases about it. As far as tech names go, I kind of like it. I mean, it's pretentious, but they all are. At least it isn't "X".</li>
+        <li>Speaking of, there's both doctor charting software and patient chatbots that the company is doing a lot with. We're really rolling out automatic AI note dictation transcription. Which is the sort of thing I'm skeptical of.
+        But checking the charting is all built into the workflow, and given the context of a clinical doctor seeing so many patients every day, I can see the convenience of being able to ask a patient standard health questions and not have
+        to turn to the computer to write down each answer after every question. And doctor's seem to like. I mean, they've shown only the good reviews. But even in the wild, I've seen people mention online that they like these features, so...
+        the company also played a video of some interviews of visitors to the big client conference they hold, and the healthcare practitioners and administrators mentioned this particular feature as the thing they were most
+        pleased with/excited for, so I guess I can't argue with that. At the very least, based on what I've seen so far, I trust this company more than OpenAI to do this sort of thing.</li>
+        <li>They went through and talked about the new clients we obtained. They highlighted two I found particularly interesting. They were two rural healthcare systems, and the company is providing a version of their software designed recently,
+        which aims to be more accessible to rural systems with less access to financial and technical resources. I thought that sounded great. One of them was a tribal organization, and apparently that organization has a plan
+        that aims to increase the life expectancy of their community by fifteen years within the next fifteen years, which they call "15-in-15". Or at least, that's why I think they called it that? I didn't write it down. As part of that, they're
+        also partnering with a state local academic institution to build an academic facility local to the tribe, with the goal of getting some healthcare professionals from the tribal community itself that can best serve their own community. So that
+        sounds all pretty awesome. And I guess the company I'm working for is now selling them some administrative software to help enable their work. It sounded like they were excited about that.</li>
+        <li>There was a brief anecdote shared related to my team, about a doctor who while on vacation climbing Mount Everest, received a message and responded to it via our secure chat. I mean, he was in the base camp, not at the peak of course.
+        But still. Pretty nifty.<li>
+        <li>There's a part of the presentation which apparently happens every month called "Why We Do What We Do", and I actually felt pretty moved by it. The person giving that section just gave a recent story about how for one of our clients
+        we provided software that flagged people at risk for colon cancer based on various markers that they should come in for an early screening. And that program got I think five thousand extra people to come in for screening, and a little over
+        a thousand had precancerous polyps, and 23 had early stage colon cancer developing which was able to be swiftly treated. Those small scale stories, of a handful of people being genuinely helped, those get me. I mean, it's just 23 people, but that's
+        23 people who identified colon cancer early, a cancer which can be deadly but should be easily treatable as long as you do catch it early. 23 people could fill a classroom! It did make me feel like I wasn't working for an evil company, which is
+        nice.<li>
+    </ul>
+    So, those were my staff meeting thoughts.
+</p>
 <h4> <b>9/20/2026</b> </h4>
 <p>
     Regarding what I said yesterday about my clash game, I looked at our history and apparently we did win all games in a bracket twice before. Both very far apart in time.
-    I do not remember any of that. 
+    I do not remember any of that.
+</p>
+<p>
+    Well, after Pathfinder today, we played another clash game. We did not win the first game. But we did get the next two. That is more classic. I did still a dragon
+    as Yuumi with an autoattack in that game. If I figure out how to easily embed video clips, I will put that hear. But let me just say, it was glorious.
 </p>
 <h4> <b>9/19/2026</b> </h4>
 <p>
