@@ -1,3 +1,33 @@
+<h4> <b>9/26/2026</b> </h4>
+<p>
+    I finished unpacking the entire pod today. And I assembled some furniture, like the TV console. My muscles. My back. I can't believe I got my very first
+    office job, and week one I immediately got back pain. Oh well. At least it's not as bad as it was last week. That would've been unworkable.
+</p>
+<p>
+    Made a shepherd's pie with my lion's mane and shiitake mushrooms, and half of my giant leek, and my potatoes and carrots. I love having a proper kitchen now.\
+    Even if I still don't have a cutting board.
+</p>
+<h4> <b>9/25/2026</b> </h4>
+<p>
+    Was a bit late to work today. I had to facilitate the delivery of my pod!
+</p>
+<p>
+    Today was a very boring study day again. My mentor sent me invites to the weekly team meetings, since it's about time for me to start going to those I guess. So
+    that's neat. When I got home today, I got some work done unloading the pod. Moved some of the boxes in front of the main furniture into my apartment. The moon this
+    evening was quite striking. That dang Harvest Moon. It's peaking tomorrow.
+<h4> <b>9/24/2026</b> </h4>
+<p>
+    Pretty boring day. Started making some new headway into one of my bullethell bosses. Enhanced one of the old spells I've had for a while with some energy. I've been 
+    putting music I find online as the BGM for my in development bosses, and just having the music play while I iterate on them is really helping me get the vibe of their
+    patterns feeling more vibrant to me. Never underestimate having a representative placeholder.
+</p>
+<p>
+    If I can figure out how to put videos in here easily, I might put a video of this pattern here in the future.
+</p>
+<h4> <b>9/23/2026</b> </h4>
+<p>
+    Had a pretty good pesto gnocchi today. More studying. Hurghhhhh
+</p>
 <h4> <b>9/22/2026</b> </h4>
 <p>
     I am just studying. Some of the exercises I have to do are also practice for doing the two rounds of code review that we'll eventually have to put all our changes through. They
