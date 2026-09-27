@@ -7,6 +7,18 @@
     Made a shepherd's pie with my lion's mane and shiitake mushrooms, and half of my giant leek, and my potatoes and carrots. I love having a proper kitchen now.\
     Even if I still don't have a cutting board.
 </p>
+<p>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/9-26-26pie1.jpg">
+        <span>Not the most photogenic pie, but it was pretty good.</span>
+    </div>
+</p>
+<p>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/9-26-26pie2.jpg">
+        <span></span>
+    </div>
+</p>
 <h4> <b>9/25/2026</b> </h4>
 <p>
     Was a bit late to work today. I had to facilitate the delivery of my pod!
