@@ -1,3 +1,29 @@
+<h4> <b>9/30/2026</b> </h4>
+<p>
+    I woke up later than I intended today, and was a bit late... Very gloomy day. But the rain is refreshing. The air is very much like the Pacific Northwest today.
+</p>
+<p>
+    Finally part of Mersault's canto for <em>Limbus Company</em> came out. So I'm playing through that. Buffet's fight was killing me, but I managed to get through, with
+    Mersault getting the final necessary clash and winning all by himself with one hp left. Dawn Office Sinclair with his one turn undying status helped him out right at the
+    end before departing there too.
+</p>
+<h4> <b>9/30/2026</b> </h4>
+<p>
+    My free movement experiments from yesterday were looking good, but there was some collision instability. The Playdate's
+    built in collision responses caused occasional weird behaviour, where when moving away from a wall collider that the player was
+    pressed up against, for a frame it would register that a collision did occur, with a normal pointing away from the wall. It would interpret
+    that seemingly as meaning the player should be on the complete opposite side of the wall, and warp them over. After tinkering with it for a bit,
+    I think I managed to fix it. The collision response tables that are returned have an entry for if the collision started out as an overlapping collision.
+    If that was set to true for a collision, then it was one of these weird behaviour collisions. In that case, I move the player back to their original position,
+    but with their X or Y set to exactly against the bounding box side of the wall. I still use the normal to check which direction movement was in to know
+    which direction to correct in, but then I compare both collider bounding rects to see what side the player really is relative to the wall (i.e., if the player's
+    collider's left bound is lefter than the wall's left bound, the player is to the wall's left, even if the normal indicates that it's a left walking collision, which
+    under normal circumstances would mean they're walking against the right wall). And it all feels great! I'm very excited about this.
+</p>
+<h4> <b>9/29/2026</b> </h4>
+<p>
+    Began experimenting with free movement in <em>Onion Future</em> today. Very promising.
+</p>
 <h4> <b>9/28/2026</b> </h4>
 <p>
     Work. Hm. I had a moment of inspiration today.
