@@ -16,15 +16,6 @@
 </p>
 <h4> <b>10/2/2026</b> </h4>
 <p>
-    Ugh, embarrassed myself in front of my TL. I submitted an exercise he had to review, and I forgot to comment some functions, and I missed an obvious way to optimize some things.
-    Bleh. Also, while explaining my approach I said "players" instead of "users" at one point, which he chuckled at. That wasn't as embarrassing, not in the same way, but still I was
-    getting anxious. Ultimately it's all fine. I mean I'm still in training, so it's to be expected.
-</p>
-<h4> <b>10/1/2026</b> </h4>
-<p>
-    October begins!
-</p>
-<p>
     Finishing the new <em>Limbus Company</em> took me longer than I expected, so I stayed up longer than I should have again. But it was very good. I like the four giants a lot.
     Just four people who are crumbling under the weight of being, expectation, perception, and subjectivity. Relateable in some aspects, although taken to an unhealthy extreme that
     I try to avoid. I was skeptical about the Grand Magasin Sisyphe for a while, but the flavor text on Blackthread's passives really sold it to me. I like the idea of layers. When
@@ -35,7 +26,15 @@
     beings that survived from the previous age to the current are powerful, and maybe beings from the second and third are even more formidable, but then beings from a forth and fifth are some
     kind of lull in power. Something about the idea of a broken progression tickles me.)
 </p>
-<h4> <b>9/30/2026</b> </h4>
+<p>
+    Ugh, also, I embarrassed myself in front of my TL today. I submitted an exercise he had to review, and I forgot to comment some functions, and I missed an obvious way to optimize some things.
+    Bleh. Also, while explaining my approach I said "players" instead of "users" at one point, which he chuckled at. That wasn't as embarrassing, not in the same way, but still I was
+    getting anxious. Ultimately it's all fine. I mean I'm still in training, so it's to be expected.
+</p>
+<h4> <b>10/1/2026</b> </h4>
+<p>
+    October begins!
+</p>
 <p>
     I woke up later than I intended today, and was a bit late... Very gloomy day. But the rain is refreshing. The air is very much like the Pacific Northwest today.
 </p>
@@ -590,7 +589,19 @@
 
 <h4> <b>8/17/2026</b> </h4>
 <p>
-
+    Vatican City. Amen.
+</p>
+<p>
+    Woke up early to catch the shuttle with the subsection of my family that was going to the Vatican City (the usual suspects of those who would wish to wake up early, so more my cousins and then me and my mom and grandmother).
+    It was actually pretty easy waking up early enough today, felt pretty lively in the morning. I did get tired on the shuttle though. It was about an hourish drive.
+</p>
+<p>
+    We were dropped off outside of the wall the Vatican City. I hadn't realized this, but apparently it is a giant walled city. A steep, sloping brick wall surrounds the place. We actually ended up arriving earlier than our entry time, since
+    they did have timed entries to the city for tourists. Spent thirty minutes milling about. There were some souvenier tourist trap stands. One of them was selling magnets that were just a close of the statue of David's cock and balls. Foreshadowing
+    for what was to come.
+</p>
+<p>
+    When our time came and we went through security, it was actually pretty swift. The crowds and lines looks imposing, but everything moved very quickly.
 </p>
 <h4> <b>8/16/2026</b> </h4>
 <p>
