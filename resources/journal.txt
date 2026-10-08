@@ -20,6 +20,9 @@
     collider's left bound is lefter than the wall's left bound, the player is to the wall's left, even if the normal indicates that it's a left walking collision, which
     under normal circumstances would mean they're walking against the right wall). And it all feels great! I'm very excited about this.
 </p>
+<p>
+    Also got my first paycheck today. Paying rent and my car loan and such now. I still need to get car insurance...
+</p>
 <h4> <b>9/29/2026</b> </h4>
 <p>
     Began experimenting with free movement in <em>Onion Future</em> today. Very promising.
