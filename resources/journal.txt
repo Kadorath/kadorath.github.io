@@ -1,3 +1,38 @@
+<h4> <b>10/14/2026</b> </h4>
+<p>
+    Finished eating my risotto. Took a 3 hour nap after work. Then made soup. Received a letter from friend.
+</p>
+<h4> <b>10/13/2026</b> </h4>
+<p>
+    Tuesdays. Very bored and tired.
+</p>
+<h4> <b>10/12/2026</b> </h4>
+<p>
+    Made a risotto. I love having a proper kitchen. I feel like I can do so much. Also that thing I was worried about, I really was just being a freak.
+    I was making it way more stressful than it needed to be, in my head. Still gotta make those fixes though, but I think I'm going to take it at a slower
+    pace, so that I don't explode myself. Turns out he missed one thing, and I missed two, so that shakes out in a manner I roughly expected.
+</p>
+<h4> <b>10/11/2026</b> </h4>
+<p>
+    This Minecraft mod is really dominating my life rn. Also Pathfinder session went well.
+</p>
+<h4> <b>10/10/2026</b> </h4>
+<p>
+    My brother and his partner have started a Minecraft server playing this Minecraft mod pack called "Cube Warper". It's fascinating.
+    You're, like, in a contained cube, and you warp around to numerous dimensions to complete a quest tree. The mods in the modpack have all
+    been deeply modified so none of them really work like they normally do. The crafting recipes are all twisted into each other, so that something
+    from one magic mod (say, Botania) has materials that replace parts of the recipe for some unrelated tech mod (like AE). I don't know if that exact
+    scenario occurs. But it's a very linear, guided experience of Minecraft, but interesting in that it requires you to puzzle-solve in a way the new ways
+    that things chain together. Apparently the creator was inspired by some Factorio mod, which makes sense. It feels very much like Factorio in the way that
+    productions of items have to be set up to progress. Played it for like 10 hours.
+</p>
+<h4> <b>10/9/2026</b> </h4>
+<p>
+    Got TL feedback on a training assignment that I need to work on, and I am stressed. The QA notes he left, I've addressed most of them locally now, but there are
+    some notes that are just baffling to me. Some of the comments do not make sense to me. But I'm not going to respond to the QA note immediately. I'm going to try and figure
+    it out myself over the weekend by just meditating on it. And if I haven't figured it out by the time I meet with him on Monday, I'll just ask him then. It's
+    stressing me out, but also this is all part of the PQA process anyways, so it should be fine. I just want to figure this out though.
+</p>
 <h4> <b>10/4/2026</b> </h4>
 <p>
     My New York Times delivery still hasn't worked out! Supposedly it was delivered at 6 AM today, but I could not find it anywhere. I reported a missing delivery and got a $5 credit back.
