@@ -1,3 +1,33 @@
+<h4> <b>10/17/2026</b> </h4>
+<p>
+    I solved the rotation problem I was thinking about for ages in <em>Classic Trash</em>. Really I kind of already knew what needed to be done, but I'm terrible at even
+    the simplest matrix operations. But I just wanted to make it so that you could pick up and rotate trash items on the grid holding them from any location. I just needed to
+    put the trash shape in an expanded matrix, translate the held point to the center, rotate that matrix, then translate it back and cut off the buffer. Today, I worked on an idea
+    I had for a clicker game where you turn gears. If I actually complete it, I kind of want it to be themed like a toybox that produces an arbitrary resource just called "rotations",
+    and you increasingly consume more and more to provide those rotations. It would be an allusion to datacenters, of course, but that more broadly would be a meditation on production
+    and consumption. Who knows, I do like the idea, so maybe I'll do it. And I'll be putting it on the weakest modern console computer, so it's appropriate.
+</p>
+<p>
+    Anyways, after thinking about that, I was apparently warmed up enough to finally smoothly visualize how to do the matrix and table operations to get the rotations working.
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/10-17-26ClassicTrash-rotatefromanywhere.gif">
+        <span><em>BEHOLD! It works! (ignore the broken vfx animation. I fixed that later)</em></span>
+    </div>
+</p>
+<h4> <b>10/17/2026</b> </h4>
+<p>
+    I've been seeing a lot of rabbits dead on the road while I'm here. Never really seen that before. One rabbit was killed on the road out from my little neighborhood.
+    I pass it on my way home every day. I try to avoid its body when I pass by. I would have thought that a scavenger would take away the corpses after a day or so. But that
+    doesn't seem to be the case here. I've passed the body for about a week and a half now. Every day, it gets a little flatter, a little drier, a little less recognizable as a body.
+    And nothing is coming to get it. No scavengers, no cleaners. Except today it did rain quite hard. When I passed by its resting place, it was either gone, or it had turned into
+    a strange mud. But at that point, it was hard to tell what was what anymore.
+</p>
+<p>
+    A couple days ago, I passed another rabbit nearby, just one left turn from that first rabbit. It had been freshly killed, it seemed. As I approached from one side,
+    and oncoming truck hit it. I saw its red and brown body jerk as it was tossed up by the truck wheel. The sight gave me a violent shudder. It's horrible, these rabbits
+    are killed on the road, and there's not anything around even to eat them. Just death for no reason at all. It makes it feel as though among these corn fields there are only
+    cars and dead rabbits.
+</p>
 <h4> <b>10/16/2026</b> </h4>
 <p>
     I'm feeling really restless and anxious again.
