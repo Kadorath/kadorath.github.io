@@ -1,8 +1,8 @@
-<h4> <b>10/27/2026</b> </h4>
+<h4> <b>10/28/2026</b> </h4>
 <p>
     Pretty normal day.
 </p>
-<h4> <b>10/26/2026</b> </h4>
+<h4> <b>10/27/2026</b> </h4>
 <p>
     Finally took that ominous class I had scheduled for company training, "Corporate Philosophy". It was six hours long in the big auditorium, with the CEO and some side presenters. But despite the length, it was actually paced pretty decently, with well-timed breaks. And getting in at 7 AM did mean that I felt okay leaving earlier in the day, which was nice (although caveat to that I'll get to later).
 </p>
@@ -21,6 +21,10 @@
         <li>The CEO was kind of an awkward person. A little blunt, in that way you would expect from a programmer. During the Q&A, someone asked her "what's your marriage advice", since she's had a long marriage. She laughed, and said she didn't know how to answer that. Her copresenters gave their answers though, and then she finally formulated an answer and said literally the sweetest thing I've ever heard. She just said "well, we like to hold hands whenever we can. Even when we're just walking down the hallway to the kitchen together, we hold hands. So I guess, do that." Literally so sweet.<li>
         <li>And finally, speaking of her being blunt, the big thing: I did not expect her to comment on Israel and Palestine. She brought it up first in relation to how when talking with healthcare workers, their primary concern was always serving as many patients as possible, and they would agree to anything in order to do so. And her example was, apparently the company had been contacted by Israel about potentially working there, and her response was "Yes, if you stop bombing Lebanon." That was kind of a callback to a philosophy she had talked about earlier, about saying "Yes, if" rather than "No, but". And also, she said that directly to us. In a tone that seemed to imply that, like, she was not considering it to be controversial or political at all lol. Like, to her it was just an obvious thing. But that she didn't have any personal grudge against any side. Just like "yeah, if they do this, we'll work with them, if not we won't, that's just how it is. Once they agree to that demand, we'll be happy to work with them without issue." She actually initially said that when they made that demand, the other side had said "yes" immediately. Which seemed to imply we <em>were</em> already working with them. Which seemed to... not line up with the current situation. But then later, when talking about how staying private let us be more flexible with short-term pricing, she used the example of how we served hospitals in Lebanon, and when the directors of those facilities were sending the company pictures of their facilities levelled to the ground, they were able to pause billing to them. Because they didn't have to justify next quarter to a board of shareholders why they did that. And then in the Q&A someone asked her pointblank what the deal was, and the way she talked it about it, it sounded like the negotation with Israel happened recently, so basically the company is just in beginning talks, and that's the current line they set in order to move forward with any development. So quite interesting. Ultimately, hard to know exactly what her exact stance is, since she didn't really directly say it, and the way she talked it seemed like she didn't realize that obviously since she had brought it up we all desperately wanted to know lol. So if anyone is connecting what company I work for, and is planning on using this for any public purpose, first of all, please don't, this is all off the record ramblings, and secondly, I think it was pretty much impossible to draw any true conclusions. It was just interesting, and I'm noting it for my future memory.</li>
     </ul>
+</p>
+<h4> <b>10/26/2026</b> </h4>
+<p>
+    Apparently I missed this day. I'm backfilling my journal entries rn. I think this was just me fixing the Claude PQA notes my training exercise reviewer left for me lol.
 </p>
 <h4> <b>10/25/2026</b> </h4>
 <p>
