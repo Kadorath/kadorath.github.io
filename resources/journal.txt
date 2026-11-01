@@ -830,7 +830,7 @@
 <p>
     Our group had been unable to get general admission tickets into the Vatican City, because it is quite popular (we got there early in the morning, which was perfect, but by noonish, when we left it was becoming unwalkably dense). We managed to pay a little extra to get a special admission ticket to a place called the Cabinet of Masks, which came with general admission as well. It was this smaller side room that a guard opened up some rope barriers to let us into. There was a hall with a giant wall that had been painted over red with some inscriptions, and then another roped off hallway that appeared to be largely marble bathtubs. Then the actual Cabinet of Masks itself was this small chamber that had its namesake floor art in the center, and statues of the only nude female forms we ended up seeing at the Vatican. They were of Aphrodite mostly. Not entirely sure why the place was special admission separate from the rest of the city. Maybe literally just because it had naked female statues? Not sure...
     <div class="image-caption-block">
-        <img src="https://kadorath.github.io/resources/images/journal/8-17-26cabinetofmasks.webp">
+        <img src="https://kadorath.github.io/resources/images/journal/8-17-26cabinetofmasks.jpg">
         <span>my family took some better photos around here than I did</span>
     </div>
 </p>
