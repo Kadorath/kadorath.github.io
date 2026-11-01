@@ -45,6 +45,10 @@
     </ul>
     I was leaning forward in my seat during the third act. Also I did like Dmitri a lot, but what suprises here?
 </p>
+<p>
+    Then, in the evening, short RotOO session. One of our players was out, and one overslept. We were already delayed because I was going to be late and one other would be late. So we just replayed last session's combat to see how it would have played out
+    differently without our high utility mobility party member. It went pretty smoothly actually. We had to be more rat-like with our movement.
+</p>
 <h4> <b>10/28/2026</b> </h4>
 <p>
     Pretty normal day.
@@ -184,6 +188,10 @@
     some notes that are just baffling to me. Some of the comments do not make sense to me. But I'm not going to respond to the QA note immediately. I'm going to try and figure
     it out myself over the weekend by just meditating on it. And if I haven't figured it out by the time I meet with him on Monday, I'll just ask him then. It's
     stressing me out, but also this is all part of the PQA process anyways, so it should be fine. I just want to figure this out though.
+</p>
+<h4> <b>10/5/2026</b> </h4>
+<p>
+    TODO: Back fill this week
 </p>
 <h4> <b>10/4/2026</b> </h4>
 <p>
@@ -789,6 +797,16 @@
 </p>
 <p>
     When our time came and we went through security, it was actually pretty swift. The crowds and lines looks imposing, but everything moved very quickly.
+</p>
+<p>
+    The places we went in the Vatican City kind of just felt like housing spaces for each pope's collection of artwork and gifts. It was all organized, of course, but I would describe it as a hoard. A hoard of mostly statues of naked men.
+    I was feeling... pretty gay walking around there. I mean, it was quite the collection of dedicated study of the human form, I'll tell you what. But there was a ton of art all around that we saw. Here are some pics!
+</p>
+<p>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/8-17-26deer.png">
+        <span>This deer was in the visitor passthrough lobby area.</span>
+    </div>
 </p>
 <h4> <b>8/16/2026</b> </h4>
 <p>
