@@ -807,6 +807,22 @@
         <img src="https://kadorath.github.io/resources/images/journal/8-17-26deer.png">
         <span>This deer was in the visitor passthrough lobby area.</span>
     </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/8-17-26dog.png">
+        <span>This dog was in an inner exhibit.</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/8-17-26floor1.png">
+        <span>And in the same room as the dog, this was roped off in the center.</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/8-17-26hallofmaps.png">
+        <span>Apparently one pope had a project to have giant maps of Italy in a hall. I didn't really take a picture of any of the maps though...</span>
+    </div>
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/8-17-26maptroval.png">
+        <span>But I did take this closeup pic of this troval.</span>
+    </div>
 </p>
 <h4> <b>8/16/2026</b> </h4>
 <p>
@@ -821,13 +837,13 @@
     location for the woman at the counter (who seemed like the owner). A Corsican patisserie looking out at the sea in a place with
     a healthy amount of tourist traffic? Look at these:
     <div class="image-caption-block">
-        <img src="https://kadorath.github.io/resources/images/journal/[QUADRUDESERTS].png">
-        <span>not sure what's up with this. but my current shirt is developing inexplicable purple stains all over, so I need something, and this is funny.</span>
+        <img src="https://kadorath.github.io/resources/images/journal/8-16-26quadruview.jpg">
+        <span>so blue</span>
     </div>
     I got an espresso and one of the fig tartlets. My mom got a double shot of espresso. It was good. And cool. Very pleasant on this hot day.
     <div class="image-caption-block">
-        <img src="https://kadorath.github.io/resources/images/journal/[FIGTARTLET].png">
-        <span>not sure what's up with this. but my current shirt is developing inexplicable purple stains all over, so I need something, and this is funny.</span>
+        <img src="https://kadorath.github.io/resources/images/journal/8-16-26quadrufigtartlet.png">
+        <span>pretty good. very cool for this hot day. did give my mouth a slight allergic reaction</span>
     </div>
 </p>
 <p>
