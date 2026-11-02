@@ -189,10 +189,38 @@
     it out myself over the weekend by just meditating on it. And if I haven't figured it out by the time I meet with him on Monday, I'll just ask him then. It's
     stressing me out, but also this is all part of the PQA process anyways, so it should be fine. I just want to figure this out though.
 </p>
+<p>
+    I did get my new earbuds today though! And they work really well. They're in the same ecosystem as my phone, so they connect really quickly. Much quicker than my previous earbuds. Or maybe that's just because they're not super cheap. Either way, they also integrate with this app, which even shows me the battery life of the case. And I set up a sound profile. They have this testing program you can go through that plays beeps at varying volumes and pitches in both ears that you say if you can hear or not, and it sets up a custom sound profile for you. I went through that to see how it did, and it ended up setting up a profile that actually sounded pretty good. When I listened to this piano cover I've been listening to recently and switched the profile on and off, the difference was quite noticeable, and my custom profile sounded way cleaner to my ear. So kudos to Nothing, that feature worked pretty darn well imo.
+</p>
+<h4> <b>10/8/2026</b> </h4>
+<p>
+    Got my new keyboard today! It's pretty cool. My computer's wireless connection has always been super terrible though, so I'm a bit worried about the keyboard's ability to connect wirelessly. It's very unreliable, and seems to drop connection quite a bit. But the keyboard itself feels really nice. I washed my keycaps and swapped them onto the new board.
+</p>
+<p>
+    I did accidentally drop one of my keycaps down the sink drain. The numpad 1. I took off the ubend to look for it, but couldn't find it. So I thought it was gone. Then, later while I was cooking, I turned on the garbage disposal. You know, I haven't had a garbage disposal for a while, so I kind of wasn't aware how they affected the flow of items through the sink plumbing. But I should have realized. R.I.P. numpad 1. You will be missed, since my keycap set has no real replacement for you.
+</p>
+<h4> <b>10/7/2026</b> </h4>
+<p>
+    There's a feature on the Google keyboard that lets you write in one language and autotranslate it to another? That's pretty nifty, found it today. Maybe I should practice Chinese like that, but only allowing myself to type in Chinese to communicate in English.
+</p>
+<p>
+    Been reading <em>Fear and Trembling</em> and <em>The 7 Habits of Highly Effective People</em> alternating whenever I take a break from my trainings. I think I might be microwaving my brain. I do think I'm starting to get the gist of <em>Fear and Trembling</em>. It's all about understanding what faith <em>is</em>, starting from the foundation that we except that faith is something that exists, and that Abraham exemplified faith as the "father of faith" when he brought Issac up the hill via the contradictions of his convictions and the way we can (or can't, really) justify them to our own consciences. I think.
+</p>
+<h4> <b>10/6/2026</b> </h4>
+<p>
+    Not much to say about today.
+</p>
 <h4> <b>10/5/2026</b> </h4>
 <p>
-    TODO: Back fill this week
+    Cleared up my Typescript exam for work training today. Everything is going pretty smoothly.
 </p>
+<p>
+    I had broken my keyboard this Saturday by accidentally dropping it from my couch directly onto the USB-C connection, and it broke the port. I tried to poke around soldering it back on, and oh boy. I have royally f*cked it up. I mean, it was going to be kind of a finnicky operation anyways. But while just cleaning the old solder off the traces, the copper ribbon wick I was using got stuck, and I got a bit impatient while heating it and ended up just ripping a bunch of the traces off the board... so oops. I should have just got a heat gun before I tried this.
+</p>
+<p>
+    Bit distressed by this. But I looked back at my email receips, and realized I've had this keyboard for many years by this point. And it wasn't actually as expensive as I remembered. The more expensive part were the keycaps my brother gifted me, and I can reuse those, of course. So I got a new keyboard. One of the company's newer models, with wireless and bluetooth connection too. Time for an upgrade. While I was at it, I also finally got the wireless earbuds I'd been eyeing, from Nothing. The ones with that silly in case mic you can use like a Walky-Talky. I'd only ever had pre-owned earbuds or cheap $30 buck wireless earbuds. So I figured, now that I have an income, it's worth investing in.
+</p>
+TODO: Back fill this week
 <h4> <b>10/4/2026</b> </h4>
 <p>
     My New York Times delivery still hasn't worked out! Supposedly it was delivered at 6 AM today, but I could not find it anywhere. I reported a missing delivery and got a $5 credit back.
