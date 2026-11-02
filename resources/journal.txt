@@ -63,6 +63,9 @@
 <p>
     I applied to the shelter I mentioend previously to adopt a cat. We'll see what they say. My final training checkoffs and the edits I've been making have finally all been checked off and approved! I feel hugely relieved. Now I just need to finish this cloud and mobile training stuff. According to my team lead I might start getting actual work soon. Finally!
 </p>
+<p>
+    Also, I ordered a bunch of clothes from some more gender agnostic brands when I got my desk and the rug. And I finally got some pants in the mail! Turns out I was a bit too paranoid about the sizes being too small, because... you know, men's sizes, women's sizes, androgynous sizes, I was kind of just guessing. And I don't have a tape measure. The waists of two of the pants mostly fits. But the legs are just too long. But it seems like I can just exchange them for free for a smaller size? And the smaller size is much cheaper for one of them. So I'm gambling on that. For some reason the size number drops two just for this size breakpoint. But looking at the size chart, it seems fine? I'm hoping the legs will be properly sized this time, and that the waist won't choke me. But... we'll see. I do like the pants though. I mean, the jeans I got are pretty nice. For some reason they have the designer's mugshot on the waistband? I guess that's her whole thing? Also there are drawstrings at the leg cuffs that I have to tie like shoes, but they're kind of quirky so I don't hate it. I mean, it's interesting. It's nice to have pants that don't have holes in them. And it's nice to have jeans that don't touch my legs too much. More pants that I feel comfortable wearing. Yay!
+</p>
 <h4> <b>10/29/2026</b> </h4>
 <p>
     Fixing PQA notes for the training stuff. Started doing the cloud training.
