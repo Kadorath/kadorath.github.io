@@ -1,3 +1,35 @@
+<h4> <b>11/7/2026</b> </h4>
+<p>
+    My newspaper was sitting on the walkway to front entrance! A great success. And it's great that I got this edition successfully, because it's the US midterm blue wave edition, which I wanted for collection purposes.
+</p>
+<h4> <b>11/7/2026</b> </h4>
+<p>
+    Went to the cat shelter in the morning. But the cat I was interested in, Starry, she'd already been adopted! But that's a good thing. The lady at the counter said to me that apparently 3 people had recently expressed interest in adopting her. I saw her briefly in one of the visiting rooms, with an 'adoption processing' tag on the door. She went from being a 'forget-me-not' to apparently being quite competitive to adopt, which is pretty cool. The lady at the counter said she didn't know what was going on. The shelter did seem quite popular. I looked around at their other cats. They were cool. Some were very active and interested in people, and some were very standoffish. None of them felt like quite the right cat for me though, so I didn't end up adopting any yet. But I'll be keeping an eye out.
+</p>
+<p>
+    There was one other black cat in one of the visting rooms, Vermie. He was sitting on a ledge when I was looking at him, and he seemed very friendly. He tried to climb onto my shoulder twice. The first time he did, he ended up retreating, but slipped and flopped against the edge of the counter. It seemed a bit painful, but he looked fine, so.
+    I left the room to look at the other cats, and maybe five minutes later overheard some other person talking with a volunteer about how they were going to adopt Vermie. So good for him! That was very quick.
+</p>
+<p>
+    Afterwards I got my Costco membership card. The picture I ended up getting taken for my card bothers me a bit. My hair looks so flat, and my head looks so tall. Oh well. I got stocked up on some food, so that's good. Got some wine from Costco.
+</p>
+<p>
+    Then I went home and cooked some dinner and played <em>Deadlock</em>.
+</p>
+<p>
+    Oh yeah, also forgot to mention: the day before, because I was stressed but also relaxed in weird measures, I went to Culvers and got some cheese curds and onion rings. Those knocked me right out. I didn't even brush my teeth. I ended up falling asleep at like 5 or 6, then waking up at 4 AM. I thought I had napped for like three hours. I mean it was all single digit numbers on my phone, and the sun sets early and hadn't risen yet, so it didn't look like the time of night had changed outside. But no, I had just fully slept through the night. So I also got work on <em>Onion Future</em> done. Continued working on the maps, reorganized the props data files so they're not just loaded from one giant file, and generally just got things refined. So that was great! I'm having fun with it.
+</p>
+<h4> <b>11/6/2026</b> </h4>
+<p>
+    Agh! I'm very stressed. My boss called me into a meeting with him and his boss. Well, I got like forwarded the meeting email. The agenda in the email was something about high-level direction and initiative, and like deciding on the naming of things, so I figured I was just there to learn. And I think I was supposed to be. But then one of the three required other people for the meeting cancelled last minute. So it was a bit awkward. They decided they did in fact still need to have the meeting, but then my boss suddenly said to me "hey, why don't you reschedule the meeting, and just reframe the agenda to be related to what you're doing and figuring out what potential directions might affect your work". Which... firstly terrifying, just the idea of setting up and I guess... facilitating a meeting? And also, he's only mentioned the general topic of my project to me. And it's related to a topic that I don't actually really know anything about yet. And I don't know anything about how it works in the actual codebase. I don't know anything! So I tried to play it smoothly, but I did need to ask some questions. And afterwards I pinged him to ask some more questions. I gathered afterwards that when he made that suggestion, he didn't mean "reschedule the meeting right after this call ends", but more like, "reschedule this meeting after your project kickoff meeting early next week"? But I'm not sure... hopefully it's fine. I still have no idea what I'm doing, but hopefully I'll figure it out quick. The idea of handling this meeting is still terrifying to me though, because I feel like I don't know anyone or anything yet.
+</p>
+<p>
+    I got the horse rug set up when I got home. Really sections off the living room from the connected kitchen area.
+    <div class="image-caption-block">
+        <img src="https://kadorath.github.io/resources/images/journal/11-7-26horserug.jpg">
+        <span>The horse rug. I did take this picture the next day, hence the sun.</span>
+    </div>
+</p>
 <h4> <b>11/5/2026</b> </h4>
 <p>
     Got my cool horse rug and the pants I ended up exchanging a couple days ago. Very cool
