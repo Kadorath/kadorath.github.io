@@ -1,3 +1,7 @@
+<h4> <b>11/12/2026</b> </h4>
+<p>
+    Feeling good today. Talked with my TL about some planning things, timelines seem far more generous than I thought. I was in a meeting, and I felt like I actually contributed to the ongoing project. We're doing it.
+</p>
 <h4> <b>11/11/2026</b> </h4>
 <p>
     I've been introduced to my project. It seems... like it'll be far more of an undertaking than I expected. But I'm just doing initial investigations, so too soon to say. I gotta organize things though.
@@ -44,7 +48,7 @@
 <p>
     I got the horse rug set up when I got home. Really sections off the living room from the connected kitchen area.
     <div class="image-caption-block">
-        <img src="https://kadorath.github.io/resources/images/journal/11-7-26horserug.jpg">
+        <img src="https://kadorath.github.io/resources/images/journal/11-6-26horserug.jpg">
         <span>The horse rug. I did take this picture the next day, hence the sun.</span>
     </div>
 </p>
