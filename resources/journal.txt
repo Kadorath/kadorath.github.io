@@ -1,3 +1,10 @@
+<h4> <b>11/15/2026</b> </h4>
+<p>
+    I made a tool that can take my artists Aseprite files and extract position data of each sprite she's placed, then normalize it to our tile positions, and automate the process of creating the prop data for the maps in <em>Onion Future</em>. This will be a MASSIVE improvement to our pipeline!!! I'm very excited, and thrilled that it works.
+</p>
+<p>
+    In Pathfinder today, we also concluded a major arc. We took down our current nemesis in an extremely close battle with a very meticulous escape. We just barely got out with zero casualties, and it felt like a miracle. And things wrapped up, and it was nice. Hoorah!
+</p>
 <h4> <b>11/12/2026</b> </h4>
 <p>
     Feeling good today. Talked with my TL about some planning things, timelines seem far more generous than I thought. I was in a meeting, and I felt like I actually contributed to the ongoing project. We're doing it.
