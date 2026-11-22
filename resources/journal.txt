@@ -976,6 +976,10 @@ TODO: Back fill this week
 <p>
     Still waking up early in the morning. My illness feels almost completely gone. Almost.
 </p>
+<h4> <b>8/20/2026</b> </h4>
+<p>
+    The ship stopped in a bay off the city of Kotor, Montenegro. As I alluded to in the entry the day before, my sickness was beginning to progress. But I still felt okay for this day. To go to shore at this particular location, the cruise was running scheduled boats on and off the ship to the shore. I looked up what there was to do in Kotor, because we didn't really have any plans. And I saw that, shockingly, Kotor had a cathedral called the Cathedral of Saint Tryphon. And, looking at the map, it was extremely close. In fact, after discussing my plans to try and get to the cathedral, my cousins informed me that the place the shuttle boat dropped us off was incredibly close. Basically less than a kilometer. Saint Tryphon is a real life saint, obviously. But he was also adapted into a character in <em>Cultist Simulator</em>. So I had to make a pilgrammage.
+</p>
 <h4> <b>8/19/2026</b> </h4>
 <p>
     Today the ship landed in Bari. Today was... a day. We were celebrating my maternal grandmother's birthday today. But she is quite youthful. The second generation didn't want to make a big deal about how it was her birthday, per say, if you catch my meaning. But anyways... well, my cousins family sometimes they... Well, they put in work to plan something for us to do, which was great. But they did end up uh... planning something that perhaps our family was not fully suited to.
@@ -1038,7 +1042,7 @@ TODO: Back fill this week
 <p>
     If I recall correctly, this day was purely transit, towards Bari. We tried to use our second fancy meal credit to go back to that good restauarant, the Pinnacle. I think we couldn't for some reason, but we ended up just committing to it anyways. Here are some interesting dishes from that.
     <div class="image-caption-block">
-        <img src="https://kadorath.github.io/resources/images/journal/8-18-26tomato.jpg">
+        <img src="https://kadorath.github.io/resources/images/journal/8-18-26tomatos.jpg">
         <span>just tomatoes. actually pretty good, if you've learned to appreciate tomatoes</span>
     </div>
     <div class="image-caption-block">
@@ -1046,7 +1050,7 @@ TODO: Back fill this week
         <span>Obviously didn't eat this hanging bacon. But it is quite a sight.</span>
     </div>
     <div class="image-caption-block">
-        <img src="https://kadorath.github.io/resources/images/journal/8-18-26whitefood.jpg">
+        <img src="https://kadorath.github.io/resources/images/journal/8-18-26whitefoods.jpg">
         <span>This is not from that lunch. But in the evening at the cafeteria they had these great battered fried mushrooms, and I had that and a lot of other white food.</span>
     </div>
 </p>
@@ -1174,6 +1178,12 @@ TODO: Back fill this week
 <p>
     Another at sea day. Really not doing much. Looked around at the duty free shops they have on the second floor. Did you know that Glock makes watches? I did not know that. Their website
     describes their watches as having the same qualities their brand professes, such as 'quality', 'precision', 'durability'. I found that very funny.
+</p>
+<p>
+    There was some scheduled Mahjong meetup on the cruise. Turns out my sister knows how to play Mahjong. She taught me how to play. I'm been getting really into it. I really like it, and I like the tiles. The rules have a lot to memorize. Later in the day after I had left the table, my uncle texted me a picture of my younger cousin's Mahjong set asking me to score it. That was good practice. There was this older lady we played with while we were learning, she was fun. A lot of people would come to our table to see if there was an open spot, but then realize we were playing Chinese Mahjong instead of American Mahjong, and decide to move on.
+</p>
+<p>
+    (note from the future in November: I don't really mention it from this point on, but I kept playing Mahjong in my down time.)
 </p>
 <h4> <b>8/14/2026</b> </h4>
 <p>
